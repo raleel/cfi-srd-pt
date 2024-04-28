@@ -1,15 +1,15 @@
-# Chapter 1: Characters
+# Capítulo 1: Personagens
 
-The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
+Um personagem é definido por uma série de elementos diferentes que descrevem suas capacidades. Estes elementos são:
 
-- Characteristics: such as Strength or Charisma
-- Attributes: things like Height or Movement
-- Skills: expertise in fundamental abilities
+- Características: como Força ou Carisma;
+- Atributos: coisas como Altura e Movimento;
+- Perícias: especializações em habilidades fundamentais.
 
-Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
+A maioria destes elementos são descritos na forma de números e, alguns são dependentes ou calculadas a partir de outros. O que cada elemento significa e como eles são determinados, estão descritos nas seções a seguir.
 
 ---
-## Step 1: Character Concept
+## Passo 1: Conceito do Personagem
 
 A good place to start is to have some idea of what sort of character you want to play; a hardened fighter for example, or a cunning rogue. Your character concept does not need to be elaborate at this stage; simply an idea that will help guide certain choices such as Race and Class. A few character ideas are listed to provoke your imagination.
 
@@ -19,7 +19,7 @@ A good place to start is to have some idea of what sort of character you want to
 - Pious dwarf cleric
 
 ---
-## Step 2: Characteristics
+## Passo 2: Características
 
 Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Classic Fantasy Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
 
@@ -33,36 +33,36 @@ Everyone is defined by seven Characteristics which tell you something about your
 
 Before calculating the Characteristics, the following section explains what each represents.
 
-#### Strength (STR)
+#### Força (FOR)
 
 STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the [Damage Modifier](0001_Characters.md?id=damage-modifier) (see the [Attributes](0001_Characters.md?id=step-3-attributes) section below). If a character is reduced to zero STR they lack the ability to move or lift objects.
 
-#### Constitution (CON)
+#### Constituição (CON)
 
 CON is a measure of health and hardiness. CON is a component in determining [Hit Points](0001_Characters.md?id=hit-points) and [Healing Rate](0001_Characters.md?id=healing-rate) (see below). If CON falls to zero for any reason the character dies.
 
-#### Size (SIZ)
+#### Tamanho (TAM)
 
 SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure [Hit Points](0001_Characters.md?id=hit-points), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
-#### Dexterity (DEX)
+#### Destreza (DES)
 
 Agility, balance, and reflexes are measured by DEX. It is an important aspect of [Initiative](0001_Characters.md?id=initiative). If a character is reduced to zero DEX, they suffer functional paralysis.
 
-#### Intelligence (INT)
+#### Inteligência (INT)
 
 INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating [Initiative](0001_Characters.md?id=initiative). If INT is reduced to zero, the character becomes completely mindless.
 
-#### Power (POW)
+#### Poder (POD)
 
 POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
 
-####	 Charisma (CHA)
+#### Carisma (CAR)
 
 Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ---
-### Calculating Characteristics
+### Calculando Características
 
 Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
 
@@ -79,7 +79,7 @@ Games Masters are free to come up with their own methods or point values as desi
 
 The following table summarizes the information needed for each of the above methods. The dice ranges are used in either of the Dice Roll methods, while numbers in parentheses are used in Points Build.
 
-##### Racial Characteristics Table
+##### Tabela de Características Raciais
 
 | Race | Dwarf | Elf | Gnome |
 | --- | --- | --- | --- |
@@ -102,21 +102,21 @@ The following table summarizes the information needed for each of the above meth
 | CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
-## Step 3: Attributes
+## Passo 3: Atributos
 
 Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
 
-#### Action Points
+#### Pontos de Ação
 
 How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables under [Classes](0003_Classes.md) for details.
 
-#### Damage Modifier
+#### Modificador de Dano
 
 The bonus amount of damage a character inflicts when they physically strike or apply force. It is generally used in combat situations but can also be utilized when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table:
 
-##### Damage Modifier Table
+##### Tabela de Modificador de Dano
 
 | STR+SIZ | Damage Modifier |
 | :-: | :-: |
@@ -140,13 +140,13 @@ Add together STR and SIZ and consult the Damage Modifier table:
 | 121–130 | +2d10+1d4 |
 | Each 10 points | Continue Progression |
 
-#### Experience Modifier
+#### Modificador de Experiência
 
 Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0007_Game_System.md?id=experience-rolls) section.
 
 A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
 
-##### Experience Modifier Table
+##### Tabela de Modificador de Experiência
 
 | CHA | Exp. Modifier |
 | :-: | :-: |
@@ -155,11 +155,11 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 | 13-18 | +1 |
 | Each 6 points | +1 |
 
-#### Healing Rate
+#### Taxa de Cura
 
 After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
-##### Healing Rate Table
+##### Tabela de Taxa de Cura
 
 | CON | Healing Rate |
 | :-: | :-: |
@@ -168,13 +168,13 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 | 13-18 | 3 |
 | Each 6 points | +1 |
 
-#### Initiative
+#### Iniciativa
 
 The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
 
 Initiative is the average of the DEX and INT Characteristics.
 
-#### Luck Points
+#### Pontos de Sorte
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
@@ -184,7 +184,7 @@ Luck Points represent that strange force differentiating adventuring heroes from
 
 Exactly how they are used, and when, is described in the section, [Using Luck Points](0007_Game_System.md?id=using-luck-points). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
-##### Luck Points Table
+##### Tabela de Pontos de Sorte
 
 | POW | Luck Points |
 | :-: | :-: |
@@ -197,17 +197,17 @@ _\* Humans start with one additional Luck Point over and above that shown above.
 
 _\*\* All characters gain an additional Luck Point as each new Rank is attained._
 
-#### Magic Points
+#### Pontos de Magia
 
 Mystical abilities and spells cast in _Classic Fantasy Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
 For those who can utilize such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points they have exhausted their ability to cast any spells until Magic Points are replenished.
 
-#### Movement Rate
+#### Taxa de Movimento
 
 Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on [Movement](0008_Combat.md?id=movement) offers more detail.
 
-##### Movement Rate by Race Table
+##### Tabela de Taxa de Movimento por Raça
 
 | Species | Feet | Metres |
 | :-- | :-: | :-: |
@@ -219,7 +219,7 @@ Every creature has a Movement Rate – several feet that can be traveled during 
 | Halfling | 15 | 4.5 |
 | Human | 20 | 6 |
 
-#### Hit Points
+#### Pontos de Vida
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven; the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
@@ -227,7 +227,7 @@ Some creatures, such as monsters or different classes of animal, by their very n
 
 To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table. All characters gain 1 additional Hit Point in each location at Rank 2 and 4.
 
-##### Hit Points per Location Table
+##### Tabela de Pontos de Vida por Local
 
 | Location | CON+SIZ |  |  |  |  |  |  |  |  |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -239,7 +239,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 | Each Leg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 ---
-## Step 4: Skills
+## Passo 4: Perícias
 
 By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the [Skills](0005_Skills.md) chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
 
@@ -249,7 +249,7 @@ The Standard Skills Table shows how the basic values are calculated, along with 
 
 Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
 
-##### Standard Skills Table
+##### Tabela de Perícias Comuns
 
 | Skill | Basic Percentage |
 | :-- | :-: |
@@ -279,7 +279,7 @@ Note that the basic percentages for some skills will be modified by both culture
 _\* Includes a static bonus of +40% for both Customs and the character's Native Tongue (Common for humans). Each demi-human race may speak the Common Tongue at +40%, in addition to their Native Tongue at +40%, as detailed in their respective write-ups._
 
 ---
-## Step 5: Race/Culture
+## Passo 5: Raça/Cultura
 
 In _Classic Fantasy Imperative_, players may typically choose from one of six races for their characters: Human, or one of the demi-human races (Dwarf, Elf, Gnome, Half-Elf, Half-Orc, or Halfling). If human, they must further define their character through one of three cultural backgrounds; Barbarian, Civilized, and Nomadic. For humans. culture determines the kind of society in which the character was raised, and so prescribes certain outlooks and philosophies they might have. More practically, culture helps define the values of the various skills that shape your character's overall capabilities. The demi-human races generally come from a racial culture which is much more stereotypical of the race in general. See [Chapter 2](0002_Culture_and_Races.md)'s race and culture write-ups for more information.
 
