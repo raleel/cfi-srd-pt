@@ -11,116 +11,116 @@ A maioria destes elementos são descritos na forma de números e, alguns são de
 ---
 ## Passo 1: Conceito do Personagem
 
-A good place to start is to have some idea of what sort of character you want to play; a hardened fighter for example, or a cunning rogue. Your character concept does not need to be elaborate at this stage; simply an idea that will help guide certain choices such as Race and Class. A few character ideas are listed to provoke your imagination.
+Um bom ponto de partida é ter alguma ideia do tipo de personagem que você deseja interpretar; por exemplo, um lutador experiente ou um trapaceiro astuto. Seu conceito de personagem não precisa ser elaborado neste estágio; basta ter uma ideia que ajudará a orientar certas escolhas, como Raça e Classe. Algumas ideias de personagens estão listadas para estimular sua imaginação:
 
-- Young, naïve magic-user
-- Bad-tempered half-orc fighter
-- Overconfident halfling rogue
-- Pious dwarf cleric
+- Usuário de Magia Jovem e Ingênuo
+- Lutador Meio-Orc Mal-Humorado
+- Trapaceiro Meio-Halfling Superconfiante
+- Clérigo Anão Piedoso
 
 ---
 ## Passo 2: Características
 
-Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Classic Fantasy Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
+Todos são definidos por sete Características que revelam algo sobre o seu personagem: o quão forte ou rápido ele é, o quão inteligente ou saudável. As Características são o cerne de cada personagem do _Classic Fantasy Imperative_ e servem de base para a maioria dos outros elementos, como Atributos e Perícias. As sete Características são:
 
-- Strength (STR)
-- Constitution (CON)
-- Size (SIZ)
-- Dexterity (DEX)
-- Intelligence (INT)
-- Power (POW)
-- Charisma (CHA)
+- Força (FOR)
+- Constituição (CON)
+- Tamanho (TAM)
+- Destreza (DES)
+- Inteligência (INT)
+- Poder (POD)
+- Carisma (CAR)
 
-Before calculating the Characteristics, the following section explains what each represents.
+Antes de calcular as Características, a seção a seguir explica o que cada uma representa.
 
 #### Força (FOR)
 
-STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the [Damage Modifier](0001_Characters.md?id=damage-modifier) (see the [Attributes](0001_Characters.md?id=step-3-attributes) section below). If a character is reduced to zero STR they lack the ability to move or lift objects.
+FOR (Força) representa a força física: o quanto alguém pode levantar, o quão forte pode bater, entre outros. FOR é um componente do [Modificador de Dano](0001_Characters.md?id=damage-modifier) (veja a seção de [Atributos](0001_Characters.md?id=step-3-attributes) abaixo). Se um personagem tiver FOR reduzida a zero, ele perde a capacidade de se mover ou levantar objetos.
 
 #### Constituição (CON)
 
-CON is a measure of health and hardiness. CON is a component in determining [Hit Points](0001_Characters.md?id=hit-points) and [Healing Rate](0001_Characters.md?id=healing-rate) (see below). If CON falls to zero for any reason the character dies.
+CON (Constituição) é uma medida de saúde e robustez. CON é usado para determinar os [Pontos de Vida](0001_Characters.md?id=hit-points) e a [Taxa de Cura](0001_Characters.md?id=healing-rate) (veja abaixo). Se o CON chegar a zero por qualquer motivo, o personagem morre.
 
 #### Tamanho (TAM)
 
-SIZ measures mass and helps indicate Height and Weight. SIZ is used to help figure [Hit Points](0001_Characters.md?id=hit-points), as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
+TAM (Tamanho) mede a massa e ajuda a indicar altura e peso. TAM é usado para calcular os [Pontos de Vida](0001_Characters.md?id=hit-points), pois criaturas maiores e mais pesadas tendem a ter maior resistência contra danos. TAM também pode ser usado para determinar o Modificador de Dano de um personagem, já que a massa aumenta a força de um golpe.
 
 #### Destreza (DES)
 
-Agility, balance, and reflexes are measured by DEX. It is an important aspect of [Initiative](0001_Characters.md?id=initiative). If a character is reduced to zero DEX, they suffer functional paralysis.
+DES (Destreza) mede agilidade, equilíbrio e reflexos. É um aspecto importante da [Iniciativa](0001_Characters.md?id=initiative). Se um personagem tiver DES reduzida a zero, ele sofre paralisia funcional.
 
 #### Inteligência (INT)
 
-INT is a measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating [Initiative](0001_Characters.md?id=initiative). If INT is reduced to zero, the character becomes completely mindless.
+INT (Inteligência) é uma medida da capacidade cognitiva. Aqueles com um escore de INT mais baixo não são necessariamente estúpidos, mas provavelmente têm limitações em como podem empregar sua criatividade. INT é um fator no cálculo da [Iniciativa](0001_Characters.md?id=initiative). Se a INT chegar a zero, o personagem se torna completamente sem mente.
 
 #### Poder (POD)
 
-POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's [Magic Points](0001_Characters.md?id=magic-points) and [Luck Points](0001_Characters.md?id=luck-points). If a character's POW ever drops to zero, they lose all independent will.
+POD (Poder) é uma medida da alma, espírito, força interior ou capacidade mágica de um personagem. POD governa os [Pontos de Magia](0001_Characters.md?id=magic-points) e os [Pontos de Sorte](0001_Characters.md?id=luck-points) de um personagem. Se o POD de um personagem chegar a zero, ele perde toda a vontade independente.
 
 #### Carisma (CAR)
 
-Charisma measures personality and is independent of physical appearance. CHA affects a character's [Experience Modifier](0001_Characters.md?id=experience-modifier). If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
+Carisma mede a personalidade e é independente da aparência física. O CAR afeta o [Modificador de Experiência](0001_Characters.md?id=experience-modifier) de um personagem. Se o CAR chegar a zero, o personagem não pode mais interagir socialmente com os outros, tornando-se tão tímido ou antissocial que é ignorado ou até mesmo afastado.
 
 ---
 ### Calculando Características
 
-Each Characteristic has a numerical value to determine how potent it is. The number in parentheses after each dice score is the racial average and is used as a gauge to rate your character's results when compared to other members of their species. Suggestions for determining your Characteristics include:
+Cada Característica tem um valor numérico para determinar sua potência. O número entre parênteses após cada Característica é a média racial e serve como referência para avaliar os resultados do seu personagem em comparação com outros membros de sua espécie. Sugestões para determinar suas Características incluem:
 
-- **Dice Roll:** Roll the dice indicated in the Racial Characteristics Table for STR, CON, SIZ, DEX, INT, POW, and CHA taking each rolled score as it comes. Since the results of these rolls can be somewhat random, it is often better to decide on a character concept after the dice are rolled. Otherwise, the final Characteristics may preclude a preconceived role. Roll 3d6 for STR, CON, DEX, POW, and CHA; then 2d6+6 for SIZ and INT.
-- **Dice Roll, Assign:** As above, except the player may exchange values between Characteristics with the same dice range. For example, when rolling up a human, the player could swap values among STR, CON, DEX, POW, and CHA, as they share a 3d6 range, or between SIZ and INT, which share the 2d6+6 range —but they must always be from the same dice range group; you cannot switch rolls from one group to the other.
-- **Dice Roll, High:** Roll one extra die as indicated for STR, CON, SIZ, DEX, INT, POW, and CHA, and drop the lowest result from each.
-- **Points Build:** Instead of rolling dice to determine Characteristics, players build their character from a preset pool of points, the amount of which is determined by the character's species. This method is best for groups that know what they want to play and want to tailor their build to a specific Class. Certain rules apply to the Points Build option:
-  - Begin with the racial average for each of the seven Characteristics as noted in parentheses after each dice range below.
-  - Spend another 10 points (humans) or 6 points (demi-humans) to increase Characteristics.
-  - You may also lower a Characteristic to gain extra points. For example, reduce STR 11 to 9 to gain 2 points.
-  - Characteristics cannot be _lower_ than the minimum possible or _greater_ than maximum possible for that Characteristic as determined by its potential dice roll.
+- **Rolagem de Dados**: Role os dados indicados na Tabela de Características Raciais para FOR, CON, TAM, DES, INT, POD e CAR, anotando cada resultado conforme aparece. Como os resultados dessas rolagens podem ser um tanto aleatórios, muitas vezes é melhor decidir o conceito do personagem após rolar os dados. Caso contrário, as Características finais podem impedir um papel preconcebido. Role 3d6 para FOR, CON, DES, POD e CAR; depois 2d6+6 para TAM e INT.
+- **Rolagem de Dados, Atribuição**: Como acima, exceto que o jogador pode trocar valores entre Características com o mesmo intervalo de dados. Por exemplo, ao criar um humano, o jogador pode trocar valores entre FOR, CON, DES, POD e CAR, pois compartilham um intervalo de 3d6, ou entre TAM e INT, que compartilham o intervalo de 2d6+6 — mas eles sempre devem ser do mesmo grupo de intervalo de dados; você não pode trocar rolagens de um grupo por outro.
+- **Rolagem de Dados, Maior**: Role um dado extra conforme indicado para FOR, CON, TAM, DES, INT, POD e CAR, e descarte o resultado mais baixo de cada um.
+- **Atribuição de Pontos**: Em vez de rolar dados para determinar as Características, os jogadores constroem seus personagens a partir de um conjunto predefinido de pontos, cuja quantidade é determinada pela espécie do personagem. Este método é melhor para grupos que sabem o que querem jogar e desejam personalizar sua construção para uma Classe específica. Algumas regras se aplicam à opção de Atribuição de Pontos:
+- Comece com a média racial para cada uma das sete Características, conforme indicado entre parênteses após cada intervalo de dados abaixo.
+- Gaste mais 10 pontos (humanos) ou 6 pontos (semi-humanos) para aumentar as Características.
+- Você também pode diminuir uma Característica para ganhar pontos extras. Por exemplo, reduza FOR 11 para 9 para ganhar 2 pontos.
+- As Características não podem ser _menores_ que o mínimo possível ou _maiores_ que o máximo possível para aquela Característica, conforme determinado por sua rolagem de dados potencial.
 
-Games Masters are free to come up with their own methods or point values as desired.
+Os Mestres do Jogo (MJ) têm liberdade para criar seus próprios métodos ou determinar valores conforme desejarem.
 
-The following table summarizes the information needed for each of the above methods. The dice ranges are used in either of the Dice Roll methods, while numbers in parentheses are used in Points Build.
+A tabela a seguir resume as informações necessárias para cada um dos métodos mencionados. Os intervalos de dados são usados nos métodos de Rolagem de Dados, enquanto os números entre parênteses são usados na Atribuição de Pontos.
 
 ##### Tabela de Características Raciais
 
-| Race | Dwarf | Elf | Gnome |
+| Raça | Anão | Elfo | Gnomo |
 | --- | --- | --- | --- |
-| STR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
+| FOR | 2d6+9 (16) | 2d6+4 (11) | 2d6+1 (8) |
 | CON | 2d6+9 (16) | 3d6 (11) | 2d6+6 (13) |
-| SIZ | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
-| DEX | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
+| TAM | 2d4+4 (9) | 2d6+4 (11) | 1d3+2 (4) |
+| DES | 3d6 (11) | 2d6+9 (16) | 3d6+2 (13) |
 | INT | 2d6+6 (13) | 2d6+7 (14) | 2d6+8 (15) |
-| POW | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
-| CHA | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
+| POD | 3d6 (11) | 2d6+7 (14) | 2d6+7 (14) |
+| CAR | 2d6+2 (9) | 3d6 (11) | 3d6 (11) |
 
-| Race | Half-Elf | Half-Orc | Halfling | Human |
+| Raça | Meio-Elfo | Meio-Orque | Halfling | Humano |
 | --- | --- | --- | --- | --- |
-| STR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
+| FOR | 3d6 (11) | 2d6+9 (16) | 2d6+1 (8) | 3d6 (11) |
 | CON | 3d6 (11) | 2d6+6 (13) | 2d6+7 (14) | 3d6 (11) |
-| SIZ | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
-| DEX | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
+| TAM | 2d6+6 (13) | 2d6+9 (16) | 1d4+5 (8) | 2d6+6 (13) |
+| DES | 2d6+6 (13) | 3d6 (11) | 3d6+3 (14) | 3d6 (11) |
 | INT | 2d6+6 (13) | 2d6+5 (12) | 2d6+6 (13) | 2d6+6 (13) |
-| POW | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
-| CHA | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
+| POD | 2d6+6 (13) | 3d6 (11) | 2d6+9 (16) | 3d6 (11) |
+| CAR | 3d6 (11) | 2d6+1 (8) | 2d6+5 (12) | 3d6 (11) |
 
 ---
 ## Passo 3: Atributos
 
-Each character also has a set of attributes. These are capabilities derived from the Characteristics or determined by them that are used to govern certain factors of game play.
+Cada personagem também possui um conjunto de atributos. Essas são capacidades derivadas das Características ou determinadas por elas, que são usadas para gerenciar alguns aspectos do jogo.
 
 #### Pontos de Ação
 
-How often a character can act in a [Combat Round](0008_Combat.md?id=combat-rounds) is determined by Action Points. Starting characters begin with 2 Action Points but gain more as they rise in Rank. See the relevant Class Advancement Tables under [Classes](0003_Classes.md) for details.
+O número de vezes que um personagem pode agir em uma [Rodada de Combate](0008_Combat.md?id=combat-rounds) é determinado pelos Pontos de Ação. Personagens iniciantes começam com 2 Pontos de Ação, mas ganham mais a medida que aumentam de Nível. Consulte as Tabelas de Avanço de Classes na seção de [Classes](0003_Classes.md) para obter mais detalhes.
 
 #### Modificador de Dano
 
-The bonus amount of damage a character inflicts when they physically strike or apply force. It is generally used in combat situations but can also be utilized when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
+A quantidade de dano bônus que o personagem pode infligir quando golpeia alguém fisicamente ou aplica força. Ele é normalmente usado em situações de combate, mas também pode ser usando quando tentar quebrar objetos. O Modificador de Dano é uma jogada de dado extra que é adicionado ou subtraído, do dano infligido pela arma ou ferramenta. Se um Modificador de Dano negativo resultar em um valor de zero ou menor, então nenhum dano foi infligido. 
 
-Add together STR and SIZ and consult the Damage Modifier table:
+Some FOR e TAM e consulte a tabela de Modificador de Dano.
 
 ##### Tabela de Modificador de Dano
 
-| STR+SIZ | Damage Modifier |
+| FOR+TAM | Modificador de Dano |
 | :-: | :-: |
-| 5 or less | –1d8 |
+| 5 ou menos | –1d8 |
 | 6–10 | –1d6 |
 | 11–15 | –1d4 |
 | 16–20 | –1d2 |
@@ -138,124 +138,124 @@ Add together STR and SIZ and consult the Damage Modifier table:
 | 101–110 | +2d10 |
 | 111–120 | +2d10+1d2 |
 | 121–130 | +2d10+1d4 |
-| Each 10 points | Continue Progression |
+| A cada 10 pontos | Continua a progressão |
 
 #### Modificador de Experiência
 
-Over the course of play characters improve their skills and capabilities. This is achieved using Experience Rolls which are explained in more detail in the [Game System](0007_Game_System.md?id=experience-rolls) section.
+Ao longo do jogo, os personagens melhorarão suas perícias e capacidades. Isso é alcançado pelo uso das Jogadas de Experiência, que são explicadas com mais detalhes na seção [Sistema de Jogo](0007_Game_System.md?id=experience-rolls)
 
-A character's CHA score may adjust the number of Experience Rolls the character has, reflecting the relationship they have with their peers and their reputation in the community. If CHA is high people are willing to put themselves out to help train or support the character while they undergo tuition. Conversely, if CHA is particularly low, there may be some difficulty improving one's capabilities without the assistance of others; finding someone to spar against for example.
+O valor de CAR do personagem pode ajustar o número de Jogadas de Experiência que o personagem possui, refletindo o relacionamento que eles têm com seus pares e sua reputação na comunidade. Se o CAR for alto, as pessoas estarão dispostas a se esforçar para ajudar a treinar ou apoiar o personagem enquanto ele passa por treinamento. Por outro lado, se o CAR for particularmente baixo, pode haver alguma dificuldade em melhorar as próprias habilidades sem a assistência de outras pessoas; por exemplo, encontrar alguém para treinar.
 
 ##### Tabela de Modificador de Experiência
 
-| CHA | Exp. Modifier |
+| CAR | Modificador de Experiência |
 | :-: | :-: |
-| 6 or less | -1 |
+| 6 ou menos | -1 |
 | 7-12 | +0 |
 | 13-18 | +1 |
-| Each 6 points | +1 |
+| A cada 6 pontos | +1 |
 
 #### Taxa de Cura
 
-After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury (see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels)), the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
+Após sofrer ferimentos, um personagem precisa se recuperar. A Taxa de Cura determina o quão rapidamente eles se recuperam naturalmente de ferimentos. Dependendo da gravidade do ferimento (consulte a seção sobre [Dano e Ferimentos](0007_Game_System.md?id=damage-and-wound-levels)), a Taxa de Cura indica quantos Pontos de Vida são recuperados por dia, semana ou mês.
 
 ##### Tabela de Taxa de Cura
 
-| CON | Healing Rate |
+| CON | Taxa de Cura |
 | :-: | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| Each 6 points | +1 |
+| A cada 6 pontos | +1 |
 
 #### Iniciativa
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The [Combat](0008_Combat.md?) chapter goes into more detail on how [Initiative](0008_Combat.md?id=initiative) is used.
+O momento em que alguém reage em combate é determinado pela Iniciativa. A Iniciativa atua como um modificador nos testes de Iniciativa; quanto maior a Iniciativa, mais rápido alguém responde em uma situação de combate, determinando quando você pode agir. Fatores adicionais, como armadura, também a modificam. O capítulo sobre [Combate](0008_Combat.md?) fornece mais detalhes sobre como a [Iniciativa](0008_Combat.md?id=initiative) é usada.
 
-Initiative is the average of the DEX and INT Characteristics.
+A Iniciativa é a média das Características DES e INT.
 
 #### Pontos de Sorte
 
-Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
+Os Pontos de Sorte representam aquela força estranha que diferencia os heróis aventureiros das pessoas comuns. Chame-a de destino, karma ou simples boa sorte. Os Pontos de Sorte podem ser usados para:
 
-- Re-roll the dice if they are unfavorable.
-- Mitigate physical damage or other unfortunate circumstances.
-- Gain an edge at a vital moment in combat.
+- Refazer uma jogada de dados se ela for desfavorável.
+- Mitigar danos físicos ou outras circunstâncias desfavoráveis.
+- Obter uma vantagem em um momento crucial no combate.
 
-Exactly how they are used, and when, is described in the section, [Using Luck Points](0007_Game_System.md?id=using-luck-points). Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
+Exatamente como eles são usados e quando, é descrito na seção [Usando Pontos de Sorte](0007_Game_System.md?id=using-luck-points). Uma vez que um Ponto de Sorte é gasto, o estoque diminui; quando não há mais Pontos de Sorte disponíveis, a menos que o Mestre do Jogo faça uma premiação improvisada, eles são reabastecidos para o valor normal na próxima sessão de jogo.
 
 ##### Tabela de Pontos de Sorte
 
-| POW | Luck Points |
+| POD | Pontos de Sorte |
 | :-: | :-: |
-| 6 or less | 1 |
+| 6 ou menos | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
-| Each 6 points | +1 |
+| A cada 6 pontos | +1 |
 
-_\* Humans start with one additional Luck Point over and above that shown above._
+_\* Os seres humanos começam com um ponto de sorte adicional além do que foi mostrado acima._
 
-_\*\* All characters gain an additional Luck Point as each new Rank is attained._
+_\*\* Todos os personagens ganham um ponto de sorte adicional a cada novo nível alcançado._
 
 #### Pontos de Magia
 
-Mystical abilities and spells cast in _Classic Fantasy Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
+As habilidades místicas e as magias lançadas em _Classic Fantasy Imperative_ geralmente dependem dos Pontos de Magia. Como a disponibilidade de magia pode ser limitada pelo cenário da campanha ou por profissões mágicas específicas, alguns personagens podem considerar esse atributo supérfluo.
 
-For those who can utilize such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters run out of Magic Points they have exhausted their ability to cast any spells until Magic Points are replenished.
+Para aqueles que podem utilizar tais poderes, os Pontos de Magia de um personagem são iguais ao seu POD. Esses pontos são usados para lançar magias, cujo custo depende do tipo de magia utilizada. Quando os conjuradores ficam sem Pontos de Magia, eles esgotaram sua capacidade de lançar qualquer magia até que os Pontos de Magia sejam reabastecidos.
 
 #### Taxa de Movimento
 
-Every creature has a Movement Rate – several feet that can be traveled during a specific period. Movement is not calculated from Characteristics but is a default value which differs from species to species. The Base Movement Rate for humans is 20 feet, although certain skills can improve this. The section on [Movement](0008_Combat.md?id=movement) offers more detail.
+Cada criatura possui uma Taxa de Movimento – a quantidade de pés que pode percorrer durante um período específico. O movimento não é calculado a partir das Características, mas é um valor padrão que varia de espécie para espécie. A Taxa de Movimento Base para humanos é de 20 pés, embora certas habilidades possam melhorá-la. A seção sobre [Movimento](0008_Combat.md?id=movement) oferece mais detalhes.
 
 ##### Tabela de Taxa de Movimento por Raça
 
-| Species | Feet | Metres |
+| Espécie | Pés | Metros |
 | :-- | :-: | :-: |
-| Dwarf | 15 | 4.5 |
-| Elf | 20 | 6 |
-| Gnome | 15 | 4.5 |
-| Half-Elf | 20 | 6 |
-| Half-Orc | 20 | 6 |
+| Anão | 15 | 4.5 |
+| Elfo | 20 | 6 |
+| Gnomo | 15 | 4.5 |
+| Meio-elfo | 20 | 6 |
+| Meio-orque | 20 | 6 |
 | Halfling | 15 | 4.5 |
-| Human | 20 | 6 |
+| Humano | 20 | 6 |
 
 #### Pontos de Vida
 
-Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven; the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
+Os Pontos de Vida representam o quanto de ferimento uma área do corpo pode suportar antes de se tornar inútil, possivelmente resultando em incapacitação e, em última instância, na morte do personagem. O corpo de cada criatura é dividido em locais separados – os humanos, por exemplo, têm sete: cabeça, peito, abdômen, braços e pernas – cada local com seus próprios Pontos de Vida.
 
-Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the section on [Damage and Wounds](0007_Game_System.md?id=damage-and-wound-levels).
+Algumas criaturas, como monstros ou diferentes classes de animais, por sua própria natureza, muitas vezes têm estruturas corporais radicalmente diferentes, mas cada local que possuem ainda tem Pontos de Vida. Quando os Pontos de Vida de um local são reduzidos a um certo nível devido a qualquer tipo de dano, o personagem sofre certas consequências que refletem a gravidade do ferimento. Para obter mais informações sobre ferimentos, consulte a seção sobre [Dano e Ferimentos](0007_Game_System.md?id=damage-and-wound-levels).
 
-To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table. All characters gain 1 additional Hit Point in each location at Rank 2 and 4.
+Para calcular os Pontos de Vida de cada local, some CON e TAM e cruze o resultado na tabela de Pontos de Vida. Todos os personagens ganham 1 Ponto de Vida adicional em cada local nos níveis 2 e 4.
 
 ##### Tabela de Pontos de Vida por Local
 
-| Location | CON+SIZ |  |  |  |  |  |  |  |  |
+| Local | CON+TAM |  |  |  |  |  |  |  |  |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
-| Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
-| Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
-| Abdomen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
-| Each Arm | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
-| Each Leg | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Cabeça | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
+| Peito | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
+| Abdômen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
+| Cada Braço | 1 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | +1 |
+| Cada Perna | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 
 ---
 ## Passo 4: Perícias
 
-By default, every character has a range of Standard Skills allowing him to perform a variety of actions with varying degrees of expertise. These skills are detailed more fully in the [Skills](0005_Skills.md) chapter but cover a range of everyday activities and local knowledge which anyone can use without specialized training. At this point of character creation, players will only need to know the Base Levels of each Standard Skill.
+Por padrão, todo personagem possui uma variedade de Perícias Básicas que permitem a ele realizar uma variedade de ações com diferentes graus de expertise. Essas habilidades são detalhadas de forma mais completa no capítulo sobre [Perícias](0005_Skills.md), mas abrangem uma série de atividades cotidianas e conhecimentos locais que qualquer pessoa pode usar sem treinamento especializado. Neste ponto da criação do personagem, os jogadores só precisarão conhecer os Níveis Básicos de cada Perícia Básica.
 
-The basic score of each Standard Skill is determined by the sum of two Characteristics or a multiple of a single Characteristic. The value represents the character's innate competence in each area, in effect their raw talent before any formative training received as part of his culture and profession.
+O valor básica de cada Perícia Básica é determinada pela soma de duas Características ou por um múltiplo de uma única Característica. O valor representa a competência inata do personagem em cada área, essencialmente seu talento bruto antes de qualquer treinamento formativo recebido como parte de sua cultura e profissão.
 
-The Standard Skills Table shows how the basic values are calculated, along with a brief description of what the skill is and does. The score represents the percentage chance of success for a skill; so, an Athletics score of 25 is expressed as 25%. How skill percentages work and more detailed skill descriptions are provided in the [Skills](0005_Skills.md) chapter.
+A tabela de Perícias Básicas mostra como os valores básicos são calculados, juntamente com uma breve descrição do que a perícia é e faz. A pontuação representa a chance percentual de sucesso para uma perícia; portanto, uma pontuação de 25 em Atletismo é expressa como 25%. Como as porcentagens de perícias funcionam e descrições mais detalhadas são fornecidas no capítulo sobre [Perícias](0005_Skills.md).
 
-Note that the basic percentages for some skills will be modified by both culture and profession, so these starting values will change as character creation progresses.
+Observe que as porcentagens básicas para algumas habilidades serão modificadas tanto pela cultura quanto pela profissão, portanto, esses valores iniciais mudarão à medida que a criação do personagem avança.
 
 ##### Tabela de Perícias Comuns
 
-| Skill | Basic Percentage |
+| Perícias | Percentual Básico |
 | :-- | :-: |
-| Athletics | STR+DEX |
-| Boating | STR+CON |
-| Brawn | STR+SIZ |
+| Atletismo | STR+DEX |
+| Canoagem | STR+CON |
+| Musculatura | STR+SIZ |
 | Conceal | DEX+POW |
 | Customs | INT x2, +40\* |
 | Dance | DEX+CHA |
