@@ -93,7 +93,7 @@ Links need to be as in the main doc `[title](URL)` - Obsidian links don't work.
 | [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal \(R\)](0010_Spells.md?id=heal-harm) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Coordination](0010_Spells.md?id=coordination) | [Cure Fatigue \(R\)](0010_Spells.md?id=cure-fatigue-cause-fatigue) | [Cure Disease \(R\)](0010_Spells.md?id=cure-disease-cause-disease) | [Free Action](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
 | [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds \(R\)](0010_Spells.md?id=cure-minor-wounds-cause-minor-wounds) | [Cure Serious Wounds \(R\)](0010_Spells.md?id=cure-serious-wounds-cause-serious-wounds) | [Neutralize Poison \(R\)](0010_Spells.md?id=neutralize-poison-inflict-poison) | [Regenerate \(R\)](0010_Spells.md?id=regenerate-wither) | [Holy Word \(R\)](0010_Spells.md?id=holy-word-unholy-word) |
-| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(R\)](0010_Spells.md?id=detect-charm-hide-charm) | [Detect Lie \(R\)](0010_Spells.md?id=detect-lie-conceal-lie) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(R\)](0010_Spells.md?id=resurrection-destruction) |
+| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(R\)](0010_Spells.md?id=detect-charm-hide-charm) | [Detect Lie \(R\)](0010_Spells.md?id=detect-lie-Ocultação-lie) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(R\)](0010_Spells.md?id=resurrection-destruction) |
 | [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-detect-good) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
 | [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
 | [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
@@ -126,7 +126,7 @@ _\(R\) indicates a reversible spell._
 | [Glamour \(R\)](0010_Spells.md?id=glamour-repugnance) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
 | [Ignite  \(R\)](0010_Spells.md?id=ignite-extinguish) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-lock) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages \(R\)](0010_Spells.md?id=know-languages-confuse-languages) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-obscure-alignment) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Idiomas \(R\)](0010_Spells.md?id=know-Idiomas-confuse-Idiomas) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-obscure-alignment) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-bestow-curse) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-obscure-object) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
@@ -151,7 +151,7 @@ _\(R\) indicates a reversible spell._
 | [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal \(Harm\)](0010_Spells.md?id=heal-harm) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Coordination](0010_Spells.md?id=coordination) | [Cure Fatigue \(Cause Fatigue\)](0010_Spells.md?id=cure-fatigue-cause-fatigue) | [Cure Disease \(Cause Disease\)](0010_Spells.md?id=cure-disease-cause-disease) | [Free Action](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
 | [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds \(Cause Minor Wounds\)](0010_Spells.md?id=cure-minor-wounds-cause-minor-wounds) | [Cure Serious Wounds \(Cause Serious Wounds\)](0010_Spells.md?id=cure-serious-wounds-cause-serious-wounds) | [Neutralize Poison \(Inflict Poison\)](0010_Spells.md?id=neutralize-poison-inflict-poison) | [Regenerate \(Wither\)](0010_Spells.md?id=regenerate-wither) | [Holy Word \(Unholy Word\)](0010_Spells.md?id=holy-word-unholy-word) |
-| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(Hide Charm\)](0010_Spells.md?id=detect-charm-hide-charm) | [Detect Lie \(Conceal Lie\)](0010_Spells.md?id=detect-lie-conceal-lie) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(Destruction\)](0010_Spells.md?id=resurrection-destruction) |
+| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(Hide Charm\)](0010_Spells.md?id=detect-charm-hide-charm) | [Detect Lie \(Ocultação Lie\)](0010_Spells.md?id=detect-lie-Ocultação-lie) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(Destruction\)](0010_Spells.md?id=resurrection-destruction) |
 | [Might](0010_Spells.md?id=might) | [Detect Evil \(Detect Good\)](0010_Spells.md?id=detect-evil-detect-good) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
 | [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
 | [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
@@ -188,7 +188,7 @@ _\(R\) indicates a reversible spell._
 | [Glamour (Repugnance)](0010_Spells.md?id=glamour-repugnance) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
 | [Ignite (Extinguish)](0010_Spells.md?id=ignite-extinguish) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock (Lock)](0010_Spells.md?id=knock-lock) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Languages (Confuse Languages)](0010_Spells.md?id=know-languages-confuse-languages) | [Know Alignment (Obscure Alignment)](0010_Spells.md?id=know-alignment-obscure-alignment) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Idiomas (Confuse Idiomas)](0010_Spells.md?id=know-Idiomas-confuse-Idiomas) | [Know Alignment (Obscure Alignment)](0010_Spells.md?id=know-alignment-obscure-alignment) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse (Bestow Curse)](0010_Spells.md?id=remove-curse-bestow-curse) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object (Obscure Object)](0010_Spells.md?id=locate-object-obscure-object) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire](0010_Spells.md?id=wall-of-fire) |
@@ -218,7 +218,7 @@ _\(R\) indicates a reversible spell._
 | Glamour (Repugnance) | Identify | Hold Person | Invisibility, Greater |
 | Glue | Illusion | Invisibility, 10 ft. radius | Polymorph Other |
 | Ignite (Extinguish) | Invisibility | Knock (Lock) | Polymorph Self |
-| Magic Tricks | Know Languages (Confuse Languages) | Know Alignment (Obscure Alignment) | Power Word – Stun |
+| Magic Tricks | Know Idiomas (Confuse Idiomas) | Know Alignment (Obscure Alignment) | Power Word – Stun |
 | Might | Levitate | Lightning Bolt | Remove Curse (Bestow Curse) |
 | Pet | Light | Locate Object (Obscure Object) | Sphere of Invulnerability, Lesser |
 | Polish | Magic Missile | Mage Lock | Wall of Fire |
@@ -242,7 +242,7 @@ _\(R\) indicates a reversible spell._
 | Calm | Create Food and Water | Continual Light | Exorcism | Heal (Harm) | Earthquake |
 | Coordination | Cure Fatigue (Cause Fatigue) | Cure Disease (Cause Disease) | Free Action | Part Water | Gate |
 | Deflect | Cure Minor Wounds (Cause Minor Wounds) | Cure Serious Wounds (Cause Serious Wounds) | Neutralize Poison (Inflict Poison) | Regenerate (Wither) | Holy Word (Unholy Word) |
-| Ironhand | Detect Charm (Hide Charm) | Detect Lie (Conceal Lie) | Plane Shift | Speak with Monsters | Resurrection (Destruction) |
+| Ironhand | Detect Charm (Hide Charm) | Detect Lie (Ocultação Lie) | Plane Shift | Speak with Monsters | Resurrection (Destruction) |
 | Might | Detect Evil (Detect Good) | Dispel Magic | Prayer | Word of Recall | Sun Ray |
 | Polish | Detect Magic | Flame Strike | Protection from Evil 10-foot Radius (R) |
 | Preserve | Endure Heat/Cold | Hold Person | Protection from Lightning |

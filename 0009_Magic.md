@@ -67,9 +67,9 @@ Learning spells in this way does not require any Experience Rolls on the part of
 
 #### Spell Books
 
-Arcane spellcasters use spell books, sometimes called grimoires, to contain all their spell knowledge. These tomes are treasured by their owners, as a mage deprived of their spell book is limited to whatever spells they currently have in memory. While a beginning mage may require but a single book, eventually they will need to expand their library, both to encompass their growing store of magic and to back up years of hard work and research. At these times, a mage may consider a traveling spell book containing some of their most used and common spells, while leaving much of their knowledge backed up safely at home.
+Arcane spellcasters use spell books, sometimes called grimoires, to contain all their spell knowledge. These tomes are treasured by their owners, as a mage deprived of their spell book is limited to whatever spells they currently have in memory. While a beginning mage may require but a Cantole book, eventually they will need to expand their library, both to encompass their growing store of magic and to back up years of hard work and research. At these times, a mage may consider a traveling spell book containing some of their most used and common spells, while leaving much of their knowledge backed up safely at home.
 
-When written into a spell book, Arcane spells use a system of ancient script, detailed notations, and magical formulas. All Arcane spellcasters use the same system regardless of native language, culture, or species. However, each Arcane caster also inputs their own personal variations and nuances that make the writings incomprehensible to other spellcasters without the casting of Read Magic.
+When written into a spell book, Arcane spells use a system of ancient script, detailed notations, and magical formulas. All Arcane spellcasters use the same system regardless of native Idioma, culture, or species. However, each Arcane caster also inputs their own personal variations and nuances that make the writings incomprehensible to other spellcasters without the casting of Read Magic.
 
 An Arcane caster may automatically read the contents of his own spell book and once a spell has been successfully deciphered with Read Magic, there is no need for the character to decipher it again.
 
@@ -80,7 +80,7 @@ Divine casters may memorize any spell they desire if they are of sufficient Rank
 ---
 ##  Spell Casting Requirements
 
-All spellcasters are assumed to use ritual words and gestures to aid in the focusing of Concentration required for their proper incantation.
+All spellcasters are assumed to use ritual words and gestures to aid in the focuCanto of Concentration required for their proper incantation.
 
 The caster must have previously memorized the spell to be cast and must have the requisite number of Magic Points remaining. Attempting to cast a spell with insufficient Magic Points means that the spell simply does not work.
 
@@ -99,7 +99,7 @@ Casting a spell does not expunge it from the character's memory. The spell remai
 
 ### Spell Components
 
-In addition to both somatic and verbal components, the caster must be in possession of material components that vary from spell to spell and are consumed in the casting. Where no actual components are detailed in the spell description, assume the cost is negligible and that the caster has enough on their person to cover an average adventure, or about a month or so of adventuring. If a specific component is noted, however, the caster will need to purchase and keep track of the required components. A caster that is somehow separated from their material components will be unable to cast any spells until the situation can be rectified.
+In addition to both somatic and verbal components, the caster must be in possession of material components that vary from spell to spell and are consumed in the casting. Where no actual components are detailed in the spell description, assume the cost is negligible and that the caster has enough on their person to cover an average adventure, or about a month or so of adventuring. If a specific component is noted, however, the caster will need to purchase and keep Rastrear of the required components. A caster that is somehow separated from their material components will be unable to cast any spells until the situation can be rectified.
 
 ### Restricted Actions During Casting
 
@@ -127,16 +127,16 @@ All magic used in combat situations has casting times measured in periods of tim
 To totally disrupt casting normally requires that the caster be injured or mentally subdued. The chance of this depends on the precise circumstances:
 
 - Successful implementation of the Spoil Spell Special Effect will automatically cause the casting roll to Fail.
-- Minor Wounds force the caster to make a Willpower check, Failure makes the casting 1 Difficulty Grade harder.
-- Serious Wounds force the caster to make a Willpower check, passing makes the casting 1 grade harder, while failing makes it 2 grades harder.
+- Minor Wounds force the caster to make a Força de Vontade check, Failure makes the casting 1 Difficulty Grade harder.
+- Serious Wounds force the caster to make a Força de Vontade check, pasCanto makes the casting 1 grade harder, while failing makes it 2 grades harder.
 - Major Wounds automatically cause the casting roll to Fail.
 - Succumbing to mental domination automatically causes the casting roll to Fail.
 
 ###  Casting in Armor
 
-**Clerics:** Clerics suffer no penalty while armored or using a shield.
+**Clerics:** Clerics suffer no penalty while armored or uCanto a shield.
 
-**Mages:** Because armor restricts movement, and the somatic component involved in the casting of spells requires precise gestures, mages cannot cast while wearing armor or using a shield.
+**Mages:** Because armor restricts movement, and the somatic component involved in the casting of spells requires precise gestures, mages cannot cast while wearing armor or uCanto a shield.
 
 ---
 ## Casting Time
@@ -148,20 +148,20 @@ How this interacts with each specific Casting Time is further detailed below:
 - **Instant:** Spell may be either Proactive or Reactive and goes off as soon as cast. It may be cast as a Free Action.
 - **1 Action:** Spell is Proactive only and goes off on the same Turn that it is cast.
 - **2 or more Actions:** Spell is Proactive only and goes off on the last Turn required to cast it.
-- **Minutes, Hours, and so on:** Spells with extensive casting times are typically used out of combat and therefore do not require detailed tracking.
+- **Minutes, Hours, and so on:** Spells with extensive casting times are typically used out of combat and therefore do not require detailed Rastrearing.
 
 Where a spell requires more than 1 Action to cast, the Action Points are spent each Turn, with the casting skill roll taking place on the final Turn of casting. Only once the spell's Casting Time has finished is the caster required to expend the Magic Point Casting Cost, shown below.
 
 ---
 ## Casting Cost
 
-The cost of casting a spell, regardless of the actual discipline, depends on the spell's final Intensity, the caster's Rank, and the success level of the casting skill roll. Spells are cast at a base Intensity of 1 and may be increased to their Maximum Intensity to boost their effects by paying the extra Magic Points. The required cost may be expressed as _1_, meaning that the spell cost 1 Magic Point and typically has a set Intensity, or, _1, +1/additional Intensity_, meaning the spell cost a single Magic Point, and may be boosted at an additional cost of 1 Magic Point per Intensity beyond the first, or, _3/Intensity_, meaning that each level of Intensity costs 3 Magic Points, or any other similar combination.
+The cost of casting a spell, regardless of the actual discipline, depends on the spell's final Intensity, the caster's Rank, and the success level of the casting skill roll. Spells are cast at a base Intensity of 1 and may be increased to their Maximum Intensity to boost their effects by paying the extra Magic Points. The required cost may be expressed as _1_, meaning that the spell cost 1 Magic Point and typically has a set Intensity, or, _1, +1/additional Intensity_, meaning the spell cost a Cantole Magic Point, and may be boosted at an additional cost of 1 Magic Point per Intensity beyond the first, or, _3/Intensity_, meaning that each level of Intensity costs 3 Magic Points, or any other similar combination.
 
 Some powerful spells can alter reality in some lasting way. In addition to the noted Magic Point expenditure, these spells require a permanent expenditure of life force on the part of the caster. This life force is represented in the sacrifice of 1 or more Experience Rolls and will be expressed as (+1 EXP) or similar. These Experience Rolls must be already acquired and unspent. Spells that require an Experience Roll have their Magnitude doubled for the purposes of resisting spells such as Dispel Magic.
 
 Once the final cost is known, the Spell Casting roll is made:
 
-- **Critical:** The spell works and only half the Magic Point cost is expended. A spell possessing a cost of 1 may be cast for free. Any required EXP rolls are halved as well, with a minimum of one in either case.
+- **Critical:** The spell works and only half the Magic Point cost is expended. A spell possesCanto a cost of 1 may be cast for free. Any required EXP rolls are halved as well, with a minimum of one in either case.
 - **Success:** The spell works, and the full Magic Point cost and any required EXP rolls are expended.
 - **Failure:** The spell fails, but no Magic Points are expended, nor are any Experience Rolls. Optionally, however, the caster may force the spell. A forced spell is treated as a Success above with regards to Magic Point expenditure and degree of success. Forcing a spell has the unfortunate side effect of expunging it from the caster's memory, meaning it must be memorized again before it may be recast.
 - **Fumble:** The spell fails, and half the Magic Point cost is expended; however, all Experience Rolls are retained. In addition, the desired spell is expunged from the caster's memory. It may be re-memorized later.
@@ -186,9 +186,9 @@ No spell may have its final cost reduced below 1 Magic Point.
 | 4 | -6 | -4 | -2 | 0 | - |
 | 5 | -8 | -6 | -4 | -2 | 0 |
 
-### Dismissing One's Own Magic
+### DismisCanto One's Own Magic
 
-Characters can dismiss any magic they have personally cast as a Free Action. No roll is needed for dismissing a spell; simply the decision needed to cease its effects.
+Characters can dismiss any magic they have personally cast as a Free Action. No roll is needed for dismisCanto a spell; simply the decision needed to cease its effects.
 
 ---
 ## Magnitude & Intensity
@@ -206,17 +206,17 @@ Spells with Durations based on Intensity do not have to be initially cast beyond
 
 The only stipulation is that the caster must concentrate throughout the Duration, even in the case of spells that do not normally require Concentration. Once Concentration is ceased, the spell will finish out its current Duration and then end, unless Concentration is normally required, in which the spell ends immediately. The most that a spell may be maintained is still limited to its Magnitude as determined by 1/10th casting skill.
 
-For example, Detect Magic has a Duration noted as 2 Minutes/Intensity, this means that at 3 levels of Intensity, the spell will last 6 minutes. However, there is no reason why the caster could not cast the spell at Intensity 1 for 2 minutes and extend the Duration when the current Duration expires. In this case, the caster would have to maintain Concentration throughout the first 2 minutes and could spend another Magic Point to extend it another 2 minutes after the first Duration has expired. If after choosing to maintain Detect Magic for another 2 minutes, the caster chooses to cease Concentration, the spell will finish out its current Duration and then end.
+For example, Detect Magic has a Duration noted as 2 Minutes/Intensity, this means that at 3 levels of Intensity, the spell will last 6 minutes. However, there is no reason why the caster could not cast the spell at Intensity 1 for 2 minutes and extend the Duration when the current Duration expires. In this case, the caster would have to maintain Concentration throughout the first 2 minutes and could spend another Magic Point to extend it another 2 minutes after the first Duration has expired. If after chooCanto to maintain Detect Magic for another 2 minutes, the caster chooses to cease Concentration, the spell will finish out its current Duration and then end.
 
 ---
 ## Resisting Magic
 
-Most spells and magical effects that target an individual allow that individual a chance to resist; this is sometimes called rolling to save. Resisting targets may make an Opposed Endurance, Willpower, or even an Evade test in the case of a targeted missile spell. Note that Resist (Evade) requires the target to have a Combat Action available to throw themselves clear. Spells that may be resisted are always easier to resist at lower levels of Magnitude. To resist a spell, the victim compares the results of their Resistance roll with the caster's Arcane Casting or Channel skill roll. Where the original caster's skill is unknown, which may be the case of spells with Permanent durations, magical traps, and so on, make a casting skill roll at 55% for Rank 1 spells, +20% per additional Rank of the spell. Therefore, a Rank 3 spell would be resisted as if the caster had a skill of 95%.
+Most spells and magical effects that target an individual allow that individual a chance to resist; this is sometimes called rolling to save. Resisting targets may make an Opposed Tolerância, Força de Vontade, or even an Evasão test in the case of a targeted missile spell. Note that Resist (Evasão) requires the target to have a Combat Action available to throw themselves clear. Spells that may be resisted are always easier to resist at lower levels of Magnitude. To resist a spell, the victim compares the results of their Resistance roll with the caster's Arcane Casting or Channel skill roll. Where the original caster's skill is unknown, which may be the case of spells with Permanent durations, magical traps, and so on, make a casting skill roll at 55% for Rank 1 spells, +20% per additional Rank of the spell. Therefore, a Rank 3 spell would be resisted as if the caster had a skill of 95%.
 
 ---
 ## Dispelling Magic
 
-All magic resists being dispelled using its Magnitude. Thus, at lower levels of skill, magic can be easy to dismiss. When Dispel Magic is cast against an ongoing magical effect or a magic item, there is no roll to resist. Instead, if the Intensity of Dispel Magic exceeds the Magnitude of the magic, it is dispelled, temporarily in the case of a magic item, or a spell with a Duration expressed as Permanent. See the write-up for [Dispel Magic](0010_Spells.md?id=dispel-magic) in the [Chapter 10: Spells](0010_Spells.md). In addition to Dispel Magic, some spells may be used to dispel other spells if they are the same or opposed. These spells will be noted as such in their write-ups. The spell Light, for example, may be used to dispel Darkness.
+All magic resists being dispelled uCanto its Magnitude. Thus, at lower levels of skill, magic can be easy to dismiss. When Dispel Magic is cast against an ongoing magical effect or a magic item, there is no roll to resist. Instead, if the Intensity of Dispel Magic exceeds the Magnitude of the magic, it is dispelled, temporarily in the case of a magic item, or a spell with a Duration expressed as Permanent. See the write-up for [Dispel Magic](0010_Spells.md?id=dispel-magic) in the [Chapter 10: Spells](0010_Spells.md). In addition to Dispel Magic, some spells may be used to dispel other spells if they are the same or opposed. These spells will be noted as such in their write-ups. The spell Light, for example, may be used to dispel Darkness.
 
 In these cases, every 1 level of Intensity counts as 3 Intensity with regards to countering the spell.
 
@@ -232,7 +232,7 @@ As a rule, the Magic Points (or pool) of a spellcaster are temporarily reduced b
 ---
 ## Spell Traits
 
-Every Spell is defined by a series of traits explaining how it is used in the game, followed by a description of the spell's precise effects. In most cases the physical and temporal parameters of the spell can be hand waved unless the Games Master wishes to keep detailed track during tactical situations. A spell's traits are detailed using the following format:
+Every Spell is defined by a series of traits explaining how it is used in the game, followed by a description of the spell's precise effects. In most cases the physical and temporal parameters of the spell can be hand waved unless the Games Master wishes to keep detailed Rastrear during tactical situations. A spell's traits are detailed uCanto the following format:
 
 #### Spell Name \(R\)
 
@@ -243,7 +243,7 @@ Every Spell is defined by a series of traits explaining how it is used in the ga
 | **Rank:** Cleric 1 | **Casting Time:** 1 Action |
 | **Sphere:** Light | **Duration:** Instant |
 | **Cost:** 1, +1/additional Intensity | **Range:** 0 |
-| **Area:** 20' Radius | **Resist:** Willpower |
+| **Area:** 20' Radius | **Resist:** Força de Vontade |
 
 The traits are as follows:
 
@@ -270,9 +270,9 @@ _This made the spell list tables bloated and hard to read with multi-line cell t
 #### (School)
 Following the name of the spell, is the School it belongs to. Spells belong to one of eight specific Schools of Magic, and while they are noted for both Arcane and Divine spells, the information is of most use to casters of the Arcane persuasion. While most mages remain generalists, being able to learn any spell, some prefer to concentrate on one School at the expense of others.
 
-For example, the School of Evocation specializes in manipulating unseen sources of power to create devastating damaging effects, granting access to spells such as Fireball, Lightning Bolt, and Magic Missile. On the other hand, the School of Enchantment teaches spells that affect the minds of others, allowing the caster to control or influence their normal behavior. This School includes spells such as Charm Person, Befuddle, and Command.
+For example, the School of Evocation specializes in manipulating unseen sources of power to create devastating damaging effects, granting access to spells such as Fireball, Lightning Bolt, and Magic Missile. On the other hand, the School of Enchantment teaches spells that affect the minds of others, allowing the caster to control or Influência their normal behavior. This School includes spells such as Charm Person, Befuddle, and Command.
 
-A magic-user's spell book might only contain spells of a single School, or it could contain several spells of each. The precise balance or lack thereof is dependent upon the original creator of the spell book.
+A magic-user's spell book might only contain spells of a Cantole School, or it could contain several spells of each. The precise balance or lack thereof is dependent upon the original creator of the spell book.
 
 Spells of the School of Enchantment have (Charm) noted as a reminder that these spells are typically subject to immunity by elves and half-elves. 
 
@@ -312,10 +312,10 @@ _This makes the explanation redundant so it has been removed._
 </details>
 
 #### Sphere
-Arcane spells do not have this trait. Divine spells are classified according to Sphere, of which there are 16: All, Animal, Astral, Charm, Combat, Creation, Divination, Elemental, Guardian, Healing, Necromantic, Plant, Protection, Summoning, Sun, and Weather. Where more than one Sphere is noted, the character Class must have access to each. Some spells note a separate Sphere in parentheses; this details the spell's Sphere when reversed. Deities have several Spheres of Influence which is a determining part of their nature.
+Arcane spells do not have this trait. Divine spells are classified according to Sphere, of which there are 16: All, Animal, Astral, Charm, Combat, Creation, Divination, Elemental, Guardian, Cura, Necromantic, Plant, Protection, Summoning, Sun, and Weather. Where more than one Sphere is noted, the character Class must have access to each. Some spells note a separate Sphere in parentheses; this details the spell's Sphere when reversed. Deities have several Spheres of Influência which is a determining part of their nature.
 
 #### Cost (X)
-This is the cost in Magic Points to cast a spell. For example, a spell with a cost noted as "1", costs a single Magic Point to cast and cannot be increased in Intensity, while "3 +1/additional Intensity" would cost 5 Magic Points to cast at 3 Intensity (3 for the first level, and 1 for each additional). Some spells which alter reality in a significant way have an additional cost in Experience Rolls, for example (+1 EXP).
+This is the cost in Magic Points to cast a spell. For example, a spell with a cost noted as "1", costs a Cantole Magic Point to cast and cannot be increased in Intensity, while "3 +1/additional Intensity" would cost 5 Magic Points to cast at 3 Intensity (3 for the first level, and 1 for each additional). Some spells which alter reality in a significant way have an additional cost in Experience Rolls, for example (+1 EXP).
 
 #### Area (X)
 The spell affects all targets within a defined area. This could be either a set amount, such as 20,' or as a variable such as 10'/Intensity. For example, a spell with an Area trait expressed as 10' Radius/Intensity, cast at Intensity 4 would have a radius of 40.' An Area spell with a Range of 0 has the effects centered upon the caster or whatever they touch.
@@ -334,27 +334,27 @@ The length of time required to cast a spell is defined as Instant, or 1 or more 
 The spell's effects stay in place for an amount of time described as either a set length, such as 10 minutes, or as a variable such as 5 Minutes/Intensity. Spells noted as Instant take place immediately and then end, while spells detailed as Permanent have a lasting effect.
 
 - **Concentration:** The spell's active effects only function so long as the character specifically concentrates on it. Concentration requires the caster to be free of all physical and mental distractions: any such disturbance has a chance to interrupt the Concentration, resulting in the spell's immediate dismissal. Distraction follows the rules for [Interrupting Casting](0009_Magic.md?id=interrupting-casting).
-- While concentrating, the caster is usually restricted to moving at a maximum of walking pace and performing Free or Reactive Actions (when necessary, use common sense). Any passive elements of the spell continue running without the need to concentrate unless the spell states otherwise; for example, the Spiritual Hammer spell requires Concentration to move and attack with it, as soon as the cleric's Concentration lapses, the spell ends. By default, a spellcaster may only concentrate on a single Concentration spell at any one time.
+- While concentrating, the caster is usually restricted to moving at a maximum of walking pace and performing Free or Reactive Actions (when necessary, use common sense). Any passive elements of the spell continue running without the need to concentrate unless the spell states otherwise; for example, the Spiritual Hammer spell requires Concentration to move and attack with it, as soon as the cleric's Concentration lapses, the spell ends. By default, a spellcaster may only concentrate on a Cantole Concentration spell at any one time.
 - **Trigger:** Trigger spells have their effects delayed by a period defined in the spell's description or sometimes at a time determined by the caster. If a spell not defined as permanent until triggered is not triggered within a four-hour period, it dissipates naturally.
 
 #### Range (X)
 Ranged spells may be cast upon targets within a Range defined as either Touch, or a set amount such as 40'. For example, a spell with a ranged trait expressed as 20'/Intensity and cast at Intensity 3 would have a Range of 60'. A spell with a Range of 0 may be cast on the caster only.
 
-With regards to Touch spells, the spellcaster may always be the beneficiary if desired. Otherwise, the caster must be in physical contact with the target for the spell to take effect. These spells are typically cast and then held until the caster can make a successful Unarmed skill roll to touch an opponent. However, if the caster is within reach of a suitable opponent on the same Turn that the casting is finished, they may touch the opponent without a separate Unarmed roll being required. This assumes the roll to hit is part of the spell's somatic component. The opponent may Parry or Evade normally, and if struck, is still allowed an Opposed Roll to resist as specified in the spell description, with a success on the part of the victim negating any adverse effects. A Touch spell merely needs to contact the target or its worn accoutrements to work.
+With regards to Touch spells, the spellcaster may always be the beneficiary if desired. Otherwise, the caster must be in physical contact with the target for the spell to take effect. These spells are typically cast and then held until the caster can make a successful Unarmed skill roll to touch an opponent. However, if the caster is within reach of a suitable opponent on the same Turn that the casting is finished, they may touch the opponent without a separate Unarmed roll being required. This assumes the roll to hit is part of the spell's somatic component. The opponent may Parry or Evasão normally, and if struck, is still allowed an Opposed Roll to resist as specified in the spell description, with a success on the part of the victim negating any adverse effects. A Touch spell merely needs to contact the target or its worn accoutrements to work.
 
-#### Resist (Disbelief/Evade/Endurance/Willpower)
-Offensive spells do not necessarily take effect automatically. Resisting targets may make an Opposed Evade, Endurance, or Willpower test (as specified in the description) in order to avoid the effect of the spell entirely. Note that Resist (Evade) spells require the target to have a Combat Action available to throw themselves clear, and Disbelief must be stated by the player and is situation dependent. See the rules for [attempting to disbelieve](0009_Magic.md?id=attempting-to-disbelieve) Illusions and Phantasms later in this chapter for additional information.
+#### Resist (Disbelief/Evasão/Tolerância/Força de Vontade)
+Offensive spells do not necessarily take effect automatically. Resisting targets may make an Opposed Evasão, Tolerância, or Força de Vontade test (as specified in the description) in order to avoid the effect of the spell entirely. Note that Resist (Evasão) spells require the target to have a Combat Action available to throw themselves clear, and Disbelief must be stated by the player and is situation dependent. See the rules for [attempting to disbelieve](0009_Magic.md?id=attempting-to-disbelieve) Illusions and Phantasms later in this chapter for additional information.
 
 ### Limiting Some Spell Traits
 
-Many spells will augment more than 1 trait per level of Intensity. For example, Part Water is noted as possessing the traits: Duration: 10 Minutes/Intensity and Range: 60 ft/Intensity. In these cases, under normal circumstances Duration and Range are equally affected based upon final Intensity. However, if the caster chooses, they may keep some of the traits at full Intensity and limit others. Therefore, if Part Water were to be cast at 4 Intensity, it would normally possess a Duration of 40 minutes with a Range of 240 feet. If desired, the caster could keep the 240-foot Range, but have the spell only last for 5 minutes.
+Many spells will augment more than 1 trait per level of Intensity. For example, Part Water is noted as possesCanto the traits: Duration: 10 Minutes/Intensity and Range: 60 ft/Intensity. In these cases, under normal circumstances Duration and Range are equally affected based upon final Intensity. However, if the caster chooses, they may keep some of the traits at full Intensity and limit others. Therefore, if Part Water were to be cast at 4 Intensity, it would normally possess a Duration of 40 minutes with a Range of 240 feet. If desired, the caster could keep the 240-foot Range, but have the spell only last for 5 minutes.
 
 There is no minimum amount imposed on a spell trait. The only exception would be a spell with a static trait unaffected by Intensity. In this instance the trait may not be altered. For example, a Fireball spell possesses a radius of 20 feet. One of the things that balances this powerful spell is that it cannot have its area modified, making it just as dangerous to allies and enemies if not used with caution.
 
 ---
 ## Illusions and Phantasms
 
-Illusions and phantasms are two different types of magic that produce similar effects yet operate under a different set of parameters. Both attempt to trick the senses of those observing them into believing they are real, and the prospect of using them successfully in play comes from knowing what each is capable and incapable of doing. Constructs such as golems and programmed undead such as skeletons and zombies are immune to the effects of illusions and phantasms, lacking any form of cognitive reasoning beyond simple programming. Both phantasms and illusions, while similar, operate differently as detailed below:
+Illusions and phantasms are two different types of magic that produce similar effects yet operate under a different set of parameters. Both attempt to trick the senses of those observing them into believing they are real, and the prospect of uCanto them successfully in play comes from knowing what each is capable and incapable of doing. Constructs such as golems and programmed undead such as skeletons and zombies are immune to the effects of illusions and phantasms, lacking any form of cognitive reasoning beyond simple programming. Both phantasms and illusions, while similar, operate differently as detailed below:
 
 ### Illusion
 
@@ -374,34 +374,34 @@ A Phantasm is a manifestation that is created within the mind of one or more liv
 
 For example, a phantasm with a 60' radius and a Duration of 10 minutes that has been cast on a party of adventurers will cause the party to be affected by the manifestation throughout the spell's Duration. Even if they leave the Area of Effect, they will see the manifestation within the designated area upon looking back. However, if a second group enters the spells Area of Effect while the Duration is still active, they will see nothing out of the ordinary, as they were not the targets of the spell.
 
-Unlike an illusion, phantasms cannot be touched, and therefore, cannot be dispelled in this manner. They are subject to disbelief as normal, but since they are rooted deep in the psyche of the victim, it is much harder to do so. Assume it is two grades more difficult. The casting of Dispel Magic will remove the phantasm from the mind of a victim if it overcomes the spell's Magnitude as normal. However, due to the nature of a phantasm, the caster must target a single character suffering its effects and cast it on them.
+Unlike an illusion, phantasms cannot be touched, and therefore, cannot be dispelled in this manner. They are subject to disbelief as normal, but since they are rooted deep in the psyche of the victim, it is much harder to do so. Assume it is two grades more difficult. The casting of Dispel Magic will remove the phantasm from the mind of a victim if it overcomes the spell's Magnitude as normal. However, due to the nature of a phantasm, the caster must target a Cantole character suffering its effects and cast it on them.
 
 ### Limitations
 
 There is no limit placed upon what the caster may create if it fits within the spell's parameters; however, the players are more likely to attempt to Disbelieve if they feel an illusion is out-of-place or simply not realistic under the circumstances. Likewise, an NPC will have that same opportunity to Disbelieve something that seems unrealistic as determined by the Games Master. A more successful illusion is typically of something the caster knows well. While it would be possible to create an illusion of something that the caster has only seen in a painting or heard about, it cannot and will not look as realistic as something they have personal knowledge of. For this reason, the simpler illusion the more believable, as it tends to give off fewer clues to its true nature.
 
-Neither illusions nor phantasms allow the caster to break physical laws. A character would not be able to physically mount an illusionary horse; even assuming the caster maintains the illusion and prevents it from unraveling when one attempts to do so. And an illusionary bridge will not allow a party of adventurers to cross a real chasm no matter how well those affected believe in its existence. Where possible, however, those subjected to the illusion will believe things are transpiring as expected. For example, the rider attempting to mount the illusionary horse will see himself sitting atop it, reigns in hand, as will all others under the spell's effects, and the party of adventurers crossing the illusionary bridge will see themselves doing so…, until they impact with the bottom of the chasm.
+Neither illusions nor phantasms allow the caster to break physical laws. A character would not be able to physically mount an illusionary horse; even assuming the caster maintains the illusion and prevents it from unraveling when one attempts to do so. And an illusionary bridge will not allow a party of adventurers to cross a real chasm no matter how well those affected believe in its existence. Where possible, however, those subjected to the illusion will believe things are transpiring as expected. For example, the Montariar attempting to mount the illusionary horse will see himself sitting atop it, reigns in hand, as will all others under the spell's effects, and the party of adventurers crosCanto the illusionary bridge will see themselves doing so…, until they impact with the bottom of the chasm.
 
 While being concentrated upon, illusions may be made to attack and/or cause injury as appropriate to their nature with the caster determining the actual results of hits, damage, and so forth. This requires the caster to continually concentrate throughout the spell's Duration. Of course, this damage is only in the minds of the victims and no actual damage is done; however, they will believe it for real if the illusion exists, or until they Disbelieve. The illusionist may choose to have armor and magic block this damage as appropriate and dictate the results of Specials as desired. Any damage sustained from an illusionary attack or threat is treated as "real" damage as far as wound levels are concerned; however, as soon as an illusion is revealed for what it truly is, any damage previously incurred by the victim vanishes. As noted above, the caster needs to keep these results realistic and in proportion to the threat in question.
 
-For example, an illusion of a band of attacking kobolds that cause a party of low Rank adventurers some difficulty before being put down would be an expected and common encounter; however, if these same kobolds display skills of master level, never missing and apparently sidestepping every blow, the players should more than likely display suspicion and would be well within their rights to attempt to Disbelieve.
+For example, an illusion of a band of attacking kobolds that cause a party of low Rank adventurers some difficulty before being put down would be an expected and common encounter; however, if these same kobolds display skills of master level, never misCanto and apparently sidestepping every blow, the players should more than likely display suspicion and would be well within their rights to attempt to Disbelieve.
 
-A character that is "killed" by an illusion collapses as if dead. The Games Master should make a Willpower roll for the victim, the effects of which are as follows:
+A character that is "killed" by an illusion collapses as if dead. The Games Master should make a Força de Vontade roll for the victim, the effects of which are as follows:
 
 - **Fumble:** The character dies from system shock due to illusionary trauma
 - **Failure:** The character awakens unharmed after 1d6 minutes
 - **Success:** The character awakens unharmed in 1d6 Rounds
-- **Critical:** The character resists losing consciousness and may immediately attempt to Disbelieve
+- **Critical:** The character resists loCanto consciousness and may immediately attempt to Disbelieve
 
 Illusions are automatically dispelled if touched unless the caster concentrates and maintains it. It is subject to disbelief as normal as well as Dispel Magic, which will dispel the manifestation. In the case of a larger manifestation, Dispel Magic will dispel a portion of the illusion's Area of Effect equal to its own.
 
 ### Attempting to Disbelieve
 
-To attempt to Disbelieve a common illusion, the viewers must state their intent and succeed at an Opposed Roll of their Willpower versus the Arcane Casting or Divine Channeling roll of the original spellcaster, as appropriate. With regards to disbelieving phantasms, which are essentially mental attacks, a character is allowed a chance to Disbelieve as soon as they are subjected to the spell; however, the Games Master should secretly make this roll on their behalf to not hint at the phantasm's true nature. Because Phantasms affect the mind directly, they are typically 2 grades more difficult to Disbelieve. In either case, a Success indicates that the viewer sees the illusion or phantasm for what it is. A Failed roll has no effect on the state of the apparition and no further attempts may be made unless stated otherwise (see below). Only sapient creatures (those with an INT Characteristic) may attempt to Disbelieve. Phantasms and illusions may also be destroyed with the casting of Dispel Magic.
+To attempt to Disbelieve a common illusion, the viewers must state their intent and succeed at an Opposed Roll of their Força de Vontade versus the Arcane Casting or Divine Channeling roll of the original spellcaster, as appropriate. With regards to disbelieving phantasms, which are essentially mental attacks, a character is allowed a chance to Disbelieve as soon as they are subjected to the spell; however, the Games Master should secretly make this roll on their behalf to not hint at the phantasm's true nature. Because Phantasms affect the mind directly, they are typically 2 grades more difficult to Disbelieve. In either case, a Success indicates that the viewer sees the illusion or phantasm for what it is. A Failed roll has no effect on the state of the apparition and no further attempts may be made unless stated otherwise (see below). Only sapient creatures (those with an INT Characteristic) may attempt to Disbelieve. Phantasms and illusions may also be destroyed with the casting of Dispel Magic.
 
 The more unbelievable the illusion, the easier it is to Disbelieve, and vice versa. After the first attempt to Disbelieve, further attempts are only possible if the manifestation suddenly does something that causes a victim to question its reality. This should be on a case-by-case basis and only allowed with the Games Master's permission.
 
-In the likely situation where some viewers see the manifestation for what it is, and others believe what they see, the players should play out the encounter as their characters believe it. _For example, those that know the ogre before them is an illusion or phantasm will attempt to reveal the true nature of the manifestation to their unbelieving allies. However, those under the spell's influence will be convinced that their friends are the ones being manipulated, and the ogre charging them is real._
+In the likely situation where some viewers see the manifestation for what it is, and others believe what they see, the players should play out the encounter as their characters believe it. _For example, those that know the ogre before them is an illusion or phantasm will attempt to reveal the true nature of the manifestation to their unbelieving allies. However, those under the spell's Influência will be convinced that their friends are the ones being manipulated, and the ogre charging them is real._
 
 ---
 ## Scrolls
@@ -413,10 +413,10 @@ Scrolls are used by many of the _Classic Fantasy Imperative_ spellcasting Classe
 Scrolls are useful tools allowing the caster additional spell storage beyond that which can normally be memorized and are categorized by type as follows:
 
 - **Cursed Scrolls:** Cursed scrolls may be either Arcane or Divine and bestow a negative effect upon the reader. These scrolls are activated merely by reading the name or title, or in the case of an Arcane scroll, casting Read Magic upon them. The curse takes effect immediately.
-- **Protection Scrolls:** Scrolls of protection may be read even by non-spellcasters and require a single Cast Magic Action on the part of the reader to take effect. The contents of the scroll depend on the nature of its creator, with different practitioners having access to forms of protection, as follows:
+- **Protection Scrolls:** Scrolls of protection may be read even by non-spellcasters and require a Cantole Cast Magic Action on the part of the reader to take effect. The contents of the scroll depend on the nature of its creator, with different practitioners having access to forms of protection, as follows:
   - **Cleric Protection Scrolls:** Demons, Devils, Possession, Undead.
   - **Magic-User Protection Scrolls:** Demons, Elementals, Lycanthropes, Magic, Petrification.
-- **Spell Scrolls:** Each spell scroll may contain a single magic-user or cleric spell, regardless of Rank, and each follows the same procedure as casting it normally with regards to Casting Time. However, casting a spell from a scroll requires no expenditure of Magic Points; this price was paid in advance by the scroll's original creator.
+- **Spell Scrolls:** Each spell scroll may contain a Cantole magic-user or cleric spell, regardless of Rank, and each follows the same procedure as casting it normally with regards to Casting Time. However, casting a spell from a scroll requires no expenditure of Magic Points; this price was paid in advance by the scroll's original creator.
 
 A caster may automatically cast any spell from a scroll, assuming they are of the appropriate Class and that they themselves are of sufficient Rank to cast that spell. If they know the spell in question, it requires no skill roll. This causes the spell to disappear from the scroll as the magic is consumed in the spell's casting. A spellcaster may also attempt to cast a spell of a higher Rank, but this requires a successful roll of either Arcane Casting or Divine Channeling as appropriate. A Failure means that the spell is not cast and has been erased from the scroll. On a Fumble, the spell has been miscast. This typically results in the spell affecting the reader and/or one or more allies or having the opposite effect of what was desired.
 
@@ -434,4 +434,4 @@ The difficulty applied to the skill roll is dependent upon the difference betwee
 
 ### Defending Against a Scroll's Effects
 
-Any harmful magical effects of a scroll may be resisted using the normal methods appropriate to the effects in question. Those resisting may make an Opposed Endurance, Willpower, or Evade roll, vs. the scroll's Magnitude x10. A scroll possesses a Magnitude equal to its Intensity. Note that Resist (Evade) requires the target to have a Combat Action available in order to throw themselves clear.
+Any harmful magical effects of a scroll may be resisted uCanto the normal methods appropriate to the effects in question. Those resisting may make an Opposed Tolerância, Força de Vontade, or Evasão roll, vs. the scroll's Magnitude x10. A scroll possesses a Magnitude equal to its Intensity. Note that Resist (Evasão) requires the target to have a Combat Action available in order to throw themselves clear.

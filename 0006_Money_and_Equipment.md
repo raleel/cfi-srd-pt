@@ -17,14 +17,14 @@ The standard currency for _Classic Fantasy Imperative_ consists of the Copper, S
 
 Usually where the price of an item or service price consists of coins of different value, it will be displayed with a decimal: 1.5GP would be 1 gold and 5 silver, as 5 silver is half of a gold piece. Likewise, 3.5SP would be 3 silver and 5 copper.
 
-Some cultures, typically farming, nomad, and barbarian communities, measure wealth in terms of livestock. A single large herd animal, such as a cow, is worth around 10GP. A pig or sheep is worth around 2.5GP (2GP, 5SP) and a flock of hens around 1.5GP (1GP, 5SP). Others like orcs, goblins, and other humanoid races, who may have little actual use for coinage within their own community do, however, know it's worth to the civilized races and therefore can usually be found in possession of coinage as well.
+Some cultures, typically farming, nomad, and barbarian communities, measure wealth in terms of livestock. A Cantole large herd animal, such as a cow, is worth around 10GP. A pig or sheep is worth around 2.5GP (2GP, 5SP) and a flock of hens around 1.5GP (1GP, 5SP). Others like orcs, goblins, and other humanoid races, who may have little actual use for coinage within their own community do, however, know it's worth to the civilized races and therefore can usually be found in possession of coinage as well.
 
 ---
 ## Encumbrance
 
 _Classic Fantasy Imperative_ does not need detailed encumbrance rules if the Games Master deems them unnecessary. Instead, a character can carry a number of 'Things' up to their STR Characteristic. A 'thing' is defined as something of weight, volume, or substance. Example Things are:
 
-- A single-handed melee weapon or buckler shield (2H weapons and all other shields count as 2 Things; small weapons such as daggers count as half a Thing)
+- A Cantole-handed melee weapon or buckler shield (2H weapons and all other shields count as 2 Things; small weapons such as daggers count as half a Thing)
 - A light or heavy bow or a light crossbow (heavy crossbows and light repeating crossbows count as 2 Things); a sling counts as half a Thing.
 - Quiver (can carry 20 arrows or bolts at no additional weight)
 - Fully laden backpack (of up to 10 Things at no additional weight)
@@ -37,7 +37,7 @@ _Classic Fantasy Imperative_ does not need detailed encumbrance rules if the Gam
 - Every full 50 coins of any denomination weigh the equivalent of Half a 'Thing.'
 - Assume that 1 SIZ is equal to 3 'Things'.
 
-Every additional Thing above a character's STR reduces the character's Initiative Bonus by 1. Every 6 Things above STR reduces the character's Movement Rate by 5 feet. Finally, when more Things are carried than the character's STR, skills using STR or DEX as part of their Base are 1 grade more difficult. When more Things are carried than twice the character's STR, these skills are 2 grades more difficult.
+Every additional Thing above a character's STR reduces the character's Initiative Bonus by 1. Every 6 Things above STR reduces the character's Movement Rate by 5 feet. Finally, when more Things are carried than the character's STR, skills uCanto STR or DEX as part of their Base are 1 grade more difficult. When more Things are carried than twice the character's STR, these skills are 2 grades more difficult.
 
 Armor Encumbrance: For simplicity, worn armor does not count toward Things carried for characters proficient in, and accustomed to the armor they wear. However, for characters not proficient in armor, or in the case of additional armor pieces being carried, they have a value of 1 Thing per Hit Location for light armor, and 2 Things per Hit Location for heavy. Thus, a full suit of light armor being worn by someone without training, or carried by anyone, is a total of 7 Things, and a full suit of heavy armor is a total of 14. On top of that, a full suit of heavy armor will not even fit in a backpack.
 
@@ -74,12 +74,12 @@ All weapons are governed by a series of Characteristics which are as follows:
 - **Traits:**  Some weapons, due to their specialized nature, have certain qualities, or traits, which differentiate them from weapons of a similar style. The common traits are:
   - _Barbed_ – If impaled it will cause full, rather than half, damage on being yanked free.
   - _Entrapping_ – If used to Parry an attacking weapon, that weapon is considered one size smaller than it is. So, a Large sword is considered Medium and a Medium sword is considered Small. Weapons already Small in size are unaffected.
-  - _Flexible_ – If the opponent is using a shield to Parry, the shield is considered one size smaller than it is. So, a Huge shield is considered Large, a Large shield is considered Medium, and so on.
+  - _Flexible_ – If the opponent is uCanto a shield to Parry, the shield is considered one size smaller than it is. So, a Huge shield is considered Large, a Large shield is considered Medium, and so on.
   - _Mount_ – The weapon must be used from the back of a moving mount.
   - _Passive Block_ – The weapon can passively block multiple Hit Locations, which must be contiguous to one another.
   - _Ranged Parry_ – The weapon can parry Ranged weapons.
   - _Set_ – The weapon can be set to receive a foot or mounted charge.
-  - _Stealth_ – The weapon must be used from ambush.
+  - _Furtividade_ – The weapon must be used from ambush.
   - _Thrown_ – The weapon can be used as a Ranged Weapon as well as a hand-to-hand weapon.
 - **Cost:**  The weapon's cost in Gold and/or Silver Pieces. 2.5GP would be 2 gold and 5 silver.
 - **Encumbrance:**  Unless specified otherwise, all melee weapons are equivalent to 1 'Thing.'
@@ -116,7 +116,7 @@ _\*\* Counts as 2 'Things' with regards to ENC_
 | Falchion | 1H | 1d6+2 | M | Bleed | 6/10 | — | 20GP |
 | Flail | 1H | 1d6 | M | Bash | 3/6 | Flexible | 2.5GP |
 | Flail, heavy\*\* | 2H | 1d10 | L | Bash, Stun Location | 4/10 | Flexible | 25GP |
-| Garrote\* | 2H | 1d2 | S | — | 1/2 | Stealth | 1.5GP |
+| Garrote\* | 2H | 1d2 | S | — | 1/2 | Furtividade | 1.5GP |
 | Glaive\*\* | 2H | 1d10+2 | L | Bleed, Sunder | 4/10 | — | 25GP |
 | Great axe\*\* | 2H | 2d6+2 | H | Bleed, Sunder | 4/10 | — | 15GP |
 | Great hammer\*\* | 2H | 1d10+3 | H | Bash, Stun Location, Sunder | 4/10 | — | 25GP |
@@ -134,7 +134,7 @@ _\*\* Counts as 2 'Things' with regards to ENC_
 | Saber | 1H | 1d6+1 | M | Bleed, Impale | 6/8 | — | 23GP |
 | Scimitar | 1H | 1d8 | M | Bleed | 6/10 | — | 20GP |
 | Shortsword | 1H | 1d6 | M | Bleed, Impale | 6/8 | — | 10GP |
-| Trident | 1H | 1d8 | M | Impale | 4/10 | Barbed | 16GP |
+| TMontariant | 1H | 1d8 | M | Impale | 4/10 | Barbed | 16GP |
 | War hammer | 1H | 1d8+1 | M | Stun Location | 3/8 | — | 15GP |
 | Whip\*\*\* | 1H | 1d3 | M | Stun Location | 2/8 | Flexible, Entrapping | 10GP |
 
@@ -217,7 +217,7 @@ _\*\*\* Counts as 2 'Things' with regards to ENC, has the Dwarf and Repeating tr
 
 ### Ranged Weapon Ammunition
 
-Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bolts, darts, and bullets can be made by anyone with the appropriate craft. skill, for example Craft. (Fletcher) for arrows, if the appropriate raw materials and a suitable work area or workshop are available for the task. All ammunition is sold in quantities totaling 1 'Thing.'
+Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bolts, darts, and bullets can be made by anyone with the appropriate Ofício. skill, for example Ofício. (Fletcher) for arrows, if the appropriate raw materials and a suitable work area or workshop are available for the task. All ammunition is sold in quantities totaling 1 'Thing.'
 
 ##### Ranged Weapon Ammunition
 
@@ -265,15 +265,15 @@ Every city, as well as most large towns, will have at least one shop dedicated t
 
 | Magic Item | Chance of Availability | Description/Game Effects | Cost |
 | :-- | :-- | :-- | :-: |
-| Healing Balm | 100% chance of 1d4+2 | First Aid rolls are 1 grade easier and natural recovery is sped up as well, increasing the character's Healing Rate by 1 in each location it is applied. A single wound may not benefit from more than one application of the balm. Each sample provides enough for 3 separate wounds. | 1GP |
+| Cura Balm | 100% chance of 1d4+2 | Primeiros Socorros rolls are 1 grade easier and natural recovery is sped up as well, increaCanto the character's Cura Rate by 1 in each location it is applied. A Cantole wound may not benefit from more than one application of the balm. Each sample provides enough for 3 separate wounds. | 1GP |
 | Potion of Dispel Magic | 80% chance of 1d3+1 | Negates one magical effect on the imbiber with an Intensity less than 1d4+1, cumulative. | 50GP |
-| Potion of Healing | 80% chance of 1d4+2 | Restores 1d6+1 Hit Points to a location suffering a Minor Wound and 1 Hit Point to a Serious Wound. Has no effect on a Major Wound. In addition, it stabilizes all injured locations, stopping all bleeding and preventing imminent death from inattention. | 40GP |
-| Potion of Greater Healing | 40% chance of 1d2+1 | As for Potion of Healing, however, heals 1d8+2 Hit Points to a Minor or Serious Wound and 2 Hit Points to a Major Wound. It functions in all other ways as a Potion of Healing. | 80GP |
+| Potion of Cura | 80% chance of 1d4+2 | Restores 1d6+1 Hit Points to a location suffering a Minor Wound and 1 Hit Point to a Serious Wound. Has no effect on a Major Wound. In addition, it stabilizes all injured locations, stopping all bleeding and preventing imminent death from inattention. | 40GP |
+| Potion of Greater Cura | 40% chance of 1d2+1 | As for Potion of Cura, however, heals 1d8+2 Hit Points to a Minor or Serious Wound and 2 Hit Points to a Major Wound. It functions in all other ways as a Potion of Cura. | 80GP |
 | Potion of Magica | 40% chance of 1d2+1 | This potion will restore 1d3+1 previously expended Magic Points. It will not boost a character to more than their normal Magic Point total. Drinking more than one per hour has no additional effect. | 80GP |
 | Potion of Vigor | 80% chance of 1d4+2 | Restores 1d3+1 levels of Fatigue. Has no effect on Fatigue gained through Blood Loss or Energy Drain. | 50GP |
 | Rank 0 Spell Scroll | 100% chance of 1d4+1 of each | A scroll containing a Rank 0 Arcane or Divine spell. All Rank 0 spells are typically available. | 10GP |
 | Rank 1 Spell Scroll | 100% chance of 1d3 of each | A scroll containing a Rank 1 Arcane or Divine spell. All Rank 1 spells are typically available. | 40GP |
-| Vial of Holy Water | 100% chance of 1d4 | May be thrown up to 10 feet. Undead, demons, devils, and other entities of pure evil, take 1d2 points of damage to 1d3 Hit Locations with an Easy Athletics roll. Holy Water will burn for 1d2 Rounds. Armor will protect against this damage. | 25GP |
+| Vial of Holy Water | 100% chance of 1d4 | May be thrown up to 10 feet. Undead, demons, devils, and other entities of pure evil, take 1d2 points of damage to 1d3 Hit Locations with an Easy Atletismo roll. Holy Water will burn for 1d2 Rounds. Armor will protect against this damage. | 25GP |
 
 ---
 ## Tools
@@ -292,13 +292,13 @@ Tools include all the items any self-respecting adventurer can be expected to ow
 | Candles, 6 Hour (10) | 5-foot radius. | 1GP |
 | Climbing Kit | Leather harness, pitons, short lengths of rope, and other misc. tools. Climbing rolls one grade easier. | 3GP |
 | Cooking Pot | For travel. | 3SP |
-| Craft Tools | Basic tools to match a handicraft. | 8GP |
-| Crowbar | Any Brawn rolls to force doors, casket lids, and so forth are one grade easier. Counts as a club in combat. | 2.5GP |
-| First Aid Kit | Useful for 10 applications of First Aid skill. | 2.5GP |
-| Flint & Tinder | Start fires in about a minute with no Survival roll necessary (counts as ½ a Thing). | 1SP |
+| Ofício Tools | Basic tools to match a handiOfício. | 8GP |
+| Crowbar | Any Musculatura rolls to force doors, casket lids, and so forth are one grade easier. Counts as a club in combat. | 2.5GP |
+| Primeiros Socorros Kit | Useful for 10 applications of Primeiros Socorros skill. | 2.5GP |
+| Flint & Tinder | Start fires in about a minute with no Sobrevivência roll necessary (counts as ½ a Thing). | 1SP |
 | Grappling Hook | May be thrown up to half STRx3 feet with a successful Throw roll. | 5SP |
 | Hammer/Mallet/3 Chisels | Hammers and mallets may be treated as a club in combat, chisels as a knife. | 1SP |
-| Healer's Kit | Useful for 10 applications of Healing skill. | 15GP |
+| Healer's Kit | Useful for 10 applications of Cura skill. | 15GP |
 | Holy Symbol | The symbol of one's patron deity. Good quality x10 cost, Excellent x100 (½ a Thing). | 5SP |
 | Ladder, Rope 10 Feet | Climbing rolls one grade easier. | 2SP |
 | Lantern, Basic | Burns for 2 hours on one flask of oil, 10-foot radius. | 1GP |

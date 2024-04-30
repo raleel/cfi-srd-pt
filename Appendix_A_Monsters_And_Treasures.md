@@ -4,7 +4,7 @@ This appendix contains a small sample of monsters and treasure in an abbreviated
 
 ## Notes on Monster Rank
 
-Rank denotes an approximate challenge of the creature in question and is similar, but _not_ equal to, a character's Rank. Four Rank 1 creatures would be a challenge for four Rank 1 characters. It doesn't mean it will be an equal fight, just that it should be a challenge. For example, a party of six Rank 1 characters should find six Rank 1 monsters a challenge, or twelve Rank ½, or three Rank 2, or a single Rank 6, and so on. That doesn't mean that they couldn't survive a battle against a Rank 8 monster, or that they couldn't be destroyed by a number of creatures equaling half their Rank. That's just the nature of random dice rolls. It does, however, give a starting point for Games Masters learning the system. **A good rule of thumb is to choose monsters whose Rank is equal to the party's Rank, plus or minus one**. That way the players aren't always running into the same number of orcs, goblins, ogres, and so on.
+Rank denotes an approximate challenge of the creature in question and is similar, but _not_ equal to, a character's Rank. Four Rank 1 creatures would be a challenge for four Rank 1 characters. It doesn't mean it will be an equal fight, just that it should be a challenge. For example, a party of six Rank 1 characters should find six Rank 1 monsters a challenge, or twelve Rank ½, or three Rank 2, or a Cantole Rank 6, and so on. That doesn't mean that they couldn't survive a battle against a Rank 8 monster, or that they couldn't be destroyed by a number of creatures equaling half their Rank. That's just the nature of random dice rolls. It does, however, give a starting point for Games Masters learning the system. **A good rule of thumb is to choose monsters whose Rank is equal to the party's Rank, plus or minus one**. That way the players aren't always running into the same number of orcs, goblins, ogres, and so on.
 
 ---
 ## Example Monsters
@@ -23,7 +23,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | None |
 | Alignment | Typically, Evil 54% |
 | Armor | Chest, abdomen, and limbs 3 (studded leather), head 8 (steel helm) |
-| Skills | Athletics 52%, Brawn 54%, Language (Common Tongue) 64%, Customs 46%, Deceit 44%, Endurance 52%, Evade 52%, Insight 54%, Locale 66%, Perception 44%, Stealth 44%, Survival 52%, Unarmed 42%, Willpower 42% |
+| Skills | Atletismo 52%, Musculatura 54%, Idioma (Common Tongue) 64%, Customs 46%, Dissimulação 44%, Tolerância 52%, Evasão 52%, Intuição 54%, Local 66%, Percepção 44%, Furtividade 44%, Sobrevivência 52%, Unarmed 42%, Força de Vontade 42% |
 | Combat Skill | 56% - Battleaxe, Target Shield, Shortbow |
   
 #### Weapon Details
@@ -63,7 +63,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Leaper](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
 | Alignment | NA |
 | Armor | None |
-| Skills | Athletics 40%, Brawn 22%, Endurance 52%, Evade 56%, Perception 50%, Stealth 56%, Swim 58%, Willpower 34% |
+| Skills | Atletismo 40%, Musculatura 22%, Tolerância 52%, Evasão 56%, Percepção 50%, Furtividade 56%, Natação 58%, Força de Vontade 34% |
 | Combat Skill | 50% - Claws, Bite |
 
   
@@ -103,7 +103,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Alignment | Evil 52% |
 | Armor | Chest, abdomen, and head 3 (studded leather), limbs 0 |
-| Skills | Athletics 42%, Brawn 36%, Deceit 49%, Endurance 42%, Evade 58%, Languages (Goblin, Hobgoblin, Kobold, Orcish) 59%, Perception 63%, Ride 55%, Stealth 56%, Unarmed 42%, Willpower 42% |
+| Skills | Atletismo 42%, Musculatura 36%, Dissimulação 49%, Tolerância 42%, Evasão 58%, Idiomas (Goblin, Hobgoblin, Kobold, Orcish) 59%, Percepção 63%, Montaria 55%, Furtividade 56%, Unarmed 42%, Força de Vontade 42% |
 | Combat Skill | 52% - Shortsword, Target Shield, Sling |
 
 #### Weapon Details
@@ -144,7 +144,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample) |
 | Alignment | Evil 52%, Hate magic and spellcasters 57% |
 | Armor | Chest and abdomen 3 (furs and tough skin), head and limbs 2 (tough skin) |
-| Skills | Athletics 66%, Brawn 87%, Endurance 80%, Evade 42%, Language (Giant) 47%, Locale 50%, Perception 51%, Unarmed 66%, Willpower 42% |
+| Skills | Atletismo 66%, Musculatura 87%, Tolerância 80%, Evasão 42%, Idioma (Giant) 47%, Local 50%, Percepção 51%, Unarmed 66%, Força de Vontade 42% |
 | Combat Skill | 76% - Giant-sized Club, Hurled Boulder (SIZ 8)<br> 66% - Trample |
 
 #### Weapon Details
@@ -184,7 +184,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Cold-blooded](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Alignment | Evil 52%, Hates Everyone 62% |
 | Armor | Chest, abdomen, and head 3 (leather and scaly hide), limbs 1 (scaly hide) |
-| Skills | Athletics 40%, Brawn 31%, Deceit 57%, Endurance 42%, Evade 66%, Languages (Kobold, Goblin and Orcish) 57%, Mechanisms 66%, Perception 64%, Stealth 66%, Unarmed 39%, Willpower 42% |
+| Skills | Atletismo 40%, Musculatura 31%, Dissimulação 57%, Tolerância 42%, Evasão 66%, Idiomas (Kobold, Goblin and Orcish) 57%, Mecanismos 66%, Percepção 64%, Furtividade 66%, Unarmed 39%, Força de Vontade 42% |
 | Combat Skill | 49% - Shortsword, Target Shield, Javelin |
 
 #### Weapon Details
@@ -226,7 +226,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
 | Alignment | Evil 52%, Hate Elves and Dwarves 57% |
 | Armor | Chest and abdomen 5 (chain mail), head 8 (steel helm), arms 0, legs 3 (studded leather) |
-| Skills | Athletics 55%, Brawn 48%, Deceit 48%, Endurance 56%, Evade 52%, Languages (Orcish and Common, some can speak Goblin, Hobgoblin, and Ogre) 58%, Perception 52%, Unarmed 55%, Willpower 52% |
+| Skills | Atletismo 55%, Musculatura 48%, Dissimulação 48%, Tolerância 56%, Evasão 52%, Idiomas (Orcish and Common, some can speak Goblin, Hobgoblin, and Ogre) 58%, Percepção 52%, Unarmed 55%, Força de Vontade 52% |
 | Combat Skill | 55% - Battleaxe, Target Shield, Longbow |
 
 #### Weapon Details
@@ -269,7 +269,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
 | Alignment | Evil 71%, Bad mannered and quick to anger 48% |
 | Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs 2 (tough skin) |
-| Skills | Athletics 61%, Brawn 88%, Endurance 76%, Evade 52%, Language (Ogre) 57%, Locale 40%, Perception 41%, Survival 59%, Track 58%, Unarmed 61%, Willpower 42% |
+| Skills | Atletismo 61%, Musculatura 88%, Tolerância 76%, Evasão 52%, Idioma (Ogre) 57%, Local 40%, Percepção 41%, Sobrevivência 59%, Rastrear 58%, Unarmed 61%, Força de Vontade 42% |
 | Combat Skill | 71% - Ogre Club<br> 61% -  Trample |
 
 #### Weapon Details
@@ -311,7 +311,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Breathe Flame](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Immunity (Fire)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample);[Wing Buffet](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
 | Alignment | Evil 95%, Quick to anger, suspicious, and hate silver dragons 88% |
 | Armor | 8 (thick scales) |
-| Skills | Arcane Knowledge 92%, Athletics 77%, Brawn 120%, Deceit 95%, Endurance 92%, Evade 52%, Fly 87%, Influence 78%, Insight 95%, Language (Chromatic Dragon) 95%, Locale 92%, Lore (Dragon) 92%, Perception 98%, Teach 95%, Willpower 78%, Speech (75% chance of having the ability to speak) |
+| Skills | Arcane Knowledge 92%, Atletismo 77%, Musculatura 120%, Dissimulação 95%, Tolerância 92%, Evasão 52%, Fly 87%, Influência 78%, Intuição 95%, Idioma (Chromatic Dragon) 95%, Local 92%, Saber (Dragon) 92%, Percepção 98%, Teach 95%, Força de Vontade 78%, Speech (75% chance of having the ability to speak) |
 | Combat Skill | 100% - Cone Of Fire<br>  87% - Claws, Tail, Teeth, Wing Buffet <br> 77% -  Trample|
 
 #### Weapon Details
@@ -359,7 +359,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Undead (Intensity vs. Turn: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
 | Alignment | NA |
 | Armor | Chest and abdomen 5 (chain mail), head and limbs 0 |
-| Skills | Athletics 54%, Brawn 53%, Endurance 50%, Evade 68%, Perception 44%, Unarmed 54%, Willpower 42% |
+| Skills | Atletismo 54%, Musculatura 53%, Tolerância 50%, Evasão 68%, Percepção 44%, Unarmed 54%, Força de Vontade 42% |
 | Combat Skill | 54% - Battleaxe, Round Shield, Longbow |
 
 #### Weapon Details
@@ -401,7 +401,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terrifying](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
 | Alignment | Evil 52%, Hate Good Giants 57% |
 | Armor | 3 (Thick, rubbery skin) |
-| Skills | Athletics 68%, Brawn 90%, Endurance 90%, Evade 62%, Languages (Troll) 53%, Locale 48%, Perception 60% (sight and smell), Survival 66%, Track 64%, Willpower 52% |
+| Skills | Atletismo 68%, Musculatura 90%, Tolerância 90%, Evasão 62%, Idiomas (Troll) 53%, Local 48%, Percepção 60% (sight and smell), Sobrevivência 66%, Rastrear 64%, Força de Vontade 52% |
 | Combat Skill | 78% - Bite, Claws |
 
 #### Weapon Details
@@ -444,7 +444,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Undead (Intensity vs. Turn: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
 | Alignment | None |
 | Armor | Chest and abdomen 5 (chain mail), head and limbs 0 |
-| Skills | Athletics 53%, Brawn 57%, Endurance 58%, Evade 48%, Perception 44%, Unarmed 53%, Willpower 42% |
+| Skills | Atletismo 53%, Musculatura 57%, Tolerância 58%, Evasão 48%, Percepção 44%, Unarmed 53%, Força de Vontade 42% |
 | Combat Skill | 53% - Fists, Club |
 
 
@@ -482,7 +482,7 @@ The creature can move freely on vertical surfaces, and even move upside down on 
 
 #### Aquatic
 
-The creature breathes water rather than air, generally possessing gills or a skin capable of absorbing dissolved air directly. If taken out of water and their breathing organs allowed to dry out, they begin to suffocate after their CON in minutes if remaining passive or half that time if moving or fighting.
+The creature breathes water rather than air, generally possesCanto gills or a skin capable of absorbing dissolved air directly. If taken out of water and their breathing organs allowed to dry out, they begin to suffocate after their CON in minutes if remaining passive or half that time if moving or fighting.
 
 #### Blood Sense
 
@@ -490,9 +490,9 @@ Allows the creature to detect blood over great distances, either carried by wind
 
 #### Breathe Flame
 
-The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON x5 feet. At the furthest extent, the width of the cone is equal to its length. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evade to halve this damage. Armor Points count as normal unless otherwise noted.
+The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON x5 feet. At the furthest extent, the width of the cone is equal to its length. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evasão to halve this damage. Armor Points count as normal unless otherwise noted.
 
-A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Endurance rolls with each roll becoming one grade harder or suffer a level of Fatigue.
+A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Tolerância rolls with each roll becoming one grade harder or suffer a level of Fatigue.
 
 #### Burrower
 
@@ -500,7 +500,7 @@ The creature is adept at tunneling through the ground at its normal Movement rat
 
 #### Camouflaged
 
-The creature is adept at hiding due to its coloration or unusual surface texture. Those attempting to spot the creature suffer a penalty to Perception of two difficulty grades.
+The creature is adept at hiding due to its coloration or unusual surface texture. Those attempting to spot the creature suffer a penalty to Percepção of two difficulty grades.
 
 #### Characteristic Drain
 
@@ -528,11 +528,11 @@ Some creatures can plummet from the sky or surge through the waters to attack th
 
 #### Earth Sense
 
-Some creatures are so in tune with the underground world that they can work perfectly well in the total darkness of the deep. By sensing vibration and air pressure, a creature with Earth Sense can fight, and make Perception rolls with no penalty as long as their target is no more than their INS x5 feet away. If using Earth Sense above ground the range is halved.
+Some creatures are so in tune with the underground world that they can work perfectly well in the total darkness of the deep. By senCanto vibration and air pressure, a creature with Earth Sense can fight, and make Percepção rolls with no penalty as long as their target is no more than their INS x5 feet away. If uCanto Earth Sense above ground the range is halved.
 
 #### Echolocation
 
-The creature senses its environment through reflections of sonic waves. This means that it can perceive others that may be either motionless or hidden. In such circumstances, using a Stealth roll to attempt to remain unperceived by the creature is two grades more difficult.
+The creature senses its environment through reflections of sonic waves. This means that it can perceive others that may be either motionless or hidden. In such circumstances, uCanto a Furtividade roll to attempt to remain unperceived by the creature is two grades more difficult.
 
 #### Engulfing
 
@@ -540,15 +540,15 @@ The creature has an orifice which can swallow targets whole. The maximum size of
 
 #### Flying
 
-The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flyer may substitute the Fly skill (base STR+DEX) for Evade when fighting whilst aloft.
+The creature automatically succeeds in everyday moving and maneuvering whilst flying and need not roll their Fly skill unless attempting an unusually difficult task, such as flying against a powerful wind, evading a ranged attack in the air, or outmaneuvering an aerial foe. A flyer may substitute the Fly skill (base STR+DEX) for Evasão when fighting whilst aloft.
 
 #### Formidable Natural Weapons
 
-This creature can actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which can shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evade.
+This creature can actively parry or deflect attacks uCanto its natural weapons. This is due to a combination of fighting style and possesCanto natural armament being formed from resilient substances such as horn, chitin or bone which can shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evasão.
 
 #### Frenzy
 
-When wounded or exposed to a particular substance - blood for instance - the creature must succeed in a Willpower roll or enter a frenzy. The frenzy lasts a number of rounds equal to the creature's CON. During the frenzy they must only spend Combat Actions on attacking or moving towards combat. Spellcasting, parrying, evading, and anything else is forbidden; all thoughts of self-preservation washed away in a red haze. In return, the creature no longer suffers pain or fatigue, and is impervious to mental control. During this time, it is immune to all the detrimental effects of Serious Wounds, although a Major Wound will still incapacitate. If still alive, once the frenzy finishes the creature automatically gains a fatigue level of Exhausted.
+When wounded or exposed to a particular substance - blood for instance - the creature must succeed in a Força de Vontade roll or enter a frenzy. The frenzy lasts a number of rounds equal to the creature's CON. During the frenzy they must only spend Combat Actions on attacking or moving towards combat. Spellcasting, parrying, evading, and anything else is forbidden; all thoughts of self-preservation washed away in a red haze. In return, the creature no longer suffers pain or fatigue, and is impervious to mental control. During this time, it is immune to all the detrimental effects of Serious Wounds, although a Major Wound will still incapacitate. If still alive, once the frenzy finishes the creature automatically gains a fatigue level of Exhausted.
 
 #### Gaze Attack
 
@@ -556,11 +556,11 @@ The creature has a gaze attack. This attack may be active (the creature must con
 
 #### Grappler
 
-If the creature successfully strikes in combat, it can immediately Grapple in addition to inflicting damage. If the creature's attack was parried (or the creature itself is parrying), then the creature is granted the Grip effect against the opponent's limb or the Pin Weapon effect against his weapon instead. The creature always uses its Brawn skill to oppose a victim breaking free.
+If the creature successfully strikes in combat, it can immediately Grapple in addition to inflicting damage. If the creature's attack was parried (or the creature itself is parrying), then the creature is granted the Grip effect against the opponent's limb or the Pin Weapon effect against his weapon instead. The creature always uses its Musculatura skill to oppose a victim breaking free.
 
 #### Hold Breath
 
-The creature can hold its breath for extended periods of time. If prepared and remaining fairly static, the creature can hold its breath for a number of minutes equal to its CON. This period is halved if the creature is active, such as when swimming or fighting.
+The creature can hold its breath for extended periods of time. If prepared and remaining fairly static, the creature can hold its breath for a number of minutes equal to its CON. This period is halved if the creature is active, such as when Nataçãoming or fighting.
 
 #### Immunity
 
@@ -568,7 +568,7 @@ The creature is completely immune to damage caused by one type of source. This s
 
 #### Intimidate
 
-The creature may intimidate opponents as a prelude to combat or to avoid it altogether: growls, snarls, lowering of horns, and so forth. Opponents must make an unopposed Willpower roll to hold their ground; a success allows a character to stand his ground, whereas a failure indicates that they must spend the next round instinctively placing distance between themselves and the creature. If he fumbles the Willpower roll, then the character flees at maximum speed. A critical success allows the character to ignore any further intimidation attempts by the creature or its brethren during that encounter. The effect continues for as long as the creature continues to act in a threatening manner, which includes it making an attack.
+The creature may intimidate opponents as a prelude to combat or to avoid it altogether: growls, snarls, lowering of horns, and so forth. Opponents must make an unopposed Força de Vontade roll to hold their ground; a success allows a character to stand his ground, whereas a failure indicates that they must spend the next round instinctively placing distance between themselves and the creature. If he fumbles the Força de Vontade roll, then the character flees at maximum speed. A critical success allows the character to ignore any further intimidation attempts by the creature or its brethren during that encounter. The effect continues for as long as the creature continues to act in a threatening manner, which includes it making an attack.
 
 #### Leaper
 
@@ -576,7 +576,7 @@ The creature uses [Leaping Attacks](0008_Combat.md?id=leaping-attacks) as descri
 
 #### Life Sense
 
-In tune with the rhythms of nature, this creature can determine the vitality of any living creature by touch alone. If the creature makes a successful Perception roll, it learns of the target's current injuries, Fatigue level, and whether it is currently afflicted by any poison or disease. The creature is also aware of any form of life within a number of feet equal to three times its Willpower skill, which may make Stealth difficult to accomplish.
+In tune with the rhythms of nature, this creature can determine the vitality of any living creature by touch alone. If the creature makes a successful Percepção roll, it learns of the target's current injuries, Fatigue level, and whether it is currently afflicted by any poison or disease. The creature is also aware of any form of life within a number of feet equal to three times its Força de Vontade skill, which may make Furtividade difficult to accomplish.
 
 #### Light Sensitive
 
@@ -584,7 +584,7 @@ Those suffering light sensitivity find all skill rolls in daylight one Difficult
 
 #### Magic Sense
 
-Like Life Sense but permits the creature to detect magical emanations over the same distances. If the creature touches another and makes a successful Perception roll, it learns of the target's current magic points, carried enchantments, and active spells.
+Like Life Sense but permits the creature to detect magical emanations over the same distances. If the creature touches another and makes a successful Percepção roll, it learns of the target's current magic points, carried enchantments, and active spells.
 
 #### Multi-Headed
 
@@ -606,17 +606,17 @@ The creature is immune to all poisons. All creatures without SIZ automatically h
 
 The creature can regenerate Hit Points lost to damage. The speed of regeneration varies depending upon the creature. Unless specifically noted, regeneration does not replace lost limbs, and the severing of a vital location (head, chest, or abdomen) will still result in death.
 
-#### Swimmer
+#### Nataçãomer
 
-The creature automatically succeeds in everyday moving and maneuvering whilst swimming and need not roll their Swim skill unless attempting an unusually difficult task, such as swimming against a powerful tide or leaping up a waterfall. A swimmer may substitute the Swim skill for Athletics and Evade rolls whilst in water.
+The creature automatically succeeds in everyday moving and maneuvering whilst Nataçãoming and need not roll their Natação skill unless attempting an unusually difficult task, such as Nataçãoming against a powerful tide or leaping up a waterfall. A Nataçãomer may substitute the Natação skill for Atletismo and Evasão rolls whilst in water.
 
 #### Terrifying
 
-The creature's appearance, form or aura is so terrifying it forces viewers to make an unopposed Willpower roll. Success indicates the viewer is shaken for one round and cannot act offensively. Failure causes them to flee in terror. A fumble causes the viewer to collapse unconscious from the shock. Only a critical success allows the viewer to act unhindered. The viewer need not make any further checks for the remainder of the combat, even if more of the same creatures are present. Repeated exposure to a specific type of Terrifying monster may eventually permit the skill check to become one or more grades easier.
+The creature's appearance, form or aura is so terrifying it forces viewers to make an unopposed Força de Vontade roll. Success indicates the viewer is shaken for one round and cannot act offensively. Failure causes them to flee in terror. A fumble causes the viewer to collapse unconscious from the shock. Only a critical success allows the viewer to act unhindered. The viewer need not make any further checks for the remainder of the combat, even if more of the same creatures are present. Repeated exposure to a specific type of Terrifying monster may eventually permit the skill check to become one or more grades easier.
 
 #### Trample
 
-The creature can trample beings with a SIZ of half or less than its own, using its Athletics skill to attack. This inflicts damage equal to twice the creature's base Damage Modifier and increases the Size of the attack by one step. How and when trample is used depends on the circumstances. If immobile the creature may trample a prone opponent on its turn, but this costs an Action Point. If the trample is performed whilst the creature is moving or charging over an opponent, then the trample is a Free Action.
+The creature can trample beings with a SIZ of half or less than its own, uCanto its Atletismo skill to attack. This inflicts damage equal to twice the creature's base Damage Modifier and increases the Size of the attack by one step. How and when trample is used depends on the circumstances. If immobile the creature may trample a prone opponent on its turn, but this costs an Action Point. If the trample is performed whilst the creature is moving or charging over an opponent, then the trample is a Free Action.
 
 #### Undead
 
@@ -624,7 +624,7 @@ Being already dead, the creature is immune to the consequences of both fatigue a
 
 #### Vampiric
 
-The creature drains its victim's blood, causing an increase in Fatigue levels. The creature must use a bite attack, and cause damage with the bite to be able to drain blood at the rate described in the creature's description.
+The creature drains its victim's blood, cauCanto an increase in Fatigue levels. The creature must use a bite attack, and cause damage with the bite to be able to drain blood at the rate described in the creature's description.
 
 #### Venomous
 
@@ -641,7 +641,7 @@ This is but a small sample of some of the more common _Classic Fantasy Imperativ
 
 #### +1 or +2 Amulet of Magica (250 GP or 500 GP)
 
-This amulet provides the wearer with additional Magic Points, which may be drawn from to cast spells. A character may only draw from a single item that provides Magic Points at one time. Spent points do not regenerate naturally and must be provided by a spellcaster, not necessarily the amulet's owner.
+This amulet provides the wearer with additional Magic Points, which may be drawn from to cast spells. A character may only draw from a Cantole item that provides Magic Points at one time. Spent points do not regenerate naturally and must be provided by a spellcaster, not necessarily the amulet's owner.
 
 #### +1 Armor (500 GP\*)
 
@@ -677,7 +677,7 @@ This large cloth sack opens into a pocket dimension, being much bigger on the in
 
 #### Elven Boots (1000 GP)
 
-These soft leather boots modify the wearer's ability to move silently regardless of terrain, even walking across dry leaves or creaky boards producing nothing more noticeable than a soft footstep. The wearer is granted a 95% Stealth skill, unmodified by terrain. The boots grant no further bonus with regards to those with a skill more than 95%, other than allowing them to use their normal skill level without worrying about terrain penalties.
+These soft leather boots modify the wearer's ability to move silently regardless of terrain, even walking across dry leaves or creaky boards producing nothing more noticeable than a soft footstep. The wearer is granted a 95% Furtividade skill, unmodified by terrain. The boots grant no further bonus with regards to those with a skill more than 95%, other than allowing them to use their normal skill level without worrying about terrain penalties.
 
 #### Potion of Invisibility (50 GP)
 
@@ -689,11 +689,11 @@ The imbiber of this potion is granted the capability to levitate vertically at a
 
 #### Ring of (Spell), Rank 1 (1,000 GP)
 
-This ring allows the casting of a single spell of Rank 1. No matter the spell, all possess an ongoing Duration, with the spell being cast automatically when the ring is put on and lasting until removed. They are limited in the type of spell, which may be enchanted into them, with the most common being Detect Magic, Endure Heat or Cold, Feather Fall, Floating Disk, Invisibility, Levitation, Protection from Evil (or Good), Slow Poison. Others are possible at the discretion of the Games Master. With regards to the Ring of Invisibility, attacking causes the wearer to become visible for 1d3+1 Rounds.
+This ring allows the casting of a Cantole spell of Rank 1. No matter the spell, all possess an ongoing Duration, with the spell being cast automatically when the ring is put on and lasting until removed. They are limited in the type of spell, which may be enchanted into them, with the most common being Detect Magic, Endure Heat or Cold, Feather Fall, Floating Disk, Invisibility, Levitation, Protection from Evil (or Good), Slow Poison. Others are possible at the discretion of the Games Master. With regards to the Ring of Invisibility, attacking causes the wearer to become visible for 1d3+1 Rounds.
 
 #### Wand of (Spell), Rank 1 (1,000 GP)
 
-This wand possesses a single spell which is typically usable by all characters regardless of Class. There is a 50% chance that a magic wand will contain a magic-user spell, and 50% of a cleric spell. The wand possesses 90 charges, and each use expends a number of charges equal to the spell's normal Casting Cost, irrespective of Intensity. For example, a wand will cast a spell possessing a Casting Cost of '1/Intensity' by expending a single charge, while a spell with a Casting Cost of '3/Intensity' will expend 3 charges. This is irrespective of the spell's actual Intensity as produced by the item. The spell is cast at an Intensity and Magnitude of 3 and costs the wielder no Magic Points. See the relevant spell for additional information.
+This wand possesses a Cantole spell which is typically usable by all characters regardless of Class. There is a 50% chance that a magic wand will contain a magic-user spell, and 50% of a cleric spell. The wand possesses 90 charges, and each use expends a number of charges equal to the spell's normal Casting Cost, irrespective of Intensity. For example, a wand will cast a spell possesCanto a Casting Cost of '1/Intensity' by expending a Cantole charge, while a spell with a Casting Cost of '3/Intensity' will expend 3 charges. This is irrespective of the spell's actual Intensity as produced by the item. The spell is cast at an Intensity and Magnitude of 3 and costs the wielder no Magic Points. See the relevant spell for additional information.
 
 #### Rod of (Spell), Rank 1 (1,500 GP)
 

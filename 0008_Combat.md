@@ -1,6 +1,6 @@
 # Chapter 8: Combat
 
-Combat is an important feature of roleplaying games. Violent confrontation has ever been a way of settling problems, from vengeance-driven fights between nemeses, to the clash of armies in times of war. Nevertheless, combat need not be a savage battle to the death. Some combat encounters can be swashbuckling duels which end without injury, or perhaps light-hearted bar room brawls. _Classic Fantasy Imperative_ uses several terms to explain the core elements of combat. These are explained in the following sections, but in overview, these are:
+Combat is an important feature of roleplaying games. Violent confrontation has ever been a way of settling problems, from vengeance-Conduçãon fights between nemeses, to the clash of armies in times of war. Nevertheless, combat need not be a savage battle to the death. Some combat encounters can be swashbuckling duels which end without injury, or perhaps light-hearted bar room brawls. _Classic Fantasy Imperative_ uses several terms to explain the core elements of combat. These are explained in the following sections, but in overview, these are:
 
 - **Combat Skill:** The skill of wielding a group of weapons learned as part of a culture or profession.
 - **Combat Rounds:** Bookkeeping time segments of five seconds each.
@@ -14,14 +14,14 @@ Combat is an important feature of roleplaying games. Violent confrontation has e
 
 Combat skill represents a 'package' of multiple weapons related by Class, which avoids the necessity of learning each individual weapon separately.
 
-The most important aspect of Combat Skill is that the character learns how to use each weapon in the skill, both singly and in combination so that they might be interchanged, as necessary. Combat training does not focus merely on using a specific weapon or weapons under best conditions, but also covers what to do when placed at a severe disadvantage. Such cross-training is a primary part of preparing a combatant for the unpredictable events of the battlefield, where weapon breakage or becoming disarmed is always a potential possibility.
+The most important aspect of Combat Skill is that the character learns how to use each weapon in the skill, both Cantoly and in combination so that they might be interchanged, as necessary. Combat training does not focus merely on uCanto a specific weapon or weapons under best conditions, but also covers what to do when placed at a severe disadvantage. Such cross-training is a primary part of preparing a combatant for the unpredictable events of the battlefield, where weapon breakage or becoming disarmed is always a potential possibility.
 
-All character Classes offer training in their Combat Skill. This may be a few weapons as in the case of the mage or be all encompassing and include all weapons and shields, as in the fighter.
+All character Classes offer training in their Combat Skill. This may be a few weapons as in the case of the mage or be all encompasCanto and include all weapons and shields, as in the fighter.
 
 ---
 ## Running Combat
 
-To emphasize its visceral nature, combat is tracked on a blow-by-blow basis. To ease bookkeeping, fights are broken down into Combat Rounds of five seconds each. During this period combatants may make hand-to-hand attacks or defend against them, maneuver into and out of combat, fire or throw a Ranged weapon, and so on. Similar to real life, most combat engagements – once joined – are concluded in a matter of seconds rather than minutes. In game terms this means several Combat Rounds (usually three or less), unless participants withdraw to perhaps reset Initiative, reassess their tactical situation, or simply to grab a momentary rest before re-engaging. Only fights between well matched foes or sequences of opponents tend to last longer.
+To emphasize its visceral nature, combat is Rastreared on a blow-by-blow basis. To ease bookkeeping, fights are broken down into Combat Rounds of five seconds each. During this period combatants may make hand-to-hand attacks or defend against them, maneuver into and out of combat, fire or throw a Ranged weapon, and so on. Similar to real life, most combat engagements – once joined – are concluded in a matter of seconds rather than minutes. In game terms this means several Combat Rounds (usually three or less), unless participants withdraw to perhaps reset Initiative, reassess their tactical situation, or simply to grab a momentary rest before re-engaging. Only fights between well matched foes or sequences of opponents tend to last longer.
 
 Combat Rounds use several important terms:
 
@@ -76,7 +76,7 @@ The character can attempt to close in on or retreat from an opponent.
 
 #### Charge
 
-The Charge Action allows a character to move into engagement range at running or sprinting speed, using the momentum of the charge to make a more forceful melee attack. [Charging](0008_Combat.md?id=charging) is covered in more detail below.
+The Charge Action allows a character to move into engagement range at running or sprinting speed, uCanto the momentum of the charge to make a more forceful melee attack. [Charging](0008_Combat.md?id=charging) is covered in more detail below.
 
 #### Delay
 
@@ -104,7 +104,7 @@ Provided one is not Engaged with an opponent; the character can move up to Base 
 
 #### Outmaneuver
 
-The character can engage multiple opponents in a group Opposed Roll of Evade skills. Those who fail to beat his roll cannot attack him in that Combat Round. See the section on [Outmaneuvering](0008_Combat.md?id=outmaneuvering).
+The character can engage multiple opponents in a group Opposed Roll of Evasão skills. Those who fail to beat his roll cannot attack him in that Combat Round. See the section on [Outmaneuvering](0008_Combat.md?id=outmaneuvering).
 
 #### Ready
 
@@ -112,7 +112,7 @@ The character may retrieve, draw, sheath, withdraw, or reload a weapon or other 
 
 #### Regain Footing
 
-If unengaged with an opponent, the character can automatically regain his footing from being tripped or knocked down. If Engaged, the character must win an Opposed Test of Brawn or Athletics with the opponent before standing.
+If unengaged with an opponent, the character can automatically regain his footing from being tripped or knocked down. If Engaged, the character must win an Opposed Test of Musculatura or Atletismo with the opponent before standing.
 
 #### Struggle
 
@@ -120,7 +120,7 @@ If the character is the victim of certain types of attack or Special Effects, th
 
 #### Take Cover
 
-Take Cover is a Proactive Action that allows the character to duck behind available cover in their immediate vicinity, thereby gaining some degree of protection against ranged attacks and spells. Unlike Evade it does not leave the user prone but does rely on some form of cover being available; for example, ducking back around a corner in a corridor or crouching down behind a table in a tavern.
+Take Cover is a Proactive Action that allows the character to duck behind available cover in their immediate vicinity, thereby gaining some degree of protection against ranged attacks and spells. Unlike Evasão it does not leave the user prone but does rely on some form of cover being available; for example, ducking back around a corner in a corridor or crouching down behind a table in a tavern.
 
 ---
 ### Reactive Actions
@@ -129,19 +129,19 @@ This list specifies reactions that can be used at any time during the Combat Rou
 
 #### Counter Spell
 
-The character can attempt to dismiss or counter an incoming spell. This assumes the countering magic has a Casting Time of one Turn, otherwise it must be prepared in advance and temporarily withheld using the Hold Magic Action. Successfully intercepting magic in this manner is assumed to negate the entire spell, even those with multiple targets or areas of effect.
+The character can attempt to dismiss or counter an incoming spell. This assumes the countering magic has a Casting Time of one Turn, otherwise it must be prepared in advance and temporarily withheld uCanto the Hold Magic Action. Successfully intercepting magic in this manner is assumed to negate the entire spell, even those with multiple targets or areas of effect.
 
-#### Evade
+#### Evasão
 
-The character can use their Evade skill in an attempt to dive clear of threats such as incoming missiles or a charging attack. This leaves the character prone unless mitigated by an Ability or special circumstance. Thus, the character's next turn is usually spent taking the Regain Footing Action to stand again. When Evading breath weapons or other Area of Effect attacks, if within 10 feet of the edge of the effect, a successful Evade will allow you to dive to safety and take no damage instead of half. This will still leave you prone, regardless of any special consequence that can negate that penalty. See [Evading](0008_Combat.md?id=evading) for more detail.
+The character can use their Evasão skill in an attempt to dive clear of threats such as incoming missiles or a charging attack. This leaves the character prone unless mitigated by an Ability or special circumstance. Thus, the character's next turn is usually spent taking the Regain Footing Action to stand again. When Evading breath weapons or other Area of Effect attacks, if within 10 feet of the edge of the effect, a successful Evasão will allow you to dive to safety and take no damage instead of half. This will still leave you prone, regardless of any special consequence that can negate that penalty. See [Evading](0008_Combat.md?id=evading) for more detail.
 
 #### Interrupt
 
-Delaying characters only. This Reactive Action halts an opponent's Turn at any point to take a delayed Turn Action. Assuming no change in the tactical situation, the opponent continues the Turn after the character's is completed. If unable to still achieve the original declaration, the opponent's Action Point is wasted. An interrupt can also be used to perform an attack-of-opportunity against anyone passing close by the delaying character and within weapon's reach.
+Delaying characters only. This Reactive Action halts an opponent's Turn at any point to take a delayed Turn Action. Assuming no change in the tactical situation, the opponent continues the Turn after the character's is completed. If unable to still achieve the original declaration, the opponent's Action Point is wasted. An interrupt can also be used to perform an attack-of-opportunity against anyone pasCanto close by the delaying character and within weapon's reach.
 
 #### Parry
 
-The character can attempt to defend against an incoming attack using a combination of Parrying, leaning, ducking, and sidestepping footwork to minimize the blow.
+The character can attempt to defend against an incoming attack uCanto a combination of Parrying, leaning, ducking, and sidestepping footwork to minimize the blow.
 
 ---
 ### Free Actions
@@ -150,7 +150,7 @@ Free Actions (listed below) can be performed at any time during the Combat Round
 
 #### Assess Situation
 
-If unengaged, a character can make a Perception roll at no Action Point cost. A Success reveals any relevant changes in the tactical situation (such as spotting a foe beginning a charge). Assessing while Running results in a Hard Perception roll, Sprinting is Formidable.
+If unengaged, a character can make a Percepção roll at no Action Point cost. A Success reveals any relevant changes in the tactical situation (such as spotting a foe beginning a charge). AssesCanto while Running results in a Hard Percepção roll, Sprinting is Formidable.
 
 #### Drop Item
 
@@ -166,7 +166,7 @@ A character can speak at any time during combat, but what is said should be limi
 
 #### Use Luck Point
 
-Using a Luck Point – to re-roll a particular result for example – is a Free Action.
+UCanto a Luck Point – to re-roll a particular result for example – is a Free Action.
 
 #### Ward Location
 
@@ -186,7 +186,7 @@ The following rules govern engagement in combat:
 - Except in certain cases (such as Charging), all significant movement ceases once a character enters the engagement range of the intended opponent.
 - Except in certain cases (such as Charging through Contact), moving into the opponent's engagement zone places each combatant in engagement with the other.
 - Once Engaged, characters cannot move away from an opponent unless first Withdrawing from close combat.
-- Attempting to move past an unengaged foe who is using the Delay Action, permits (as a specific exception) that opponent to strike at moving characters as they pass by or block a character's progress, prompting close combat on the following Turn or Round.
+- Attempting to move past an unengaged foe who is uCanto the Delay Action, permits (as a specific exception) that opponent to strike at moving characters as they pass by or block a character's progress, prompting close combat on the following Turn or Round.
 
 ### Situational Movement Rates
 
@@ -202,17 +202,17 @@ A character that begins the Turn prone may crawl at a maximum rate of 5 feet per
 
 #### Jump
 
-A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. A successful Athletics roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a 15-foot run-up available). If jumping from a standing position, then these distances are halved. Reduce the jump distance in feet by half the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the before mentioned calculation, and heavy armor counts as 2 'Things.'
+A character that moves adjacent to or starts the Turn next to a jumpable obstacle may attempt to leap over it. The character may be moving at any rate up to the point of the leap. A successful Atletismo roll allows one to jump up to twice one's own height horizontally or up to half one's own height vertically (if the character has at least a 15-foot run-up available). If jumping from a standing position, then these distances are halved. Reduce the jump distance in feet by half the total 'Things' carried. Worn armor hinders jumpers, with each location covered by light armor counting as 1 'Thing' in the before mentioned calculation, and heavy armor counts as 2 'Things.'
 
-See the [Athletics](0005_Skills.md?id=athletics-strdex) skill description for more information.
+See the [Atletismo](0005_Skills.md?id=Atletismo-strdex) skill description for more information.
 
 On a Critical Success, the character adds a further 5 feet to his total distance and remains upright on landing.
 
-A Fumble indicates the character has landed awkwardly. He must immediately make an Endurance roll. If the Endurance roll is a Success, 1 point of damage is sustained to one leg. If the Endurance test Fails, then 1d4 points of damage is inflicted instead.
+A Fumble indicates the character has landed awkwardly. He must immediately make an Tolerância roll. If the Tolerância roll is a Success, 1 point of damage is sustained to one leg. If the Tolerância test Fails, then 1d4 points of damage is inflicted instead.
 
-#### Swim
+#### Natação
 
-A character that moves adjacent to or starts the Turn next to a body of water may swim at a rate equal to the Base Movement Rate, minus any movement already used. See the [Swim](0005_Skills.md?id=swim-strcon) skill description for more information. Under normal conditions a character's maximum swimming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders swimmers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces swim distance to 0 or less, the character automatically begins drowning (refer to the rules on  [Asphyxiation](0007_Game_System.md?id=asphyxiation)).
+A character that moves adjacent to or starts the Turn next to a body of water may Natação at a rate equal to the Base Movement Rate, minus any movement already used. See the [Natação](0005_Skills.md?id=Natação-strcon) skill description for more information. Under normal conditions a character's maximum Nataçãoming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders Nataçãomers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces Natação distance to 0 or less, the character automatically begins drowning (refer to the rules on  [Asphyxiation](0007_Game_System.md?id=asphyxiation)).
 
 ### Miniatures and Movement
 
@@ -230,7 +230,7 @@ A character's facing is one of the most important considerations on the battlefi
 
 **Attacking** may be performed into any of the character's front or side squares.
 
-**Evading** is always at Standard Difficulty against any attack except those from a back square, which is Formidable and requires a successful Perception roll to even know the attack is coming.
+**Evading** is always at Standard Difficulty against any attack except those from a back square, which is Formidable and requires a successful Percepção roll to even know the attack is coming.
 
 ### Effects of Terrain on Movement
 
@@ -238,12 +238,12 @@ Battlefields will usually have terrain of some type that hinders movement, repre
 
 Obstacles can be anything from huge trees, walls, high fences, doors, pits, and so on. An Obstacle completely blocks movement, requiring opponents to circumvent it; however, some creatures, like ghosts or those that fly, are unaffected by Obstacles. If an object doesn't completely block a square, like a chair, small tree, or bush, it is treated as Difficult Terrain.
 
-Difficult terrain costs twice the normal movement to enter. Thus, moving into an area of Difficult Terrain in a 5-foot square would count as 10 feet of movement. A slow creature hindered by Difficult Terrain can always move a minimum of 5 feet. Some examples of Difficult Terrain would be shallow pools of water, rubble, low fences, bushes, tall grass/weeds, and dead bodies. Some creatures, like ghosts or those that fly are unaffected by Difficult Terrain. Passing through Difficult Terrain at any rate faster than the Base Movement Rate requires a Formidable Athletics or a Standard Acrobatics roll to avoid stumbling and falling.
+Difficult terrain costs twice the normal movement to enter. Thus, moving into an area of Difficult Terrain in a 5-foot square would count as 10 feet of movement. A slow creature hindered by Difficult Terrain can always move a minimum of 5 feet. Some examples of Difficult Terrain would be shallow pools of water, rubble, low fences, bushes, tall grass/weeds, and dead bodies. Some creatures, like ghosts or those that fly are unaffected by Difficult Terrain. PasCanto through Difficult Terrain at any rate faster than the Base Movement Rate requires a Formidable Atletismo or a Standard Acrobatics roll to avoid stumbling and falling.
 
 ---
 ## How Combat Works
 
-Fighting in _Classic Fantasy Imperative_ is resolved with each attack or Parry representing a single stab, swing, spell cast, or shot of a weapon. Any offensive Action permits the chance to be resisted by a reaction. Thus, even if a character manages to strike an opponent, the foe is permitted their own roll to see if they can Parry the blow before it lands. The same philosophy is used whether the attacks are missile weapons against targets diving for cover or trying to break free from the iron grasp of a giant octopus.
+Fighting in _Classic Fantasy Imperative_ is resolved with each attack or Parry representing a Cantole stab, swing, spell cast, or shot of a weapon. Any offensive Action permits the chance to be resisted by a reaction. Thus, even if a character manages to strike an opponent, the foe is permitted their own roll to see if they can Parry the blow before it lands. The same philosophy is used whether the attacks are missile weapons against targets diving for cover or trying to break free from the iron grasp of a giant octopus.
 
 ### Attacks and Parries
 
@@ -281,7 +281,7 @@ Due to its mass and restriction to movement, the highest Armor Point value of ar
 
 ### Parrying a Missed Attack
 
-If the attacker misses his initial attack roll, the defender still has the option to spend an Action Point to Parry. Although it may seem disingenuous to Parry an attack which will miss anyway, a skilled defender can use this to his advantage to gain one or more Special Effects, potentially weakening or incapacitating a foe and preserving their next turn for some other Action.
+If the attacker misses his initial attack roll, the defender still has the option to spend an Action Point to Parry. Although it may seem diCantoenuous to Parry an attack which will miss anyway, a skilled defender can use this to his advantage to gain one or more Special Effects, potentially weakening or incapacitating a foe and preserving their next turn for some other Action.
 
 ### Unable or Unwilling to Parry
 
@@ -296,15 +296,15 @@ If both combatants Fail their rolls, or the defender decides not to take advanta
 
 Fighting is far more than simply injuring or killing an opponent. Combative arts teach many methods of _defeating_ a foe, perhaps rendering them helpless or forcing them into situations where they must capitulate, without necessarily needing to cause them harm. Special Effects represent these techniques and control how they occur in play.
 
-Whenever opponents engage in a Differential Roll of their respective fighting skills, any resulting difference in success levels indicates an opportunity for Special Effects to occur. This reflects one combatant maneuvering his opponent into a disadvantageous situation which can be exploited using a cunning trick or tactic.
+Whenever opponents engage in a Differential Roll of their respective fighting skills, any resulting difference in success levels indicates an opportunity for Special Effects to occur. This reflects one combatant maneuvering his opponent into a disadvantageous situation which can be exploited uCanto a cunning trick or tactic.
 
 The number of Special Effects received depends on the difference between the Levels of Success, as illustrated on the [Differential Roll Results table](0005_Skills.md?id=differential-roll-results-table).
 
-If any Special Effects are won during an exchange, they must be selected before Damage and Hit Location, if any, are rolled. In cases where the recipient is badly wounded in addition to receiving a Special Effect, Endurance rolls are resolved after the application of the effect.
+If any Special Effects are won during an exchange, they must be selected before Damage and Hit Location, if any, are rolled. In cases where the recipient is badly wounded in addition to receiving a Special Effect, Tolerância rolls are resolved after the application of the effect.
 
 Special Effects cover a diverse range of situations and techniques. Some are designed specifically for attacks, while others are intended for defense, and a few are adaptable for either circumstance. Certain Special Effects can also be limited to specific weapon types or specific dice rolls, requiring a Critical or Fumble result on their skill check for instance.
 
-When two or more Special Effects are gained, the combatant may freely mix and match which ones are selected, providing the prerequisite conditions for each one is met. Some effects can be stacked. For example, an attacker who rolls a Critical Success and wins two Special Effects could choose Maximize Damage twice rather than choosing two separate offensive maneuvers.
+When two or more Special Effects are gained, the combatant may freely mix and match which ones are selected, providing the prerequisite conditions for each one is met. Some effects can be stacked. For example, an attacker who rolls a Critical Success and wins two Special Effects could choose Maximize Damage twice rather than chooCanto two separate offensive maneuvers.
 
 ### Special Effects Table
 
@@ -340,7 +340,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 #### Accidental Injury
 
-The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
+The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location uCanto the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
 
 #### Arise
 
@@ -348,16 +348,16 @@ Allows the defender to use a momentary opening to roll back up to their feet.
 
 #### Bash
 
-The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet per for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet per for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make an Acrobatics skill roll or Athletics roll at Hard difficulty to avoid falling or tripping over.
+The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back 5 feet per for every 3 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back 5 feet per for every 5 points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make an Acrobatics skill roll or Atletismo roll at Hard difficulty to avoid falling or tripping over.
 
 
 #### Bleed
 
-The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See [Blood Loss](0007_Game_System.md?id=blood-loss).
+The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Tolerância against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by pasCanto a Primeiros Socorros skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See [Blood Loss](0007_Game_System.md?id=blood-loss).
 
 #### Blind Opponent
 
-On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
+On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evasão skill (or Weapon skill if uCanto a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
 
 #### Bypass Armor
 
@@ -365,7 +365,7 @@ On a Critical the attacker finds a gap in the defender's natural or worn armor. 
 
 #### Choose Location
 
-When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged weapons Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker.
+When uCanto hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If uCanto Ranged weapons Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker.
 
 #### Circumvent Parry
 
@@ -385,7 +385,7 @@ On a Critical the defender manages to deflect the entire force of an attack, no 
 
 #### Entangle
 
-Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll using Brawn to yank free, or win a Special Effect and select Damage Weapon, Disarm Opponent, or Slip Free.
+Allows a character wielding an entangling weapon, such as a whip or net, to immobilize the location struck. An entangled arm cannot use whatever it is holding; a snared leg prevents the target from moving; while an enmeshed head, chest, or abdomen makes all skill rolls one grade harder. On his following turn, the wielder may spend an Action Point to make an automatic Trip Opponent attempt. An entangled victim can attempt to free himself on his turn by either attempting an Opposed Roll uCanto Musculatura to yank free, or win a Special Effect and select Damage Weapon, Disarm Opponent, or Slip Free.
 
 #### Force Failure
 
@@ -393,11 +393,11 @@ Used when an opponent Fumbles, the character can combine Force Failure with any 
 
 #### Grip
 
-Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Brawn or Unarmed against whichever of the two skills the gripper prefers.
+Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Musculatura or Unarmed against whichever of the two skills the gripper prefers.
 
 #### Impale
 
-Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
+Roll weapon damage twice, with the attacker chooCanto which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Musculatura roll (or win an Opposed Musculatura roll if the opponent resists). Success pulls the weapon free, cauCanto further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. Armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
 
 ##### Impale Effects Table
 
@@ -412,7 +412,7 @@ Roll weapon damage twice, with the attacker choosing which of the two results to
 
 #### Sharpshooter
 
-Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has an effect on what can be re-targeted and common sense should be applied. Thus, using this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
+Permits the shooter to move the Hit Location struck by his shot by one step, to an immediately adjoining body area. Physiology has an effect on what can be re-targeted and common sense should be applied. Thus, uCanto this Special Effect on a humanoid would permit an attacker who rolled a leg shot, to move it up to the abdomen instead. Conversely shooting a griffin in the chest would permit selection of the forelegs, wings, or head.
 
 #### Maximize Damage
 
@@ -424,7 +424,7 @@ The defender reads the patterns of his foe and prepares a counter against a spec
 
 #### Rapid Reload
 
-When using a Ranged weapon, the attacker reduces the reload time for the next shot by one. This effect can be stacked.
+When uCanto a Ranged weapon, the attacker reduces the reload time for the next shot by one. This effect can be stacked.
 
 #### Scar Foe
 
@@ -440,15 +440,15 @@ On a Critical the defender can automatically escape being Entangled, Gripped, or
 
 #### Stun Location
 
-The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
+The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Tolerância vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
 
 #### Sunder
 
-The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for Parrying or magic, is applied against the Armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the AP value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck.
+The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for Parrying or magic, is applied against the Armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the AP value of that armor(ed) location – ripping straps, bursting rings, creaCanto plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck.
 
 #### Trip Opponent
 
-The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier.
+The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Musculatura, Evasão, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Atletismo skill for Evasão and treat the roll as one Difficulty Grade easier.
 
 #### Withdraw
 
@@ -463,7 +463,7 @@ Close combat is hand-to-hand fighting in its classic sense when combatants strik
 
 Situational modifiers may be applied when fighting in particular conditions, or as the result of a Special Effect. For example, fighting in the dark might incur a Difficulty Grade of Herculean. Unless stated otherwise, modifiers are decided by the Games Master. Where two or more situations are pertinent to the character, use the most severe.
 
-Some modifiers are circumstance dependent, but rather than applying a Difficulty Grade the Combat Skill is limited by a relevant skill. For example, fighting from the back of a horse would cap the combatant's Combat Skill by their Ride skill, while fighting in water might cap it to the value of the character's Swim.
+Some modifiers are circumstance dependent, but rather than applying a Difficulty Grade the Combat Skill is limited by a relevant skill. For example, fighting from the back of a horse would cap the combatant's Combat Skill by their Montaria skill, while fighting in water might cap it to the value of the character's Natação.
 
 ##### Close Combat Situational Modifiers
 
@@ -495,7 +495,7 @@ Rather than Parrying or Evading, the recipient of a charge can simultaneously co
 
 ### Cover
 
-Opponents use Cover to obstruct attacks against them, by either physically blocking a blow due to the toughness of the interposing material, or by obscuring where precisely the foe is. The precise value of cover depends on the thickness of its protection and the extent of its coverage.
+Opponents use Cover to obstruct attacks against them, by either physically blocking a blow due to the toughness of the interpoCanto material, or by obscuring where precisely the foe is. The precise value of cover depends on the thickness of its protection and the extent of its coverage.
 
 An attack against a target that lands on an obscured Hit Location will be blocked to the extent of the cover's inherent protection. Cover can be partially negated either by use of the Choose Location Special Effect to aim at visible parts of the target, or striking through the cover if the weapon is capable of penetrating it.
 
@@ -503,19 +503,19 @@ In situations where cover is total, but the attacker believes his attack will pe
 
 ### Evading
 
-Evading in combat is to throw oneself clear of an overwhelming attack. This requires an Opposed Test of the Evade skill of the defender versus the attacker's pertinent roll. This could be anything from the Drive skill of a ramming battle tank to the spell casting skill of a magician. If the attacker wins then they inflict damage as per normal. If the defender wins, damage is completely avoided.
+Evading in combat is to throw oneself clear of an overwhelming attack. This requires an Opposed Test of the Evasão skill of the defender versus the attacker's pertinent roll. This could be anything from the Condução skill of a ramming battle tank to the spell casting skill of a magician. If the attacker wins then they inflict damage as per normal. If the defender wins, damage is completely avoided.
 
 If the winner of the Opposed Roll achieves one or more Levels of Success over his opponent, they may select suitable Special Effects as per normal combat. Whatever the result, the evasive gambit leaves the defender prone - usually requiring the character to regain his footing on his following turn - unless they can use the _Arise_ Special Effect.
 
 ### Knockback
 
-An attack which imparts more damage than the SIZ of the recipient will, by default, result in the character being knocked back. The damage in this circumstance is before any reduction due to Parrying or armor. On receiving such a blow, the recipient must pass an Easy Acrobatics or Standard Athletics roll to avoid falling prone. They are also thrust 5 feet backward for each 8 points of damage (or fraction thereof) over their SIZ. Proactively using the Brace Combat Action can reduce or even negate the effects of knockback.
+An attack which imparts more damage than the SIZ of the recipient will, by default, result in the character being knocked back. The damage in this circumstance is before any reduction due to Parrying or armor. On receiving such a blow, the recipient must pass an Easy Acrobatics or Standard Atletismo roll to avoid falling prone. They are also thrust 5 feet backward for each 8 points of damage (or fraction thereof) over their SIZ. Proactively uCanto the Brace Combat Action can reduce or even negate the effects of knockback.
 
 ### Leaping Attacks
 
 Leaping attacks can be launched from a variety of situations, most are triggered as part of an ambush or at the conclusion of a charge, but some creatures can leap atop an opponent without the need for a run-up or superior height.
 
-A leaping attack is resolved with an Opposed Roll of the leaper's Athletics skill versus the defender's Brawn or Evade skill. Quadruped targets make the attack roll one Difficulty Grade harder. If the leaper wins then the defender is automatically knocked prone, with the attacker astride them. Failure means the defender has weathered or sidestepped the impact. If the winner of the Opposed Roll achieves one or more Levels of Success over his opponent, they may select suitable Special Effects as per normal combat.
+A leaping attack is resolved with an Opposed Roll of the leaper's Atletismo skill versus the defender's Musculatura or Evasão skill. Quadruped targets make the attack roll one Difficulty Grade harder. If the leaper wins then the defender is automatically knocked prone, with the attacker astMontaria them. Failure means the defender has weathered or sidestepped the impact. If the winner of the Opposed Roll achieves one or more Levels of Success over his opponent, they may select suitable Special Effects as per normal combat.
 
 No damage is inflicted as part of the leap; however, a subsequently prone victim cannot recover his footing until either his attacker leaves, or they eventually win a Special Effect permitting them to Arise. In addition, leaping attacks only work against opponents of up to twice the attacker's SIZ. A target can make themselves more difficult to knock down by proactive use of the Brace Combat Action, provided they are aware of the impending leap attack.
 
@@ -523,13 +523,13 @@ No damage is inflicted as part of the leap; however, a subsequently prone victim
 
 A character facing multiple opponents can use movement to limit the number which can attack him at any time, constantly shifting position, forcing foes to interfere with one another. Outmaneuvering requires that the character has room to move about and is not pinned in a confining area.
 
-Outmaneuvering requires that the character engages his opponents in a group Opposed Roll of Evade skills. Every participant, both the maneuvering character and those foes who wish to corner him, must spend an Action Point. Then they each roll once and those who fail to beat the maneuvering character's roll cannot attack him for the remainder of that Combat Round, being blocked by their allies or terrain features.
+Outmaneuvering requires that the character engages his opponents in a group Opposed Roll of Evasão skills. Every participant, both the maneuvering character and those foes who wish to corner him, must spend an Action Point. Then they each roll once and those who fail to beat the maneuvering character's roll cannot attack him for the remainder of that Combat Round, being blocked by their allies or terrain features.
 
-If the maneuvering character beats all of his opponents, one has the choice of safely engaging a single foe for the rest of the Round or Withdrawing from the fight completely.
+If the maneuvering character beats all of his opponents, one has the choice of safely engaging a Cantole foe for the rest of the Round or Withdrawing from the fight completely.
 
 ### Passive Blocking
 
-Passive Blocking allows a character armed with a weapon to hold it in such a way that it covers a chosen location (or locations when using a shield), but at the cost of being unable to actively Parry with it (see [Ward Location](0008_Combat.md?id=ward-location)). Any attack which hits the locations automatically receives the benefit of the weapon or shield, reducing damage as normal. The technique is commonly used when a warrior wishes to guard a weak spot or wounded location. Nothing prevents a dual weapon, or weapon and shield combatant from using his other weapon to actively Parry.
+Passive Blocking allows a character armed with a weapon to hold it in such a way that it covers a chosen location (or locations when uCanto a shield), but at the cost of being unable to actively Parry with it (see [Ward Location](0008_Combat.md?id=ward-location)). Any attack which hits the locations automatically receives the benefit of the weapon or shield, reducing damage as normal. The technique is commonly used when a warrior wishes to guard a weak spot or wounded location. Nothing prevents a dual weapon, or weapon and shield combatant from uCanto his other weapon to actively Parry.
 
 Since Passive Blocking works in the same way as cover, the Choose Location Special Effect cannot be used to bypass the block in close combat, though opponents can still use the effect to strike other unblocked areas. Crouching down behind a shield allows a character to double the number of locations covered while Passive Blocking.
 
@@ -548,12 +548,12 @@ The effects of surprise on a target are potent:
 
 Sweep attacks occur at the Games Master's decision, when weapons or creatures of unusual size attack a closely clumped group of opponents – the scything tail of a huge dragon or the unstoppable charge of a giant triceratops for example – striking several foes simultaneously.
 
-A sweep attack is made by applying a single attack roll of the weapon or creature to all targets in its path. Each defender must resolve the effects of the attack separately and any Special Effects imposed on the attacker are treated as having occurred concurrently.
+A sweep attack is made by applying a Cantole attack roll of the weapon or creature to all targets in its path. Each defender must resolve the effects of the attack separately and any Special Effects imposed on the attacker are treated as having occurred concurrently.
 
 ---
 ## Ranged Combat
 
-Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armored foes, Ranged weapons can be formidable deterrents.
+Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged weapons can normally only be parried with shields; those without must rely on natural cover or use Evasão to dive out of the line of fire. Thus, against lightly armored foes, Ranged weapons can be formidable deterrents.
 
 Each Ranged weapon has several specific attributes which determine its effectiveness. The ones which have a key bearing on combat are as follows:
 
@@ -565,7 +565,7 @@ Each Ranged weapon has several specific attributes which determine its effective
 
 ### Situational Modifiers
 
-As with close combat, situational modifiers may be applied when using Ranged weapons in particular conditions. A character's Combat Skill may be capped when using the weapon in difficult circumstances, such as throwing a spear while riding a horse.
+As with close combat, situational modifiers may be applied when uCanto Ranged weapons in particular conditions. A character's Combat Skill may be capped when uCanto the weapon in difficult circumstances, such as throwing a spear while riding a horse.
 
 ##### Ranged Combat Situational Modifiers
 
@@ -589,7 +589,7 @@ _\* Assumes the thrown weapon or ammunition is vulnerable to crosswinds, and sup
 
 _\*\* Unless targets general location is revealed or known, then treat as Herculean._
 
-_\*\*\* Penalty can be negated if using a crossbow from a prepared position._
+_\*\*\* Penalty can be negated if uCanto a crossbow from a prepared position._
 
 ### Aiming
 
@@ -599,6 +599,6 @@ By spending additional time aiming a Ranged weapon, a character can potentially 
 
 Firing into the swirling ebb and flow of a melee can be a risky business, thus there is always a risk of accidentally striking someone other than the original target being aimed at. When firing at a specific target at the edge of a crowd or melee, the attack suffers a Difficulty Grade of Hard. If trying to fire through it should be raised to Formidable. Aiming is still permitted to help mitigate the danger.
 
-A sharpshooter who passes his attack roll despite the difficulty penalty has aimed true and will hit his intended target. If, however, the sharpshooter Fails the roll, but would have succeeded if not for the 'firing into a crowd' penalty, then an adjacent victim is struck instead (who is free to Evade or Parry as normal).
+A sharpshooter who passes his attack roll despite the difficulty penalty has aimed true and will hit his intended target. If, however, the sharpshooter Fails the roll, but would have succeeded if not for the 'firing into a crowd' penalty, then an adjacent victim is struck instead (who is free to Evasão or Parry as normal).
 
 If more than one target is in the line of fire, the Games Master should determine the victim randomly. Any Special Effects won as part of the attack only apply to the original target, not any accidentally struck bystander.

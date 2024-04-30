@@ -1,6 +1,6 @@
 # Chapter 2: Culture & Races
 
-A description of each racial background follows incorporating a list of appropriate skill bonuses. Players choosing a human character need to further define their character with an appropriate culture. Players should apply the skill bonuses immediately to the Standard Skills on their Character Sheet and add the additional new skills, known as Professional Skills (introduced in the next chapter), to the appropriate section of the sheet. In many cases a race lists a range of skills and invites the player to pick one or more, that will gain a bonus: in this way players from identical racial backgrounds can ensure that their adventurers are different in the areas they have developed.
+A description of each racial background follows incorporating a list of appropriate skill bonuses. Players chooCanto a human character need to further define their character with an appropriate culture. Players should apply the skill bonuses immediately to the Standard Skills on their Character Sheet and add the additional new skills, known as Professional Skills (introduced in the next chapter), to the appropriate section of the sheet. In many cases a race lists a range of skills and invites the player to pick one or more, that will gain a bonus: in this way players from identical racial backgrounds can ensure that their adventurers are different in the areas they have developed.
 
 Also note that each race comes with a typical Alignment and several Passions (see [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md)). Alignment and Passions can add a great deal of depth and characterization to the adventurer you are creating, defining ingrained preferences and prejudices as well as defining the character's moral values.
 
@@ -20,11 +20,11 @@ Tribal in nature, barbarians tend to shun civilization, viewing those who live i
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40
-- **Standard Skills:** Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride
-- **Professional Skills:** Craft (any), Healing, Language (Any\*), Lore (any), Musicianship, Navigate, Seamanship, Survival, Track
+- **Free Skills:** Customs +40, Idioma (Common) +40
+- **Standard Skills:** Atletismo, Musculatura, Tolerância, Primeiros Socorros, Local, Percepção; and either Canoagem or Montaria
+- **Professional Skills:** Ofício (any), Cura, Idioma (Any\*), Saber (any), Música, Navegação, Marinhagem, Sobrevivência, Rastrear
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Humans are not limited in selection of Idiomas during character creation if they can justify the choice._
 
 #### Alignment and Passions
 
@@ -37,23 +37,23 @@ _\* Humans are not limited in selection of languages during character creation i
 #### Special Rules
 
 - **Movement:** 20 feet.
-- **Survival Bonus (Specific):** Barbarians find all Survival rolls pertaining to their area of origin one grade easier.
+- **Sobrevivência Bonus (Specific):** Barbarians find all Sobrevivência rolls pertaining to their area of origin one grade easier.
 - **Exposure Tolerance:** Barbarians suffer reduced effects from exposure to temperature extremes related to their area of origin. For example, if originating from cold climates, even lightly outfitted barbarians would be permitted a grace period equal to their CON in hours before exposure sets in. Wearing suitable clothing would extend this to double their CON in hours. After this point they need to seek shelter or start to suffer Fatigue loss. See the Weather Tables on page XX for additional information.
-- **Illiterate:** Barbarians are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level.
+- **Illiterate:** Barbarians are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired Idioma. This gives them basic literacy equal to half skill level in one Idioma the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new Idiomas in play, it can be assumed they are learning them at full literacy level.
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
 ### Civilized
 
-The Civilized culture is epitomized by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilized people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tomes, and scrolls. Of course, this is a thin veneer. The most Civilized of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilized culture prides itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
+The Civilized culture is epitomized by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilized people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, impoCanto temples, celebratory monuments, and the recording of history and events in books, tomes, and scrolls. Of course, this is a thin veneer. The most Civilized of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilized culture pMontarias itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
 
 ####  Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40
-- **Standard Skills:** Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Free Skills:** Customs +40, Idioma (Common) +40
+- **Standard Skills:** Ocultação, Dissimulação, Condução, Influência, Intuição, Local, Força de Vontade
+- **Professional Skills:** Art (any), Comércio, Ofício (any), Courtesy, Idioma (any\*), Saber (any), Música, Manha.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Humans are not limited in selection of Idiomas during character creation if they can justify the choice._
 
 ####  Alignment and Passions
 
@@ -66,21 +66,21 @@ _\* Humans are not limited in selection of languages during character creation i
 ####  Special Rules
 
 - **Movement:** 20 feet.
-- **Literate:** Those from Civilized regions are typically able to read and write any language they can speak.
+- **Literate:** Those from Civilized regions are typically able to read and write any Idioma they can speak.
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
 ### Nomadic
 
-Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift. across the oceans on great floating rafts.
+Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be taiSaberd to their environment. Some journey vast distances on foot, others live in caravans or Montaria strange creatures, and some drift. across the oceans on great floating rafts.
 
 ####  Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40.
-- **Standard Skills:** Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel.
-- **Professional Skills:** Craft (any), Culture (any), Healing, Language (any\*), Lore (any), Musicianship, Navigate, Survival, Track.
+- **Free Skills:** Customs +40, Idioma (Common) +40.
+- **Standard Skills:** Tolerância, Primeiros Socorros, Local, Percepção, Furtividade; and two of the following: Atletismo, Canoagem, Natação, Condução or Montaria depending on the primary mode of travel.
+- **Professional Skills:** Ofício (any), Culture (any), Cura, Idioma (any\*), Saber (any), Música, Navegação, Sobrevivência, Rastrear.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Humans are not limited in selection of Idiomas during character creation if they can justify the choice._
 
 ####  Alignment and Passions
 
@@ -93,8 +93,8 @@ _\* Humans are not limited in selection of languages during character creation i
 ####  Special Rules
 
 - **Movement:** 20 feet.
-- **Survival Bonus (Specific):** Nomads find all Survival rolls pertaining to their area of origin one grade easier.
-- **Literate:** Because they interact with many other races and cultures, those from Nomadic cultures are typically able to read and write any language they can speak.
+- **Sobrevivência Bonus (Specific):** Nomads find all Sobrevivência rolls pertaining to their area of origin one grade easier.
+- **Literate:** Because they interact with many other races and cultures, those from Nomadic cultures are typically able to read and write any Idioma they can speak.
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
@@ -102,15 +102,15 @@ _\* Humans are not limited in selection of languages during character creation i
 
 Of all peoples, primitives are those that live closest with the land, in tune with its hidden secrets. Living in extended family groups, primitive cultures gather around very simple dwellings that can range from caves and areas of natural shelter through to lean-tos or very basic huts. Primitives are typically hunter-gatherers with either few, or poorly developed, systems for farming and husbandry.
 
-However, certain cultural beliefs, often based on superstitions, can be very well defined. Few primitive cultures have developed anything approaching a written language although paintings and other pictorial symbols serve as a means of communication.
+However, certain cultural beliefs, often based on superstitions, can be very well defined. Few primitive cultures have developed anything approaching a written Idioma although paintings and other pictorial symbols serve as a means of communication.
 
 ####  Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40.
-- **Standard Skills:** Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating, First Aid, or Swim.
-- **Professional Skills:** Craft (any), Healing, Lore (any), Language (any\*), Musicianship, Navigate, Survival, Track.
+- **Free Skills:** Customs +40, Idioma (Common) +40.
+- **Standard Skills:** Musculatura, Tolerância, Evasão, Local, Percepção, Furtividade; and one of either Atletismo, Canoagem, Primeiros Socorros, or Natação.
+- **Professional Skills:** Ofício (any), Cura, Saber (any), Idioma (any\*), Música, Navegação, Sobrevivência, Rastrear.
 
-_\* Humans are not limited in selection of languages during character creation if they can justify the choice._
+_\* Humans are not limited in selection of Idiomas during character creation if they can justify the choice._
 
 ####  Alignment and Passions
 
@@ -123,23 +123,23 @@ _\* Humans are not limited in selection of languages during character creation i
 ####  Special Rules
 
 - **Movement:** 20 feet.
-- **Survival Bonus (Specific):** Primitive cultures find all Survival rolls pertaining to their area of origin one grade easier.
-- **Illiterate:** Primitives are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level.
+- **Sobrevivência Bonus (Specific):** Primitive cultures find all Sobrevivência rolls pertaining to their area of origin one grade easier.
+- **Illiterate:** Primitives are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired Idioma. This gives them basic literacy equal to half skill level in one Idioma the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new Idiomas in play, it can be assumed they are learning them at full literacy level.
 - **Lucky:** Humans start with one additional Luck Point.
 
 ---
 ## Demi-Human Races
 
-Demi-human characters are created in almost the same way as humans. Characteristics are determined using the Characteristic dice for that species, which will result in different Characteristic values and ranges, but otherwise all the other elements: Attributes, Culture, Class and so on, are factored as normal.
+Demi-human characters are created in almost the same way as humans. Characteristics are determined uCanto the Characteristic dice for that species, which will result in different Characteristic values and ranges, but otherwise all the other elements: Attributes, Culture, Class and so on, are factored as normal.
 
 ---
 ### Dwarf
 
-Dwarves make their homes deep inside mountain strongholds, where extensive tunnels burrow deep into the earth. The average dwarf is strong, tough, and untiring in battle. By nature, they are excellent crafters, often having a propensity for mining and metallurgy, with an accompanying love for treasure and all things material. Their goods are highly sought after by all.
+Dwarves make their homes deep inside mountain strongholds, where extensive tunnels burrow deep into the earth. The average dwarf is strong, tough, and untiring in battle. By nature, they are excellent Ofícioers, often having a propensity for mining and metallurgy, with an accompanying love for treasure and all things material. Their goods are highly sought after by all.
 
-Dwarves are short of stature and somewhat stocky, being between 4' 8" and 4'10" tall on average. Hair color is generally black, gray, or dark brown, but a few are known to exhibit reddish hair. Their skin is ruddy or earth colored. All male dwarves favor long beards, often spiked, braided, or forked. Some dwarven women also grow beards; however, most prefer to keep their faces clean-shaven.
+Dwarves are short of stature and somewhat stocky, being between 4' 8" and 4'10" tall on average. Hair color is generally black, gray, or dark brown, but a few are known to exhibit reddish hair. Their skin is ruddy or earth coSaberd. All male dwarves favor long beards, often spiked, braided, or forked. Some dwarven women also grow beards; however, most prefer to keep their faces clean-shaven.
 
-Dwarves are naturally suspicious of anyone espousing a different way of life to their own but are not necessarily antagonistic toward them. They get along best with gnomes, who share a distant kinship, despite their annoying sense of humor and penchant for practical jokes. In addition, dwarves tend to get along well with humans; however, they have a low tolerance of elves due to ancient wars and long memories. Dwarves tend to dislike halflings, whose carefree lifestyle clashes with their gruff, stern nature. Their hatred for orcs, which they view as filthy and bestial, is legendary.
+Dwarves are naturally suspicious of anyone espouCanto a different way of life to their own but are not necessarily antagonistic toward them. They get along best with gnomes, who share a distant kinship, despite their annoying sense of humor and penchant for practical jokes. In addition, dwarves tend to get along well with humans; however, they have a low tolerance of elves due to ancient wars and long memories. Dwarves tend to dislike halflings, whose carefree lifestyle clashes with their gruff, stern nature. Their hatred for orcs, which they view as filthy and bestial, is legendary.
 
 Dwarves are long-lived and can reach ages of around 450 years. They have a distinct aversion to magic and as such find themselves naturally resistant to Arcane spells; Divine spells affect them normally. Because of this, dwarven magic-users are unheard of.
 
@@ -151,11 +151,11 @@ Dwarves know that strength comes from numbers and that the wants and needs of th
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Dwarf) +40
-- **Standard Skills:** Athletics, Brawn, Endurance, Evade, Locale, Perception, Willpower
-- **Professional Skills:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Free Skills:** Customs +40, Idioma (Common) +40, Idioma (Dwarf) +40
+- **Standard Skills:** Atletismo, Musculatura, Tolerância, Evasão, Local, Percepção, Força de Vontade
+- **Professional Skills:** Comércio, Ofício (any), Engineering, Idioma (any\*), Saber (any), Mecanismos, Oratory, Sobrevivência.
 
-_\* During character creation, additional languages are limited to gnome, goblin, kobold, and orc._
+_\* During character creation, additional Idiomas are limited to gnome, goblin, kobold, and orc._
 
 #### Alignment and Passions
 
@@ -171,18 +171,18 @@ _\* During character creation, additional languages are limited to gnome, goblin
 #### Special Rules
 
 - **Movement:** 15 feet.
-- **Darkvision:** Dwarven Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
-- **Literate:** Dwarves are typically able to read and write any language they can speak.
-- **Magic Resistance:** Dwarves are highly resistant to Arcane Magic; their Willpower Checks are one grade easier when used to resist. This resistance has no effect on Divine magic.
-- **Poison Resistance:** Dwarves are also highly resistant to poison, with Endurance rolls that relate to poisoning being one grade easier.
-- **Tunnel Sense:** Due to their subterranean nature, dwarves can detect certain underground phenomena by succeeding at an Easy Perception skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
+- **Darkvision:** Dwarven Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Percepção rolls to spot something) and in darkness as if it were dim light (Percepção rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
+- **Literate:** Dwarves are typically able to read and write any Idioma they can speak.
+- **Magic Resistance:** Dwarves are highly resistant to Arcane Magic; their Força de Vontade Checks are one grade easier when used to resist. This resistance has no effect on Divine magic.
+- **Poison Resistance:** Dwarves are also highly resistant to poison, with Tolerância rolls that relate to poisoning being one grade easier.
+- **Tunnel Sense:** Due to their subterranean nature, dwarves can detect certain underground phenomena by succeeding at an Easy Percepção skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
 
 ---
 ### Elf
 
 Elves are around the same height as humans and possess graceful and slender builds. Very few elves leave their woodland realm and take up the adventuring life, instead preferring a peaceful woodland existence. Those that do are a mystery to even their own kind. Though elves get along reasonably well with halflings and gnomes, they do not mesh well with dwarves due to their rather gruff nature. Even humans are viewed with suspicion. Of all the races, orcs and goblins are despised above all due to a long-standing animosity based on endless wars and petty skirmishes. Like dwarves, elves are very long-lived, but even more so, reaching ages of around 1,100 years. However, long before this, elves often feel the need to depart the realms of men. To where they go is a mystery to all but themselves.
 
-Elves are distinctive with their fine bone structure, narrow tapering skulls, and narrow pointed ears. Eye colors vary through the spectrum, from the human tones through to the color of brilliant gems. Elven society is frequently monarchical, usually governed by a king, queen, or both. Elves are otherworldly. They often seem remote from mundane events yet exhibit a comprehension of them that proves baffling for humans to understand. Nature is of great importance to the elves and so they take great care to preserve their environments. As a long-lived species, they do not accept or appreciate time in the same way as humankind and are often unconscious of the passing of short time increments.
+Elves are distinctive with their fine bone structure, narrow tapering skulls, and narrow pointed ears. Eye colors vary through the spectrum, from the human tones through to the color of brilliant gems. Elven society is frequently monarchical, usually governed by a king, queen, or both. Elves are otherworldly. They often seem remote from mundane events yet exhibit a comprehension of them that proves baffling for humans to understand. Nature is of great importance to the elves and so they take great care to preserve their environments. As a long-lived species, they do not accept or appreciate time in the same way as humankind and are often unconscious of the pasCanto of short time increments.
 
 #### Elven Culture
 
@@ -190,11 +190,11 @@ Elven culture is akin to Civilized. Great store is placed on learning and unders
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
-- **Standard Skills:** Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Free Skills:** Customs +40, Idioma (Common) +40, Idioma (Elf) +40
+- **Standard Skills:** Ocultação, Influência, Intuição, Local, Percepção, Furtividade, Força de Vontade
+- **Professional Skills:** Art (any), Comércio, Ofício (any), Courtesy, Idioma (any\*), Saber (any), Música, Sobrevivência.
 
-_\* During character creation, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
+_\* During character creation, additional Idiomas are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll._
 
 #### Alignment and Passions
 
@@ -210,27 +210,27 @@ _\* During character creation, additional languages are limited to gnome, halfli
 
 - **Movement:** 20 feet.
 - **Elven Chain:** Elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
-- **Literate:** Elves are typically able to read and write any language they can speak.
-- **Resistance to Sleep and Charm:** Elves find Willpower rolls to resist _Sleep_ and _Charm_ spells 2 grades easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
-- **Sharp Vision:** Due to their acute visual acuity, elves find all Perception rolls to spot something one grade easier.
-- **Stealthy:** Elves wearing nothing more restrictive than light armor find Stealth tests 1 grade easier.
+- **Literate:** Elves are typically able to read and write any Idioma they can speak.
+- **Resistance to Sleep and Charm:** Elves find Força de Vontade rolls to resist _Sleep_ and _Charm_ spells 2 grades easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
+- **Sharp Vision:** Due to their acute visual acuity, elves find all Percepção rolls to spot something one grade easier.
+- **Furtividadey:** Elves wearing nothing more restrictive than light armor find Furtividade tests 1 grade easier.
 
 ---
 ### Gnome
 
-At 3'4" to 3'7" in height, gnomes are even smaller than their dwarven kin. Possessing brown or tan skin, white hair, and considerably larger noses, they are, however, less rotund overall. Possessing an almost uncontrollable tendency for practical jokes and a sense of humor that could get them killed in the shadier parts of world, gnomes balance these problematic traits with a keen love of nature almost equaling that of the elves. Like dwarves, gnomes particularly love gems and jewelry, and many are experts in the gem-cutting craft. They dwell in mines and burrows found in areas of rolling hills and woodlands secluded from humans. Gnomes are suspicious of races much larger than themselves, and apart from dwarves and halflings, that is pretty much everyone. They tend to gauge a person's true intention with a test of his or her sense of humor, not the wisest of methods surely, but it seems to work for them. Gnomes are expert tellers of tall-tales and wild stories. Of all the races, they get along best with dwarves, but in general are more willing to accept others. Typically, gnomes can live to around 700 years.
+At 3'4" to 3'7" in height, gnomes are even smaller than their dwarven kin. PossesCanto brown or tan skin, white hair, and considerably larger noses, they are, however, less rotund overall. PossesCanto an almost uncontrollable tendency for practical jokes and a sense of humor that could get them killed in the shadier parts of world, gnomes balance these problematic traits with a keen love of nature almost equaling that of the elves. Like dwarves, gnomes particularly love gems and jewelry, and many are experts in the gem-cutting Ofício. They dwell in mines and burrows found in areas of rolling hills and woodlands secluded from humans. Gnomes are suspicious of races much larger than themselves, and apart from dwarves and halflings, that is pretty much everyone. They tend to gauge a person's true intention with a test of his or her sense of humor, not the wisest of methods surely, but it seems to work for them. Gnomes are expert tellers of tall-tales and wild stories. Of all the races, they get along best with dwarves, but in general are more willing to accept others. Typically, gnomes can live to around 700 years.
 
 #### Culture
 
-Gnomish culture is a clannish society that spends much of its time mining and crafting fine jewelry. Their lives are well organized with their leadership culmination with that of a chief, and religious matters being handled by the chief's cleric advisors. In this way their culture is like that of their dwarven kin, however they do tend to love games and practical jokes more so than their squat cousins. Their love of animals and nature means that in addition to dwarves, they relate well to elves and other woodland beings.
+Gnomish culture is a clannish society that spends much of its time mining and Ofícioing fine jewelry. Their lives are well organized with their leadership culmination with that of a chief, and religious matters being handled by the chief's cleric advisors. In this way their culture is like that of their dwarven kin, however they do tend to love games and practical jokes more so than their squat cousins. Their love of animals and nature means that in addition to dwarves, they relate well to elves and other woodland beings.
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Gnome) +40
-- **Standard Skills:** Deceit, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Commerce, Craft (any), Engineering, Language (any\*), Lore (any), Mechanisms, Oratory, Survival.
+- **Free Skills:** Customs +40, Idioma (Common) +40, Idioma (Gnome) +40
+- **Standard Skills:** Dissimulação, Evasão, Intuição, Local, Percepção, Furtividade, Força de Vontade
+- **Professional Skills:** Comércio, Ofício (any), Engineering, Idioma (any\*), Saber (any), Mecanismos, Oratory, Sobrevivência.
 
-_\* During character creation, additional languages are limited to dwarf, halfling, goblin, and kobold._
+_\* During character creation, additional Idiomas are limited to dwarf, halfling, goblin, and kobold._
 
 #### Alignment and Passions
 
@@ -247,11 +247,11 @@ _\* Either Respectful of nature or Loves nature, not both._
 #### Special Rules
 
 - **Movement:** 15 feet.
-- **Literate:** Gnomes are typically able to read and write any language they can speak.
-- **Darkvision:** Gnomish Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
-- **Magic Resistance:** Like dwarves, gnomes are highly resistant to Arcane Magic; Willpower Checks are one grade easier when used to resist, two grades easier with regards to illusions. This resistance has no effect on Divine magic. Many gnomes that become magic-users specialize in the School of Illusion.
-- **Poison Resistance:** Gnomes are also highly resistant to poison, with Endurance rolls that relate to poisoning being 1 grade easier.
-- **Tunnel Sense:** Due to their subterranean nature, gnomes can detect certain underground phenomena by succeeding at an Easy Perception skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
+- **Literate:** Gnomes are typically able to read and write any Idioma they can speak.
+- **Darkvision:** Gnomish Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Percepção rolls to spot something) and in darkness as if it were dim light (Percepção rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
+- **Magic Resistance:** Like dwarves, gnomes are highly resistant to Arcane Magic; Força de Vontade Checks are one grade easier when used to resist, two grades easier with regards to illusions. This resistance has no effect on Divine magic. Many gnomes that become magic-users specialize in the School of Illusion.
+- **Poison Resistance:** Gnomes are also highly resistant to poison, with Tolerância rolls that relate to poisoning being 1 grade easier.
+- **Tunnel Sense:** Due to their subterranean nature, gnomes can detect certain underground phenomena by succeeding at an Easy Percepção skill roll. Tunnel Sense may be used to detect stonework pits, deadfalls, and traps; a slope or grade; approximate depth underground; new tunnel or passage construction; and shifting or sliding walls or rooms. The range of this detection is limited to 10 feet.
 
 ---
 ### Half-Elf
@@ -264,11 +264,11 @@ Half-elves have no communities of their own but can be found living wherever hum
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Elf) +40
-- **Standard Skills:** Choose from a human culture or from the following elf skill list: Conceal, Influence, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Survival.
+- **Free Skills:** Customs +40, Idioma (Common) +40, Idioma (Elf) +40
+- **Standard Skills:** Choose from a human culture or from the following elf skill list: Ocultação, Influência, Intuição, Local, Percepção, Furtividade, Força de Vontade
+- **Professional Skills:** Choose from a human culture or from the following elf skill list: Art (any), Comércio, Ofício (any), Courtesy, Idioma (any\*), Saber (any), Música, Sobrevivência.
 
-_\* During character creation, if raised by elves, additional languages are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of language._
+_\* During character creation, if raised by elves, additional Idiomas are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of Idioma._
 
 #### Alignment and Passions
 
@@ -287,10 +287,10 @@ Choose from a human culture or from the following elf Passions:
 
 - **Movement** : 20 feet.
 - **Elven Chain** : Elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
-- **Literate** : Half-elves are typically able to read and write any language they can speak.
-- **Resistance to Sleep and Charm** : Half-elves find Willpower rolls to resist _Sleep_ and _Charm_ spells one grade easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
-- **Sharp Vision** : Due to their acute visual acuity, half-elves find all Perception rolls to spot something one grade easier.
-- **Stealthy** : Half-elves wearing nothing more restrictive than light armor find Stealth tests 1 grade easier.
+- **Literate** : Half-elves are typically able to read and write any Idioma they can speak.
+- **Resistance to Sleep and Charm** : Half-elves find Força de Vontade rolls to resist _Sleep_ and _Charm_ spells one grade easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
+- **Sharp Vision** : Due to their acute visual acuity, half-elves find all Percepção rolls to spot something one grade easier.
+- **Furtividadey** : Half-elves wearing nothing more restrictive than light armor find Furtividade tests 1 grade easier.
 
 ---
 ### Half-Orc
@@ -303,11 +303,11 @@ Like half-elves, half-orcs have no native lands, most often living among orcish 
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Orc) +40.
-- **Standard Skills:** Choose from a human culture or from the following orc skill list: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating, Evade, or Ride.
-- **Professional Skills:** Choose from a human culture or from the following orc skill list: Craft (any), Healing, Intimidation, Lore (any), Musicianship, Navigate, Survival, Track.
+- **Free Skills:** Customs +40, Idioma (Common) +40, Idioma (Orc) +40.
+- **Standard Skills:** Choose from a human culture or from the following orc skill list: Atletismo, Musculatura, Tolerância, Primeiros Socorros, Local, Percepção; and either Canoagem, Evasão, or Montaria.
+- **Professional Skills:** Choose from a human culture or from the following orc skill list: Ofício (any), Cura, Intimidation, Saber (any), Música, Navegação, Sobrevivência, Rastrear.
 
-_\* During character creation, if raised by orcs, additional languages are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of languages if you can justify the choice._
+_\* During character creation, if raised by orcs, additional Idiomas are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of Idiomas if you can justify the choice._
 
 #### Alignment and Passions
 
@@ -325,9 +325,9 @@ Choose from a human culture or from the following orc Passions if raised in orci
 #### Special Rules
 
 - **Movement:** 20 feet.
-- **Darkvision:** Half-orc Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Perception rolls to spot something) and in darkness as if it were dim light (Perception rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
-- **Illiterate:** If raised by orcs, half-orcs are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired language. This gives them basic literacy equal to half skill level in one language the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new languages in play, it can be assumed they are learning them at full literacy level. Half-orcs raised by another culture will be literate if that culture is also literate.
-- **Survival Bonus (Specific):** If raised by orcs, half-orcs find all Survival rolls pertaining to their area of origin one grade easier.
+- **Darkvision:** Half-orc Darkvision enables them to see up to 60 feet in dim light as if it were bright light (standard Percepção rolls to spot something) and in darkness as if it were dim light (Percepção rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Darkvision does not allow vision in magical darkness.
+- **Illiterate:** If raised by orcs, half-orcs are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character literate in the desired Idioma. This gives them basic literacy equal to half skill level in one Idioma the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new Idiomas in play, it can be assumed they are learning them at full literacy level. Half-orcs raised by another culture will be literate if that culture is also literate.
+- **Sobrevivência Bonus (Specific):** If raised by orcs, half-orcs find all Sobrevivência rolls pertaining to their area of origin one grade easier.
 
 ---
 ### Halfling
@@ -338,21 +338,21 @@ At first glance halflings might be mistaken for children, but the differences ar
 
 While they are generally unadventurous, halflings are inquisitive. They like to know, and share, secrets. They adore stories, myths, and fables and have inquiring minds. This means that, when abroad, the world is a fascinating place to be questioned and taken in – and this can lead halflings into trouble. Otherwise, halflings are a rather prosaic, content race that keeps to itself and prefer neither to interfere with the wider world nor have it interfere with them.
 
-To most other races, halflings are short hairy-footed kleptomaniacs, a not entirely unfounded view, as most that take up a life of adventure can easily incorporate a little stealth and subterfuge due to their small size and quick fingers, but other Classes can and do exist. There is an old dwarf saying which goes, "if there is a halfling in your party check your money pouch, if it's missing check his."
+To most other races, halflings are short hairy-footed kleptomaniacs, a not entirely unfounded view, as most that take up a life of adventure can easily incorporate a little Furtividade and subterfuge due to their small size and quick fingers, but other Classes can and do exist. There is an old dwarf saying which goes, "if there is a halfling in your party check your money pouch, if it's misCanto check his."
 
 Despite being physically smaller and weaker than most other sapient species, halflings compensate with a certain nimbleness that serves them well in sticky situations. Although cautious, they are not cowardly: halflings might say they are, but when it comes to fighting for their homes and way of life, they can summon enormous reserves of courage. In short, halflings make for good player characters, especially for those players who prefer sneaking around to stalking boldly across the moorland. They are long-lived, with lifespans of around 170 years.
 
 #### Culture
 
-Halfling culture is akin to Civilized. They live in small communities called shires, closely-knit villages and small towns with several extended families forming the basis of the community. Their industries are basic: agriculture primarily, but also handicrafts such as pottery, weaving, leatherworking, and textiles. They do work metals but very infrequently for weapons and armor. Like elves, most halflings will never leave their communities. Instead, they prefer staying at home, eating their twelve meals a day, smoking pipe weed, and drinking while socializing with friends and loved ones. But occasionally, a halfling comes along that gets the urge for adventure. The common cultural unit for halflings is the Riding; an area bounded by three shires which makes the size of each riding vary considerably. A Borough is formed of three Ridings.
+Halfling culture is akin to Civilized. They live in small communities called shires, closely-knit villages and small towns with several extended families forming the basis of the community. Their industries are basic: agriculture primarily, but also handiOfícios such as pottery, weaving, leatherworking, and textiles. They do work metals but very infrequently for weapons and armor. Like elves, most halflings will never leave their communities. Instead, they prefer staying at home, eating their twelve meals a day, smoking pipe weed, and drinking while socializing with friends and loved ones. But occasionally, a halfling comes along that gets the urge for adventure. The common cultural unit for halflings is the Riding; an area bounded by three shires which makes the size of each riding vary considerably. A Borough is formed of three Ridings.
 
 #### Skills
 
-- **Free Skills:** Customs +40, Language (Common) +40, Language (Halfling) +40
-- **Standard Skills:** Dance or Sing, Evade, Insight, Locale, Perception, Stealth, Willpower
-- **Professional Skills:** Art (any), Commerce, Craft (any), Courtesy, Language (any\*), Lore (any), Musicianship, Streetwise.
+- **Free Skills:** Customs +40, Idioma (Common) +40, Idioma (Halfling) +40
+- **Standard Skills:** Dança or Canto, Evasão, Intuição, Local, Percepção, Furtividade, Força de Vontade
+- **Professional Skills:** Art (any), Comércio, Ofício (any), Courtesy, Idioma (any\*), Saber (any), Música, Manha.
 
-_\* During character creation, additional languages are limited to dwarf, elf, gnome, goblin, and orc._
+_\* During character creation, additional Idiomas are limited to dwarf, elf, gnome, goblin, and orc._
 
 #### Alignment and Passions
 
@@ -367,8 +367,8 @@ _\* During character creation, additional languages are limited to dwarf, elf, g
 #### Special Rules
 
 - **Movement:** 15 feet.
-- **Literate:** Halflings are typically able to read and write any language they can speak.
-- **Magic Resistance:** Like dwarves, halflings are highly resistant to Arcane Magic with Willpower Checks being one grade easier when used to resist. This resistance has no effect on Divine magic.
-- **Poison Resistance:** Halflings are also highly resistant to poison, with Endurance rolls that relate to poisoning being one grade easier.
-- **Stealthy:** Halflings wearing nothing more restrictive than light armor find Stealth tests 1 grade easier.
+- **Literate:** Halflings are typically able to read and write any Idioma they can speak.
+- **Magic Resistance:** Like dwarves, halflings are highly resistant to Arcane Magic with Força de Vontade Checks being one grade easier when used to resist. This resistance has no effect on Divine magic.
+- **Poison Resistance:** Halflings are also highly resistant to poison, with Tolerância rolls that relate to poisoning being one grade easier.
+- **Furtividadey:** Halflings wearing nothing more restrictive than light armor find Furtividade tests 1 grade easier.
 - **Exposure Tolerance (Feet):** Halflings suffer no adverse effects from exposure when going around barefoot regardless of temperature. They do suffer from exposure normally as far as the rest of their body is concerned.
