@@ -136,7 +136,7 @@ To totally disrupt casting normally requires that the caster be injured or menta
 
 **Clerics:** Clerics suffer no penalty while armored or uCanto a shield.
 
-**Mages:** Because armor restricts movement, and the somatic component involved in the casting of spells requires precise gestures, mages cannot cast while wearing armor or uCanto a shield.
+**Mages:** Because armor restricts Movimento, and the somatic component involved in the casting of spells requires precise gestures, mages cannot cast while wearing armor or uCanto a shield.
 
 ---
 ## Casting Time

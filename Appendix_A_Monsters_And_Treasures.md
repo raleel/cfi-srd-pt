@@ -4,7 +4,7 @@ This appendix contains a small sample of monsters and treasure in an abbreviated
 
 ## Notes on Monster Rank
 
-Rank denotes an approximate challenge of the creature in question and is similar, but _not_ equal to, a character's Rank. Four Rank 1 creatures would be a challenge for four Rank 1 characters. It doesn't mean it will be an equal fight, just that it should be a challenge. For example, a party of six Rank 1 characters should find six Rank 1 monsters a challenge, or twelve Rank ½, or three Rank 2, or a Cantole Rank 6, and so on. That doesn't mean that they couldn't survive a battle against a Rank 8 monster, or that they couldn't be destroyed by a number of creatures equaling half their Rank. That's just the nature of random dice rolls. It does, however, give a starting point for Games Masters learning the system. **A good rule of thumb is to choose monsters whose Rank is equal to the party's Rank, plus or minus one**. That way the players aren't always running into the same number of orcs, goblins, ogres, and so on.
+Rank denotes an approximate challenge of the creature in question and is similar, but _not_ equal to, a character's Rank. Four Rank 1 creatures would be a challenge for four Rank 1 characters. It doesn't mean it will be an equal fight, just that it should be a challenge. For example, a party of six Rank 1 characters should find six Rank 1 monsters a challenge, or twelve Rank ½, or three Rank 2, or a Cantole Rank 6, and so on. That doesn't mean that they couldn't survive a battle against a Rank 8 monster, or that they couldn't be destroyed by a number of creatures equaling half their Rank. That's just the nature of random dice rolls. It does, however, give a starting point for Games Masters learning the system. **A Bom rule of thumb is to choose monsters whose Rank is equal to the party's Rank, plus or minus one**. That way the players aren't always running into the same number of orcs, goblins, ogres, and so on.
 
 ---
 ## Example Monsters
@@ -21,7 +21,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +11 (13) |
 | Move | 20' |
 | Abilities | None |
-| Alignment | Typically, Evil 54% |
+| Alinhamento | Typically, Evil 54% |
 | Armor | Chest, abdomen, and limbs 3 (studded leather), head 8 (steel helm) |
 | Skills | Atletismo 52%, Musculatura 54%, Idioma (Common Tongue) 64%, Customs 46%, Dissimulação 44%, Tolerância 52%, Evasão 52%, Intuição 54%, Local 66%, Percepção 44%, Furtividade 44%, Sobrevivência 52%, Unarmed 42%, Força de Vontade 42% |
 | Combat Skill | 56% - Battleaxe, Target Shield, Shortbow |
@@ -61,7 +61,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +13 |
 | Move | 20' |
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Leaper](Appendix_A_Monsters_And_Treasures.md?id=leaper) |
-| Alignment | NA |
+| Alinhamento | NA |
 | Armor | None |
 | Skills | Atletismo 40%, Musculatura 22%, Tolerância 52%, Evasão 56%, Percepção 50%, Furtividade 56%, Natação 58%, Força de Vontade 34% |
 | Combat Skill | 50% - Claws, Bite |
@@ -101,7 +101,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +11 |
 | Move | 15' |
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Alignment | Evil 52% |
+| Alinhamento | Evil 52% |
 | Armor | Chest, abdomen, and head 3 (studded leather), limbs 0 |
 | Skills | Atletismo 42%, Musculatura 36%, Dissimulação 49%, Tolerância 42%, Evasão 58%, Idiomas (Goblin, Hobgoblin, Kobold, Orcish) 59%, Percepção 63%, Montaria 55%, Furtividade 56%, Unarmed 42%, Força de Vontade 42% |
 | Combat Skill | 52% - Shortsword, Target Shield, Sling |
@@ -142,7 +142,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +10 (11) |
 | Move | 20' |
 | Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample) |
-| Alignment | Evil 52%, Hate magic and spellcasters 57% |
+| Alinhamento | Evil 52%, Hate magic and spellcasters 57% |
 | Armor | Chest and abdomen 3 (furs and tough skin), head and limbs 2 (tough skin) |
 | Skills | Atletismo 66%, Musculatura 87%, Tolerância 80%, Evasão 42%, Idioma (Giant) 47%, Local 50%, Percepção 51%, Unarmed 66%, Força de Vontade 42% |
 | Combat Skill | 76% - Giant-sized Club, Hurled Boulder (SIZ 8)<br> 66% - Trample |
@@ -182,7 +182,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +13 (14) |
 | Move | 15' |
 | Abilities | [Cold-blooded](Appendix_A_Monsters_And_Treasures.md?id=cold-blooded), [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Alignment | Evil 52%, Hates Everyone 62% |
+| Alinhamento | Evil 52%, Hates Everyone 62% |
 | Armor | Chest, abdomen, and head 3 (leather and scaly hide), limbs 1 (scaly hide) |
 | Skills | Atletismo 40%, Musculatura 31%, Dissimulação 57%, Tolerância 42%, Evasão 66%, Idiomas (Kobold, Goblin and Orcish) 57%, Mecanismos 66%, Percepção 64%, Furtividade 66%, Unarmed 39%, Força de Vontade 42% |
 | Combat Skill | 49% - Shortsword, Target Shield, Javelin |
@@ -224,7 +224,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +10 (14) |
 | Move | 20' |
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Light Sensitive](Appendix_A_Monsters_And_Treasures.md?id=light-sensitive) |
-| Alignment | Evil 52%, Hate Elves and Dwarves 57% |
+| Alinhamento | Evil 52%, Hate Elves and Dwarves 57% |
 | Armor | Chest and abdomen 5 (chain mail), head 8 (steel helm), arms 0, legs 3 (studded leather) |
 | Skills | Atletismo 55%, Musculatura 48%, Dissimulação 48%, Tolerância 56%, Evasão 52%, Idiomas (Orcish and Common, some can speak Goblin, Hobgoblin, and Ogre) 58%, Percepção 52%, Unarmed 55%, Força de Vontade 52% |
 | Combat Skill | 55% - Battleaxe, Target Shield, Longbow |
@@ -267,7 +267,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +11 |
 | Move | 15' |
 | Abilities | [Trample](Appendix_A_Monsters_And_Treasures.md?id=id=trample) |
-| Alignment | Evil 71%, Bad mannered and quick to anger 48% |
+| Alinhamento | Evil 71%, Bad mannered and quick to anger 48% |
 | Armor | Chest and abdomen 3 (scraps of fur and leather over tough skin), head and limbs 2 (tough skin) |
 | Skills | Atletismo 61%, Musculatura 88%, Tolerância 76%, Evasão 52%, Idioma (Ogre) 57%, Local 40%, Percepção 41%, Sobrevivência 59%, Rastrear 58%, Unarmed 61%, Força de Vontade 42% |
 | Combat Skill | 71% - Ogre Club<br> 61% -  Trample |
@@ -309,7 +309,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Magic Points | 19 |
 | Move | 15', 50' (Fly) |
 | Abilities | [Breathe Flame](Appendix_A_Monsters_And_Treasures.md?id=breathe-flame); [Immunity (Fire)](Appendix_A_Monsters_And_Treasures.md?id=immunity); [Trample](Appendix_A_Monsters_And_Treasures.md?id=trample);[Wing Buffet](Appendix_A_Monsters_And_Treasures.md?id=wing-buffet), |
-| Alignment | Evil 95%, Quick to anger, suspicious, and hate silver dragons 88% |
+| Alinhamento | Evil 95%, Quick to anger, suspicious, and hate silver dragons 88% |
 | Armor | 8 (thick scales) |
 | Skills | Arcane Knowledge 92%, Atletismo 77%, Musculatura 120%, Dissimulação 95%, Tolerância 92%, Evasão 52%, Fly 87%, Influência 78%, Intuição 95%, Idioma (Chromatic Dragon) 95%, Local 92%, Saber (Dragon) 92%, Percepção 98%, Teach 95%, Força de Vontade 78%, Speech (75% chance of having the ability to speak) |
 | Combat Skill | 100% - Cone Of Fire<br>  87% - Claws, Tail, Teeth, Wing Buffet <br> 77% -  Trample|
@@ -357,7 +357,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +9 (11) |
 | Move | 20' |
 | Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Undead (Intensity vs. Turn: 1)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Alignment | NA |
+| Alinhamento | NA |
 | Armor | Chest and abdomen 5 (chain mail), head and limbs 0 |
 | Skills | Atletismo 54%, Musculatura 53%, Tolerância 50%, Evasão 68%, Percepção 44%, Unarmed 54%, Força de Vontade 42% |
 | Combat Skill | 54% - Battleaxe, Round Shield, Longbow |
@@ -399,7 +399,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Initiative | +13 |
 | Move | 20' |
 | Abilities | [Dark Vision](Appendix_A_Monsters_And_Treasures.md?id=dark-vision), [Regeneration (1 HP/Round)](Appendix_A_Monsters_And_Treasures.md?id=regeneration), [Terrifying](Appendix_A_Monsters_And_Treasures.md?id=terrifying) |
-| Alignment | Evil 52%, Hate Good Giants 57% |
+| Alinhamento | Evil 52%, Hate Bom Giants 57% |
 | Armor | 3 (Thick, rubbery skin) |
 | Skills | Atletismo 68%, Musculatura 90%, Tolerância 90%, Evasão 62%, Idiomas (Troll) 53%, Local 48%, Percepção 60% (sight and smell), Sobrevivência 66%, Rastrear 64%, Força de Vontade 52% |
 | Combat Skill | 78% - Bite, Claws |
@@ -442,7 +442,7 @@ Rank denotes an approximate challenge of the creature in question and is similar
 | Magic Points | 6 |
 | Move | 15' |
 | Abilities | [Immunity (Fear, Sleep, and Charm)](Appendix_A_Monsters_And_Treasures.md?id=immunity), [Undead (Intensity vs. Turn: 2)](Appendix_A_Monsters_And_Treasures.md?id=undead) |
-| Alignment | None |
+| Alinhamento | None |
 | Armor | Chest and abdomen 5 (chain mail), head and limbs 0 |
 | Skills | Atletismo 53%, Musculatura 57%, Tolerância 58%, Evasão 48%, Percepção 44%, Unarmed 53%, Força de Vontade 42% |
 | Combat Skill | 53% - Fists, Club |
@@ -478,7 +478,7 @@ Each of the following abilities is described in terms of its game effects, and h
 
 #### Adhering
 
-The creature can move freely on vertical surfaces, and even move upside down on a ceiling with no special equipment. Such Movement is always at half the creature's normal Movement rate.
+The creature can move freely on vertical surfaces, and even move upside down on a ceiling with no special equipment. Such Movimento is always at half the creature's normal Movimento rate.
 
 #### Aquatic
 
@@ -496,7 +496,7 @@ A creature can only breathe flame once in a specified time period (usually once 
 
 #### Burrower
 
-The creature is adept at tunneling through the ground at its normal Movement rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
+The creature is adept at tunneling through the ground at its normal Movimento rate. Some creatures are limited in the kind of ground they can move through, which is noted in the creature's description.
 
 #### Camouflaged
 
@@ -524,7 +524,7 @@ The creature is immune to all diseases. All creatures without SIZ automatically 
 
 #### Diving Strike
 
-Some creatures can plummet from the sky or surge through the waters to attack their prey, striking with incredible force. This is effectively charging for creatures which are not land based. Diving Strike increases both the Size of the attack, and the creature's Damage Modifier by one step, for this attack only. A diving strike may only be used once per round. The creature must be at least one full round of Movement above its target (or possibly below if submerged) in order to use the diving strike.
+Some creatures can plummet from the sky or surge through the waters to attack their prey, striking with incredible force. This is effectively charging for creatures which are not land based. Diving Strike increases both the Size of the attack, and the creature's Damage Modifier by one step, for this attack only. A diving strike may only be used once per round. The creature must be at least one full round of Movimento above its target (or possibly below if submerged) in order to use the diving strike.
 
 #### Earth Sense
 
@@ -685,11 +685,11 @@ When quaffed, this potion grants the imbiber Invisibility for 1d4+2 minutes. Lik
 
 #### Potion of Levitation (40 GP)
 
-The imbiber of this potion is granted the capability to levitate vertically at a rate of 10 feet per Round. The imbiber can carry one other person if they are SIZ 20 or less. While the character may not move horizontally under the power of this spell, the character may be able to pull along a wall or cliff at a Base Movement Rate of 10 feet per Round.
+The imbiber of this potion is granted the capability to levitate vertically at a rate of 10 feet per Round. The imbiber can carry one other person if they are SIZ 20 or less. While the character may not move horizontally under the power of this spell, the character may be able to pull along a wall or cliff at a Base Movimento Rate of 10 feet per Round.
 
 #### Ring of (Spell), Rank 1 (1,000 GP)
 
-This ring allows the casting of a Cantole spell of Rank 1. No matter the spell, all possess an ongoing Duration, with the spell being cast automatically when the ring is put on and lasting until removed. They are limited in the type of spell, which may be enchanted into them, with the most common being Detect Magic, Endure Heat or Cold, Feather Fall, Floating Disk, Invisibility, Levitation, Protection from Evil (or Good), Slow Poison. Others are possible at the discretion of the Games Master. With regards to the Ring of Invisibility, attacking causes the wearer to become visible for 1d3+1 Rounds.
+This ring allows the casting of a Cantole spell of Rank 1. No matter the spell, all possess an ongoing Duration, with the spell being cast automatically when the ring is put on and lasting until removed. They are limited in the type of spell, which may be enchanted into them, with the most common being Detect Magic, Endure Heat or Cold, Feather Fall, Floating Disk, Invisibility, Levitation, Protection from Evil (or Bom), Slow Poison. Others are possible at the discretion of the Games Master. With regards to the Ring of Invisibility, attacking causes the wearer to become visible for 1d3+1 Rounds.
 
 #### Wand of (Spell), Rank 1 (1,000 GP)
 

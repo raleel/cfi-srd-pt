@@ -64,7 +64,7 @@ The mechanism for most character improvement is the Experience Roll. Games Maste
 
 There is no right or wrong time to give Experience Rolls, but natural breaks in the story may suggest suitable times. The Games Master is, however, always the decision maker here. While players cannot demand Experience Rolls, they have a right to expect them at certain times – as their characters will not be able to develop without them.
 
-The number of Experience Rolls awarded is also determined by the Games Master. However, a good rule of thumb is 1-3 Experience Rolls per session since the last time they were awarded.
+The number of Experience Rolls awarded is also determined by the Games Master. However, a Bom rule of thumb is 1-3 Experience Rolls per session since the last time they were awarded.
 
 #### IncreaCanto Existing Skills
 
@@ -79,13 +79,13 @@ The same skill may not benefit from more than one Experience Roll per session.
 
 #### IncreaCanto Passions
 
-As described under [Passions](0004_Alignment_and_Passions.md?id=passions), the value of a Passion may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Passion to be reduced uCanto an Experience Roll.
+As described under [Passions](0004_Alignment_and_Passions.md?id=passions), the value of a Paixão may be increased with Experience Rolls in the same way as a skill. If supported by play, the Games Master might even allow a Paixão to be reduced uCanto an Experience Roll.
 
-For example, constant spurning from an unrequited love might eventually wear down the Passion of even the most ardent lover, especially one who wishes to pursue a relationship without the ghosts of the past haunting them.
+For example, constant spurning from an unrequited love might eventually wear down the Paixão of even the most ardent lover, especially one who wishes to pursue a relationship without the ghosts of the past haunting them.
 
 #### Learning New Skills
 
-Some characters may wish to study new Professional Skills which they never had the chance to learn from their culture or Class. Before they can start investing Experience Rolls, they must first find a source of knowledge from which to learn. This could be as prosaic as a professional tutor such those provided by orders or guilds. Alternately it might be a more exotic source of education such as an ancient and crumbling training scroll.
+Some characters may wish to study new Perícias Profissionais which they never had the chance to learn from their culture or Class. Before they can start investing Experience Rolls, they must first find a source of knowledge from which to learn. This could be as prosaic as a professional tutor such those provided by orders or guilds. Alternately it might be a more exotic source of education such as an ancient and crumbling training scroll.
 
 Once a source of education is found, the character must spend an entire month of study and practice to garner a basic grounding in that skill (learn at Base Level). This costs 3 Experience Rolls plus whatever in-game costs are required to pay the teacher (if one exists) and purchase (or rent) whatever equipment and tools may be needed.
 
@@ -120,7 +120,7 @@ Fatigue measures tiredness and its incremental effects. It is used to Rastrear m
 
 The primary way of accruing Fatigue is by engaging in some form of physical activity. The more arduous the exercise or work, the more quickly it tires the character. At the Games Master's discretion, characters must make an appropriate skill roll – either Atletismo, Musculatura, or Tolerância – to resist gaining a level of Fatigue.
 
-Every Failed roll accrues a level of Fatigue. As shown on the [Fatigue Levels Table](0007_Game_System.md?id=fatigue-levels-table), each level of Fatigue carries penalties for skill use, movement, Initiative, and Action Points. Asphyxiation, Blood Loss, and other setting dependent effects also contribute to Fatigue accrual.
+Every Failed roll accrues a level of Fatigue. As shown on the [Fatigue Levels Table](0007_Game_System.md?id=fatigue-levels-table), each level of Fatigue carries penalties for skill use, Movimento, Initiative, and Action Points. Asphyxiation, Blood Loss, and other setting dependent effects also contribute to Fatigue accrual.
 
 For most characters, activities of any kind become near impossible when the level of Incapacitated is reached. At this stage, the character is still conscious but incapable of anything but the most desperate of activities.
 
@@ -134,7 +134,7 @@ Note that the table represents Fatigue recovery for physical exertion. Fatigue r
 
 ### Fatigue Levels Table
 
-| **Fatigue Level** | **Skill Grade** | **Movement** | **Initiative** | **Action Points** | **Recovery Period** |
+| **Fatigue Level** | **Skill Grade** | **Movimento** | **Initiative** | **Action Points** | **Recovery Period** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
 | Fresh | – | – | No Penalties | – | – |
 | Winded | Hard | No Penalties | No Penalties | No Penalties | 15 minutes |
@@ -181,7 +181,7 @@ A Combat Round represents five seconds of real time. They are used to measure sh
 
 #### Exploration Rounds
 
-An Exploration Round represents five minutes of real time and allows the party to move at three times their Base Movement Rate (60 feet for humans and human-sized demi-humans, 45 feet for the smaller demi-human races). Exploration Rounds are typically used to measure movement in a dungeon, where it is important to maintain a high level of caution. The characters are moving slow, alert for traps and ambushes, and attempting to maintain Furtividade. This also assumes someone in the party is mapping. If no one is mapping, Exploration Rounds may be treated as one minute long. UCanto Exploration Rounds allows your Percepção rolls to be made without penalty, however, as normal, other penalties may apply. Enemies find it one grade more difficult to detect a party at exploration speeds unless you are uCanto light sources in areas of darkness (such as torches or lanterns), which would give you away. If characters decide to throw caution to the wind, you can move through the dungeon uCanto Combat Rounds. However, in this case, Percepção rolls are one grade harder, and enemies do not suffer a Percepção Penalty with regards to detecting the characters. Note that when uCanto a battle mat that reveals the entire dungeon to the players, or when the Games Master is drawing the dungeon out for them, it should **always** be assumed that the party is mapping, and therefore moving at exploration speed.
+An Exploration Round represents five minutes of real time and allows the party to move at three times their Base Movimento Rate (60 feet for humans and human-sized demi-humans, 45 feet for the smaller demi-human races). Exploration Rounds are typically used to measure Movimento in a dungeon, where it is important to maintain a high level of caution. The characters are moving slow, alert for traps and ambushes, and attempting to maintain Furtividade. This also assumes someone in the party is mapping. If no one is mapping, Exploration Rounds may be treated as one minute long. UCanto Exploration Rounds allows your Percepção rolls to be made without penalty, however, as normal, other penalties may apply. Enemies find it one grade more difficult to detect a party at exploration speeds unless you are uCanto light sources in areas of darkness (such as torches or lanterns), which would give you away. If characters decide to throw caution to the wind, you can move through the dungeon uCanto Combat Rounds. However, in this case, Percepção rolls are one grade harder, and enemies do not suffer a Percepção Penalty with regards to detecting the characters. Note that when uCanto a battle mat that reveals the entire dungeon to the players, or when the Games Master is drawing the dungeon out for them, it should **always** be assumed that the party is mapping, and therefore moving at exploration speed.
 
 #### Skill Time
 
@@ -332,7 +332,7 @@ Beyond hiring a competent Ofíciosman, traps often have very expensive component
 
 All traps have a Difficulty rating which represents how difficult it is to perceive, disarm, or avoid. This value is treated as its skill when resisted in an Opposed Roll.
 
-Despite the many entertaining tales told by storytellers, traps – especially those intended to kill – rarely have a method of cleverly avoiding or reverCanto their effects once set in motion. Without magic or good fortune, those caught in a death trap usually succumb to its highly efficient purpose. In short, they are not intended to be survivable. Unless the trap has some cunning design or is some sort of enduring magical enchantment, once it has been sprung it must be manually reset.
+Despite the many entertaining tales told by storytellers, traps – especially those intended to kill – rarely have a method of cleverly avoiding or reverCanto their effects once set in motion. Without magic or Bom fortune, those caught in a death trap usually succumb to its highly efficient purpose. In short, they are not intended to be survivable. Unless the trap has some cunning design or is some sort of enduring magical enchantment, once it has been sprung it must be manually reset.
 
 ### Trap Traits
 

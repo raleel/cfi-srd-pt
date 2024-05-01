@@ -14,7 +14,7 @@
 | [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
 | [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
 | [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
-| [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
+| [Protection](0010_Spells.md?id=protection) | [Know Alinhamento \(R\)](0010_Spells.md?id=know-Alinhamento-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
 | [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
 | [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
 | [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -32,7 +32,7 @@ _\(R\) indicates a reversible spell._
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
+| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Visão no Escuro](0010_Spells.md?id=Visão no Escuro) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
 | [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
 | [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
@@ -42,7 +42,7 @@ _\(R\) indicates a reversible spell._
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
 | [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Idiomas \(R\)](0010_Spells.md?id=know-Idiomas-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Idiomas \(R\)](0010_Spells.md?id=know-Idiomas-r) | [Know Alinhamento \(R\)](0010_Spells.md?id=know-Alinhamento-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -87,7 +87,7 @@ Appraise allows the immediate assessment of the quality of physical goods of com
 | **Cost:** 3 +1/Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** None |
 
-When this spell is cast, the subject is gifted with an invisible field of magical force equal to scale armor in protection, granting 4 Armor Points to each Hit Location. It has no effect if cast on someone already wearing armor. It will however supersede natural armor for its Duration, assuming it offers superior protection. If cast on a creature possesCanto more than 4 points of natural armor, it will instead increase the Armor Points by 1 in all locations. This magical protection does not hinder movement or spell casting. The spell will persist until dispelled by magic, or the caster sustains 8 points of damage from a Cantole attack, +1 per level of additional Intensity (see the table below). Of course, the caster may choose to drop the spell at any time if desired and must do so to sleep.
+When this spell is cast, the subject is gifted with an invisible field of magical force equal to scale armor in protection, granting 4 Armor Points to each Hit Location. It has no effect if cast on someone already wearing armor. It will however supersede natural armor for its Duration, assuming it offers superior protection. If cast on a creature possesCanto more than 4 points of natural armor, it will instead increase the Armor Points by 1 in all locations. This magical protection does not hinder Movimento or spell casting. The spell will persist until dispelled by magic, or the caster sustains 8 points of damage from a Cantole attack, +1 per level of additional Intensity (see the table below). Of course, the caster may choose to drop the spell at any time if desired and must do so to sleep.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -193,7 +193,7 @@ The spell may be cast defensively to protect the cleric or one or more allies or
 | **Cost:** 1 | **Range:** 180 ft. |
 | **Area:** 25 ft. Radius | **Resist:** Força de Vontade |
 
-When this spell is cast, the cleric blesses a group of allies within the Area of Effect. Those affected radiate the Alignment of the caster, either Good or Evil. There are no blesCantos of Neutrality. All allies within the spell's radius receive a +5% bonus to all skill and Resistance rolls. In addition, their weapons cause +1d3 damage to intelligent undead as well as creatures from the outer planes that have oppoCanto alignments to that of the caster, such as demons, devils, or angels. Note that while animated undead such as skeletons and zombies are not inherently evil, they are typically animated by evil magic and thus subject to this damage.
+When this spell is cast, the cleric blesses a group of allies within the Area of Effect. Those affected radiate the Alinhamento of the caster, either Bom or Evil. There are no blesCantos of Neutrality. All allies within the spell's radius receive a +5% bonus to all skill and Resistance rolls. In addition, their weapons cause +1d3 damage to intelligent undead as well as creatures from the outer planes that have oppoCanto alignments to that of the caster, such as demons, devils, or angels. Note that while animated undead such as skeletons and zombies are not inherently evil, they are typically animated by evil magic and thus subject to this damage.
 
 The reverse of this spell, Curse, allows the cleric to curse enemies, making the noted skills suffer the inverse of the benefits noted above. A cursed weapon's damage is calculated as a penalty instead, and this damage cannot result in less than 1 point.
 
@@ -472,7 +472,7 @@ When this spell is cast, 1d4 creatures of SIZ 1-20 within the area of effect tha
 
 Each attack on a confused creature allows it an additional attempt to resist the spell. The victim can Evasão or Parry normally.
 
-With a 'Wander off' result, the victim heads in the opposite direction to the caster at a walking gait uCanto their normal mode of movement. Creatures with innate Abilities such as astral or ethereal travel, plane shifting, and so on, have a 50% chance of uCanto one of these Abilities in place of their mundane form of movement each Round.
+With a 'Wander off' result, the victim heads in the opposite direction to the caster at a walking gait uCanto their normal mode of Movimento. Creatures with innate Abilities such as astral or ethereal travel, plane shifting, and so on, have a 50% chance of uCanto one of these Abilities in place of their mundane form of Movimento each Round.
 
 Large creatures (SIZ 21-40) are less susceptible to Confusion, with their Resistance roll being Easy, while the Resistance roll for Huge creatures (SIZ 41+) is Very Easy.
 
@@ -703,7 +703,7 @@ This spell creates an area of total magical darkness in a 10-foot radius, blocki
 | +1 | +1 | Continue progression |
 
 ---
-#### Darkvision
+#### Visão no Escuro
 
 (Transmutation)
 
@@ -713,7 +713,7 @@ This spell creates an area of total magical darkness in a 10-foot radius, blocki
 | **Cost:** 1/Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** N/A |
 
-This spell grants the recipient Darkvision to a Range of 60 feet. It functions in all ways as the racial Ability of the same name.
+This spell grants the recipient Visão no Escuro to a Range of 60 feet. It functions in all ways as the racial Ability of the same name.
 
 ---
 #### Death Spell
@@ -777,7 +777,7 @@ This spell allows the caster to discern if one or more selected creatures are un
 | **Cost:** 1/Intensity | **Range:** 180 ft. |
 | **Area:** 90-degree Arc | **Resist:** N/A |
 
-With this spell, the caster can detect strong emanations of evil within a 90-degree arc, out to 180 feet. It will only discover evil creatures of a supernatural nature like demons and vampires, or mundane beings of either evil or vile intention, as determined by the Games Master. It will not, however, detect such things as traps, poison, cursed items, or so on. The caster can see the emanations through up to 3 feet of solid wood, 1 foot of stone or dirt, and 1 inch of solid metal. Because the magical auras need time to form, no more than one 60° arc may be scanned per minute. The reverse of this spell, Detect Good, follows the same rules noted above.
+With this spell, the caster can detect strong emanations of evil within a 90-degree arc, out to 180 feet. It will only discover evil creatures of a supernatural nature like demons and vampires, or mundane beings of either evil or vile intention, as determined by the Games Master. It will not, however, detect such things as traps, poison, cursed items, or so on. The caster can see the emanations through up to 3 feet of solid wood, 1 foot of stone or dirt, and 1 inch of solid metal. Because the magical auras need time to form, no more than one 60° arc may be scanned per minute. The reverse of this spell, Detect Bom, follows the same rules noted above.
 
 ---
 #### Detect Invisibility
@@ -931,7 +931,7 @@ Earthquake causes a ground tremor capable of knocking people from their feet and
 | **Cost:** 3 + See Below | **Range:** Touch |
 | **Area:** 1 Item | **Resist:** N/A |
 
-The casting of this spell prepares an item for Enchantment. The object must be in good condition and of the finest construction and workmanship. An additional cost of at least 100GP is required to cover the cost of additional tooling, carving, embroidery, bejeweling, engraving, and so. Finally, the Enchantment process requires a laboratory or workshop.
+The casting of this spell prepares an item for Enchantment. The object must be in Bom condition and of the finest construction and workmanship. An additional cost of at least 100GP is required to cover the cost of additional tooling, carving, embroidery, bejeweling, engraving, and so. Finally, the Enchantment process requires a laboratory or workshop.
 
 While casting the spell, the magic-user must be touching the item throughout the entire Casting Time of 1d8+2 days. This accounts for periods of rest and sleep, during which time the item must remain within an arm's length of the caster. At no time throughout the casting may the magic-user cast another spell or perform any other form of magic. Breaking any of these strictures will automatically cause the spell to fail.
 
@@ -1019,7 +1019,7 @@ When this spell is cast, a wave of terror expands outward, cauCanto all those wh
 
 When this spell is cast, several people, creatures, or objects within the spell's Area of Effect, with a combined SIZ totaling no more than 20 per Intensity, are reduced in weight to that of a feather. Those under the spell's Influência fall no faster than 10 ft. per Round/120 ft. per minute, with no falling damage incurred while the spell's Duration continues. They are so light as to be effectively immune to any knockback greater than 5 ft. and take no damage if knocked into anything, as they simply float slowly backward.
 
-Casting this spell on an aerial creature such as a bird or dragon changes its flight dynamic in such a way that Hard Fly rolls are required every Round of the spell's Duration if they wish to remain aloft. On a success, the creature may move as desired, but at only half its normal Movement Rate, while a failed roll causes the creature's attempt to send it gently tumbling out of control in a random direction at a distance equal to its attempted rate of movement. If it simply lets itself fall, an aerial creature may use its wings to adjust its point of landing by 5 ft. per Round.
+Casting this spell on an aerial creature such as a bird or dragon changes its flight dynamic in such a way that Hard Fly rolls are required every Round of the spell's Duration if they wish to remain aloft. On a success, the creature may move as desired, but at only half its normal Movimento Rate, while a failed roll causes the creature's attempt to send it gently tumbling out of control in a random direction at a distance equal to its attempted rate of Movimento. If it simply lets itself fall, an aerial creature may use its wings to adjust its point of landing by 5 ft. per Round.
 
 If the spell wears off before those affected have landed, they resume normal falling speed and determine falling damage from that point.
 
@@ -1044,7 +1044,7 @@ Due to this spell's Instant Casting Time, the mage may use Feather Fall reactive
 | **Cost:** 3/Intensity, +1 EXP | **Range:** 0 |
 | **Area:** ½ Mile Radius/Intensity | **Resist:** N/A |
 
-This spell allows the caster to attempt to summon a familiar, which becomes an extension of its master's senses and power. Familiars may converse with their master telepathically and make good guards and scouts as well. Having one's familiar killed presents certain risks to the magic-user due to their close connection, which makes having a familiar a low-rank danger.
+This spell allows the caster to attempt to summon a familiar, which becomes an extension of its master's senses and power. Familiars may converse with their master telepathically and make Bom guards and scouts as well. Having one's familiar killed presents certain risks to the magic-user due to their close connection, which makes having a familiar a low-rank danger.
 
 To summon a familiar, the magic-user must begin the ritual while keeping a brazier stoked with charcoal, and when burning with intensity, add 100GP worth of incense. With these ingredients burning, the caster must then continue the ritual until the familiar arrives or the Casting Time expires without success.
 
@@ -1199,7 +1199,7 @@ The reverse of this spell, Stone to Flesh, is used to restore a victim and no ro
 | **Cost:** 1/Intensity | **Range:** 60 ft. |
 | **Area:** 3 ft. wide disk | **Resist:** N/A |
 
-The magic-user may cast this spell to create a shimmering disk of force concentrated into a circle 3 feet in diameter, and use it to carry loose, miscellaneous items. This floating disk will always remain 3 feet above the ground and can carry any number of goods if they do not exceed 20 'Things' per Intensity and can fit upon the disk. For comparative purposes, assume 1 SIZ is equal to 3 'Things'; therefore, the disk would be able to carry just over 6 SIZ per Intensity. The concave nature of the disk will generally keep items from rolling off and if left unbidden, the disk will stay within 5 feet of the caster, following with a Movement Rate of 15 feet. However, the disk may be maneuvered to any point within the 60-foot area of the spell if the magic-user concentrates, even being willed to remain at a certain location. If the magic-user allows the disk to move beyond 60 feet, the disk will wink out of existence, dropping all carried items to the ground. The disk may not be willed to rise more than 3 feet off the ground.
+The magic-user may cast this spell to create a shimmering disk of force concentrated into a circle 3 feet in diameter, and use it to carry loose, miscellaneous items. This floating disk will always remain 3 feet above the ground and can carry any number of goods if they do not exceed 20 'Things' per Intensity and can fit upon the disk. For comparative purposes, assume 1 SIZ is equal to 3 'Things'; therefore, the disk would be able to carry just over 6 SIZ per Intensity. The concave nature of the disk will generally keep items from rolling off and if left unbidden, the disk will stay within 5 feet of the caster, following with a Movimento Rate of 15 feet. However, the disk may be maneuvered to any point within the 60-foot area of the spell if the magic-user concentrates, even being willed to remain at a certain location. If the magic-user allows the disk to move beyond 60 feet, the disk will wink out of existence, dropping all carried items to the ground. The disk may not be willed to rise more than 3 feet off the ground.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1220,7 +1220,7 @@ The magic-user may cast this spell to create a shimmering disk of force concentr
 | **Cost:** 3+1/additional Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** N/A |
 
-When this spell is cast, the magic-user may grant one creature of up to 10 SIZ per Intensity the gift. of flight. The creature gains a Movement Rate of 30 feet while flying, half that if climbing and double that in a dive. All skill penalties applying to ground movement speed apply to the desired flying speed as well, including limitations placed on spell casting and combat. The exact Duration of the Fly spell is unpredictable and should be rolled by the Games Master as those under its effects should not know specifically how much time is left. If the flier is required to make a Fly skill roll, Atletismo or Acrobatics may be substituted at two grades of difficulty. However, a character that uses this spell frequently may choose to develop the Fly skill normally at a Base Value of STR+DEX.
+When this spell is cast, the magic-user may grant one creature of up to 10 SIZ per Intensity the gift. of flight. The creature gains a Movimento Rate of 30 feet while flying, half that if climbing and double that in a dive. All skill penalties applying to ground Movimento speed apply to the desired flying speed as well, including limitations placed on spell casting and combat. The exact Duration of the Fly spell is unpredictable and should be rolled by the Games Master as those under its effects should not know specifically how much time is left. If the flier is required to make a Fly skill roll, Atletismo or Acrobatics may be substituted at two grades of difficulty. However, a character that uses this spell frequently may choose to develop the Fly skill normally at a Base Value of STR+DEX.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1241,7 +1241,7 @@ When this spell is cast, the magic-user may grant one creature of up to 10 SIZ p
 | **Cost:** 3+1/additional Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** N/A |
 
-When cast, this spell allows the subject to act normally throughout its Duration, regardless of other spells or effects that hinder movement or penalize attacks. This includes negating penalties from impeding terrain such as mud and snow. Under water, the subject may move at their normal land speed and swung weapons (swords, axes, clubs, maces, and so on) attack with full effect. This spell does not grant the ability to breathe under water, however. This spell negates hindering spells, such as Entangle, Slow, Hold, Paralysis, Web, and so on, regarding movement and action penalties.
+When cast, this spell allows the subject to act normally throughout its Duration, regardless of other spells or effects that hinder Movimento or penalize attacks. This includes negating penalties from impeding terrain such as mud and snow. Under water, the subject may move at their normal land speed and swung weapons (swords, axes, clubs, maces, and so on) attack with full effect. This spell does not grant the ability to breathe under water, however. This spell negates hindering spells, such as Entangle, Slow, Hold, Paralysis, Web, and so on, regarding Movimento and action penalties.
 
 ---
 #### Frostbite
@@ -1269,7 +1269,7 @@ Large creatures (SIZ 21-40) are less susceptible to this spell with the Resistan
 | **Cost:** 3+1/additional Intensity | **Range:** 30 ft./Intensity |
 | **Area:** 10 ft. Radius | **Resist:** Força de Vontade |
 
-This spell causes all opponents in the Area of Effect to become clumsy, with any physical skill rolls becoming one grade more difficult and cauCanto all failures to result in a Fumble. Even physical actions that do not typically require a skill roll such as picking up a dropped item, moving faster than a walk, or climbing stairs require an Atletismo skill roll. A Failure in this case results in a Fumble, and typically an awkward fall in the case of movement, or accidentally kicking an item further away while attempting to pick it up. The Games Master should be creative with the results of a Fumbled roll; however, few should be outright deadly in non-combat situations. In combat, however, a Fumble is treated as any other and can result in Special Effects as normal.
+This spell causes all opponents in the Area of Effect to become clumsy, with any physical skill rolls becoming one grade more difficult and cauCanto all failures to result in a Fumble. Even physical actions that do not typically require a skill roll such as picking up a dropped item, moving faster than a walk, or climbing stairs require an Atletismo skill roll. A Failure in this case results in a Fumble, and typically an awkward fall in the case of Movimento, or accidentally kicking an item further away while attempting to pick it up. The Games Master should be creative with the results of a Fumbled roll; however, few should be outright deadly in non-combat situations. In combat, however, a Fumble is treated as any other and can result in Special Effects as normal.
 
 A successful Resistance roll allows the victim to avoid the effects of the spell for the current Round; however, if the victim still occupies the Area of Effect next Round, another roll to Resist must be made again as normal. Allies of the original attacker will also need to stay out of the Area of Effect or suffer the same limitations as their opponents.
 
@@ -1309,7 +1309,7 @@ The casting of Gate requires the caster to know the true name of the entity to b
 | 7 | 9 | Greater Deity | 161-180% |
 | 8 | 10 | Ruling Deity | 181% + |
 
-The form of the response will depend greatly on the specific entity, the Alignment of both parties, and the specifics of the request. If the entity believes the reasons for the interruption to be petty or inconsequential, their response could be anything from simply leaving to outright attack. However, a desperate situation, especially one where the caster is threatened by something strongly opposed by the entity is likely to be met with a more favorable response. If the Games Master feels there is a gray area, and the response would be in question, the caster and their allies may attempt to argue their case uCanto a combination of skill, flattery, pleading, and/or bribery. However, most entities will avoid being drawn into a conflict with others of equal or greater power, and many will demand payment, either before or after the deed. The gate will stay open for as long as the entity chooses to remain on this side, cloCanto behind them when they decide to leave. During this time, it is possible for the gate to be traversed by others, offering two-way travel between both realities.
+The form of the response will depend greatly on the specific entity, the Alinhamento of both parties, and the specifics of the request. If the entity believes the reasons for the interruption to be petty or inconsequential, their response could be anything from simply leaving to outright attack. However, a desperate situation, especially one where the caster is threatened by something strongly opposed by the entity is likely to be met with a more favorable response. If the Games Master feels there is a gray area, and the response would be in question, the caster and their allies may attempt to argue their case uCanto a combination of skill, flattery, pleading, and/or bribery. However, most entities will avoid being drawn into a conflict with others of equal or greater power, and many will demand payment, either before or after the deed. The gate will stay open for as long as the entity chooses to remain on this side, cloCanto behind them when they decide to leave. During this time, it is possible for the gate to be traversed by others, offering two-way travel between both realities.
 
 ---
 #### Glamour \(R\)
@@ -1350,7 +1350,7 @@ Glue cements together two solid, inanimate objects for the Duration of the spell
 | **Cost:** 3+1/additional Intensity | **Range:** 180 ft. |
 | **Area:** 20 ft. Radius, 1 Target/Intensity | **Resist:** N/A |
 
-One person or creature (to include oneself) per Intensity within the spell's Area of Effect receives double the normal Movement Rate and gains a +4 bonus to Initiative for the spell's Duration. In addition, the target may choose 2 Actions per Turn for each Action Point used. This does not increase the rate of spell casting or the Duration of a spell in any way. Therefore, a spellcaster under the effects of Haste will not cast spells any faster, nor benefit from the extra Action in the same Turn that spells are cast. Because of the subject's sped up metabolism, each casting of this spell will age the target 1% of their normal life expectancy, regardless of Duration. For humans, that would be about 1 year. See the [Aging](0007_Game_System.md?id=aging) rules for the average life expectancies of the demi-human races. The casting of Haste will cancel out the effects of Slow, and in this case, will not age the individual. Haste does not stack with itself or similar magical effects.
+One person or creature (to include oneself) per Intensity within the spell's Area of Effect receives double the normal Movimento Rate and gains a +4 bonus to Initiative for the spell's Duration. In addition, the target may choose 2 Actions per Turn for each Action Point used. This does not increase the rate of spell casting or the Duration of a spell in any way. Therefore, a spellcaster under the effects of Haste will not cast spells any faster, nor benefit from the extra Action in the same Turn that spells are cast. Because of the subject's sped up metabolism, each casting of this spell will age the target 1% of their normal life expectancy, regardless of Duration. For humans, that would be about 1 year. See the [Aging](0007_Game_System.md?id=aging) rules for the average life expectancies of the demi-human races. The casting of Haste will cancel out the effects of Slow, and in this case, will not age the individual. Haste does not stack with itself or similar magical effects.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1409,9 +1409,9 @@ This spell allows the caster to immobilize 1 humanoid creature per Intensity wit
 
 When this spell is cast, the cleric utters a word of incredible divine power, capable of repelling evil entities from other planes of existence; however, the caster must be in their own plane to do so. The affected creatures are sent back to their plane of origin and cannot return to the caster's plane for at least 24 hours.
 
-In addition, non-planar creatures of Evil Alignment suffer additional effects dependent upon the entity's Rank or SIZ, whichever gives the more beneficial result, as detailed on the following table.
+In addition, non-planar creatures of Evil Alinhamento suffer additional effects dependent upon the entity's Rank or SIZ, whichever gives the more beneficial result, as detailed on the following table.
 
-| **Target Rank** | **Target SIZ** | **General** | **Skill\*\*** | **Movement** |
+| **Target Rank** | **Target SIZ** | **General** | **Skill\*\*** | **Movimento** |
 | :-: | :-: | :-- | :-: | :-: |
 | 0-1\* | 1-20 | Kills | - | - |
 | 2 | 21-40 | Paralyzes 1d4 x10 Minutes | - | - |
@@ -1426,7 +1426,7 @@ _\*\*\* As per the Rank 2 Arcane spell, [Slow](0010_Spells.md?id=slow)._
 
 Creatures that have been previously deafened or are otherwise unable to hear the spell are unaffected by the effects detailed in the table, however, other planar entities are still Conduçãon off as detailed above.
 
-When reversed, Unholy Word functions as above, however only with regards to creatures of Good Alignment.
+When reversed, Unholy Word functions as above, however only with regards to creatures of Bom Alinhamento.
 
 ---
 #### Ice Storm
@@ -1452,7 +1452,7 @@ Hail Stones (Duration: Instant): This variant of the spell causes large balls of
 | 5 | 7 | 150 ft. Range; 3d10 dmg |
 | +1 | +1 | Continue progression |
 
-Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a driving sleet that whips through a path-like area 60 feet wide, and 120 feet long, blinding those affected. The actual path may be designated by the magic-user when the spell is cast. In addition, the ground in the affected area ices over, slowing the Movement Rate by 50%, and grounding fliers that fail a Formidable Fly skill roll. Those on the ground must succeed at an Atletismo roll every Round to resist falling prone, with the roll being two grades harder if moving faster than a walk. A character possesCanto Acrobatics may substitute that skill if desired. The ice will melt after the spell's Duration expires at a rate determined by the Games Master, dependent upon the ambient temperature; however, even in warm weather it will last a minimum of 10 minutes. Small fires, such as campfires and torches, are automatically extinguished. This spell will negate the effects of the spell Heat Metal.
+Driving Sleet (Duration: 1 Round/Intensity): This variant of the spell creates a driving sleet that whips through a path-like area 60 feet wide, and 120 feet long, blinding those affected. The actual path may be designated by the magic-user when the spell is cast. In addition, the ground in the affected area ices over, slowing the Movimento Rate by 50%, and grounding fliers that fail a Formidable Fly skill roll. Those on the ground must succeed at an Atletismo roll every Round to resist falling prone, with the roll being two grades harder if moving faster than a walk. A character possesCanto Acrobatics may substitute that skill if desired. The ice will melt after the spell's Duration expires at a rate determined by the Games Master, dependent upon the ambient temperature; however, even in warm weather it will last a minimum of 10 minutes. Small fires, such as campfires and torches, are automatically extinguished. This spell will negate the effects of the spell Heat Metal.
 
 ---
 #### Identify
@@ -1591,7 +1591,7 @@ When reversed, Lock closes and locks one portal as noted above assuming there is
 | 3 | 3 | up to 75 HP portal; an iron chest or door |
 
 ---
-#### Know Alignment \(R\)
+#### Know Alinhamento \(R\)
 
 (Divination)
 
@@ -1601,9 +1601,9 @@ When reversed, Lock closes and locks one portal as noted above assuming there is
 | **Cost:** 1/Intensity | **Range:** 30 ft |
 | **Area:** 1 Target | **Resist:** Força de Vontade |
 
-This spell allows the caster to discern the Alignment and Passions of one creature, which gets a roll to resist. If the roll to resist fails, the caster will divine the target's Ethical Code with respect to Law, Neutrality, and Chaos. Concentrating for a further Round is required to discern the target's moral Alignment with regards to Good, Neutrality, and Evil. Each additional Round beyond this will discern one other random remaining Passion. The Games Master reveals the 'strength' of the target's discovered Alignment and Passions according to the following table:
+This spell allows the caster to discern the Alinhamento and Passions of one creature, which gets a roll to resist. If the roll to resist fails, the caster will divine the target's Ethical Code with respect to Law, Neutrality, and Chaos. Concentrating for a further Round is required to discern the target's moral Alinhamento with regards to Bom, Neutrality, and Evil. Each additional Round beyond this will discern one other random remaining Paixão. The Games Master reveals the 'strength' of the target's discovered Alinhamento and Passions according to the following table:
 
-**Alignment/Passion Strength Table**
+**Alinhamento/Paixão Strength Table**
 
 | **Percentage** | **Strength** |
 | :-: | :-- |
@@ -1612,7 +1612,7 @@ This spell allows the caster to discern the Alignment and Passions of one creatu
 | 70-99% | Strong |
 | 100% + | Very Strong |
 
-The reverse of this spell, Obscure Alignment, makes a target's Alignment and Passions unreadable for 24 hours, even from the casting of Know Alignment or Detect Evil/Good.
+The reverse of this spell, Obscure Alinhamento, makes a target's Alinhamento and Passions unreadable for 24 hours, even from the casting of Know Alinhamento or Detect Evil/Bom.
 
 ---
 #### Know Idiomas \(R\)
@@ -1640,7 +1640,7 @@ The reverse of this spell, Confuse Idiomas, makes a creature unintelligible to a
 | **Cost:** 3, +1/additional Intensity | **Range:** 60 ft/Intensity |
 | **Area:** 1 Target | **Resist:** Força de Vontade |
 
-When this spell is cast, the magic-user may designate themselves, one target, a creature, or an object, of no more than 20 SIZ (+10 SIZ per additional Intensity), and levitate that individual off the ground. A creature other than the caster may be moved vertically at a speed of 5 feet per Combat Round; if cast on oneself, the caster may move vertically up to 10 feet per Round. Levitation requires no Concentration on the part of the caster other than when changing elevation. If used on an unwilling subject, the target is allowed a roll to resist. While the subject of this spell is not granted any form of horizontal movement, the subject may be able to pull along a wall or cliff if within reach. The caster may end this spell when desired.
+When this spell is cast, the magic-user may designate themselves, one target, a creature, or an object, of no more than 20 SIZ (+10 SIZ per additional Intensity), and levitate that individual off the ground. A creature other than the caster may be moved vertically at a speed of 5 feet per Combat Round; if cast on oneself, the caster may move vertically up to 10 feet per Round. Levitation requires no Concentration on the part of the caster other than when changing elevation. If used on an unwilling subject, the target is allowed a roll to resist. While the subject of this spell is not granted any form of horizontal Movimento, the subject may be able to pull along a wall or cliff if within reach. The caster may end this spell when desired.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -1782,7 +1782,7 @@ When shooting multiple missiles, the caster may have them strike a Cantole creat
 
 This spell creates a mouth on an item or object, which magically appears when triggered by a specific event or time appointed by the magic-user when the spell is first cast. This mouth will then speak whatever predefined phrase the caster chose at the time of the casting. This phrase must consist of no more than 25 words and are spoken by the mouth at a rate of roughly 1 word per second. The mouth may not speak words of power or cast spells.
 
-This spell may be cast upon any normally inanimate object, from a pillar or tree, to a stone wall or a chest; however, it is particularly effective when cast on a statue, as the statue itself would look as if speaking. It cannot be cast on any living creature with any form of Intelligence or Instinct. This applies to those that were formerly alive. When casting this spell, the magic-user determines the situation that will activate the enchantment. It can be designed to trigger via anything from a spoken word to the creation of any noise. It could be as general as 'when the next person enters this room…' to as specific as, 'when a female Cleric of Sedona comes within 10 feet of the statue at the end of the hall on a Saturday…'. The triggering effect cannot be something that cannot be discerned non-magically, such as an invisible creature, a creature's Alignment, skill, Class, etc. However, it could designate clothing worn. The maximum distance that the spell can be triggered is 25 feet per Intensity.
+This spell may be cast upon any normally inanimate object, from a pillar or tree, to a stone wall or a chest; however, it is particularly effective when cast on a statue, as the statue itself would look as if speaking. It cannot be cast on any living creature with any form of Intelligence or Instinct. This applies to those that were formerly alive. When casting this spell, the magic-user determines the situation that will activate the enchantment. It can be designed to trigger via anything from a spoken word to the creation of any noise. It could be as general as 'when the next person enters this room…' to as specific as, 'when a female Cleric of Sedona comes within 10 feet of the statue at the end of the hall on a Saturday…'. The triggering effect cannot be something that cannot be discerned non-magically, such as an invisible creature, a creature's Alinhamento, skill, Class, etc. However, it could designate clothing worn. The maximum distance that the spell can be triggered is 25 feet per Intensity.
 
 This spell's Duration is permanent until the enchantment is activated and then the spell ends.
 
@@ -1849,7 +1849,7 @@ Might allows the recipient to engage in an impressive act of physical brute forc
 | **Cost:** 1/Intensity | **Range:** 0 |
 | **Area:** 5 ft. Radius | **Resist:** NA |
 
-When this spell is cast, 2d4 duplicates of the magic-user appear within a 5 ft. radius, exactly mimicking the caster's movements. In addition, the entire Area of Effect wavers and shimmers, making the caster's exact location impossible to ascertain. Striking one of the illusionary images causes it to vanish; however, the remaining images are unaffected. Striking the caster has no effect on the remaining images and as the images are always shifting, there is no way of knowing if the target is the real caster if attacked again. Any injuries suffered by the caster are duplicated on the images as well. There are numerous ways the Games Master can determine if the actual caster has been struck or one of the images. One is to determine how many potential targets are available, including the caster, and roll a die of the closest denomination. For example, with 4 images and the caster, the attacker should roll 1d6, re-rolling a result of 6, with the caster being hit on a roll of 1. Another would be to have several markers equal to the number of potential targets, marking one as being the caster. A marker is drawn each time an attack is made and if the target is hit, damage is applied; otherwise, an image disappears, removing one of the markers. The images vanish at the end of the spell's Duration.
+When this spell is cast, 2d4 duplicates of the magic-user appear within a 5 ft. radius, exactly mimicking the caster's Movimentos. In addition, the entire Area of Effect wavers and shimmers, making the caster's exact location impossible to ascertain. Striking one of the illusionary images causes it to vanish; however, the remaining images are unaffected. Striking the caster has no effect on the remaining images and as the images are always shifting, there is no way of knowing if the target is the real caster if attacked again. Any injuries suffered by the caster are duplicated on the images as well. There are numerous ways the Games Master can determine if the actual caster has been struck or one of the images. One is to determine how many potential targets are available, including the caster, and roll a die of the closest denomination. For example, with 4 images and the caster, the attacker should roll 1d6, re-rolling a result of 6, with the caster being hit on a roll of 1. Another would be to have several markers equal to the number of potential targets, marking one as being the caster. A marker is drawn each time an attack is made and if the target is hit, damage is applied; otherwise, an image disappears, removing one of the markers. The images vanish at the end of the spell's Duration.
 
 ---
 #### Neutralize Poison \(R\)
@@ -1925,7 +1925,7 @@ The following personal spells, those which only affect the caster, will benefit 
 
 - Avert	
 - Coordination
-- Darkvision	
+- Visão no Escuro	
 - Deflect	
 - Detect Evil
 - Detect Invisibility
@@ -2011,7 +2011,7 @@ The caster can alter the form of one corporeal targeted creature into that of an
 
 The entire transformation process takes a full Round and can be quite stressful to the creature in question, requiring a second Força de Vontade roll to retain their original personality, with a Failure stunning the subject for 1d10 minutes, and a Fumble resulting in death from mental shock. Each doubling or halving of the creature's original SIZ makes the Força de Vontade roll to retain the personality one grade more difficult, as would a complete change of environment, such as changing a person into a fish. A successful roll allows the victim to retain their INT and CHA as well as any skills requiring those Characteristics.
 
-The transformation grants the recipient the assumed creature's form of breathing, if other than normal; any natural attacks; and all mundane modes of movement. It does not grant any heightened or magical Abilities possessed by the creature. For example, a creature that has been polymorphed into a dragon will not gain the creature's breath attack or spell-like abilities, but will gain the ability to fly, it's tough hide, deadly bite, claw attacks, and so on. In addition, the victim gains the new form's physical skills such as Atletismo, Musculatura, Fly, Natação, as well as its Hit Points and Damage Modifier. Assuming the transformed individual retained their INT, they still lose the capacity to speak, unless the new form possesses the ability to articulate words. Those that were able to cast spells in their previous form would still be able to cast in the new form, assuming they still possess the capability to produce the verbal and somatic components. In the case of a drastic change, such as being changed from biped to quadruped, or a land animal to a sea creature, for example, the Games Master should feel free to penalize by at least one Difficulty Grade, the use of any skills that would take time to learn while adjusting to the new form until there has been sufficient time to practice. This is especially true of physical skills such as Atletismo, Unarmed, Natação, Fly, Combat Skills, and so on.
+The transformation grants the recipient the assumed creature's form of breathing, if other than normal; any natural attacks; and all mundane modes of Movimento. It does not grant any heightened or magical Abilities possessed by the creature. For example, a creature that has been polymorphed into a dragon will not gain the creature's breath attack or spell-like abilities, but will gain the ability to fly, it's tough hide, deadly bite, claw attacks, and so on. In addition, the victim gains the new form's physical skills such as Atletismo, Musculatura, Fly, Natação, as well as its Hit Points and Damage Modifier. Assuming the transformed individual retained their INT, they still lose the capacity to speak, unless the new form possesses the ability to articulate words. Those that were able to cast spells in their previous form would still be able to cast in the new form, assuming they still possess the capability to produce the verbal and somatic components. In the case of a drastic change, such as being changed from biped to quadruped, or a land animal to a sea creature, for example, the Games Master should feel free to penalize by at least one Difficulty Grade, the use of any skills that would take time to learn while adjusting to the new form until there has been sufficient time to practice. This is especially true of physical skills such as Atletismo, Unarmed, Natação, Fly, Combat Skills, and so on.
 
 The Força de Vontade roll to retain one's personality is required every day that the subject remains transformed until failed, cauCanto the person to finally succumb to the mentality of the new form, with INT changing to INS in the case of a non-sapient creature. All special and magical Abilities owned by the new form that were not acquired previously, such as gaze attacks, breath weapons, and so on, are now available to the creature as the transformation is complete. Characters that lose their identity in this way become Non-Player Characters under the control of the Games Master.
 
@@ -2040,7 +2040,7 @@ All worn and carried equipment magically melds into the new form; however, in so
 | **Cost:** 3, +1/additional Intensity | **Range:** 0 |
 | **Area:** Caster | **Resist:** NA |
 
-The caster can assume the form of any other corporeal creature, from as small as SIZ 1 up to SIZ 40. Each point of Intensity allows an increase or decrease of up to 10 points of SIZ. Therefore, a magic-user of SIZ 13 could assume the shape of a SIZ 34 grizzly bear at 3 levels of Intensity. The transformation process takes a full Round and grants the caster the assumed creature's form of breathing (if other than that of itself, for example, breathing water), any natural attacks, Hit Points, Damage Modifier, and its normal mode of movement. It does not grant any heightened or magical Abilities possessed by the creature. A magic-user that has polymorphed into a hawk, for example, will not gain the bird's extraordinary eyesight. The caster gains the creature's physical skills such as Atletismo, Musculatura, Fly, Natação, and so forth, but retains any mental and social skills (those requiring INT and CHA). The caster loses the capacity to speak unless the creature in question possesses the ability to articulate words. If so, the caster can still cast spells in the new form assuming the caster can form a spell's somatic components.
+The caster can assume the form of any other corporeal creature, from as small as SIZ 1 up to SIZ 40. Each point of Intensity allows an increase or decrease of up to 10 points of SIZ. Therefore, a magic-user of SIZ 13 could assume the shape of a SIZ 34 grizzly bear at 3 levels of Intensity. The transformation process takes a full Round and grants the caster the assumed creature's form of breathing (if other than that of itself, for example, breathing water), any natural attacks, Hit Points, Damage Modifier, and its normal mode of Movimento. It does not grant any heightened or magical Abilities possessed by the creature. A magic-user that has polymorphed into a hawk, for example, will not gain the bird's extraordinary eyesight. The caster gains the creature's physical skills such as Atletismo, Musculatura, Fly, Natação, and so forth, but retains any mental and social skills (those requiring INT and CHA). The caster loses the capacity to speak unless the creature in question possesses the ability to articulate words. If so, the caster can still cast spells in the new form assuming the caster can form a spell's somatic components.
 
 The caster may end the effect at any time, and in the process, all Minor Wounds gained while in the new form are lost, and Serious Wounds are reduced to Minor Wounds (half Hit Points lost in each applicable location). Major Wounds are not affected by the transformation and carry over to the natural form. There is no Cura when the caster transforms from natural to animal form.
 
@@ -2214,7 +2214,7 @@ When cast on someone other than oneself, complete protection from natural cold i
 
 When cast, an invisible aura of magical armor radiates from the recipient of the spell (which can be the caster), granting three different levels of defense.
 
-First, attacks by creatures with an Evil Alignment receive a -10% penalty to their Combat Style or Unarmed skill. Resistance rolls on the part of the recipient of Protection from Evil receive a +10% bonus, but only against evil creatures.
+First, attacks by creatures with an Evil Alinhamento receive a -10% penalty to their Combat Style or Unarmed skill. Resistance rolls on the part of the recipient of Protection from Evil receive a +10% bonus, but only against evil creatures.
 
 Second, neither summoned nor conjured creatures, nor beings not native to the material plane, may make physical contact with the recipient. This includes demons, devils, genies, elementals, aerial servants, salamanders, and so on. Natural attacks by these creatures cause them to recoil, thus failing to make contact. This also includes any monsters or creatures conjured or summoned by spells or items. Weapons held by such creatures may still enter the magical barrier and strike the protected individual, however.
 
@@ -2222,7 +2222,7 @@ Third, any attempts of mental control (such as by spells like Charm or Command) 
 
 The spell's Duration ends if the protected individual makes any type of melee attack or attempts to impose the protective field against an affected creature.
 
-The reverse of this spell, Protection from Good, works as above with regards to the second and third benefit, while the first benefit functions as noted with regards to good opponents.
+The reverse of this spell, Protection from Bom, works as above with regards to the second and third benefit, while the first benefit functions as noted with regards to Bom opponents.
 
 ---
 #### Protection from Fire
@@ -2296,7 +2296,7 @@ The reverse of the spell, Contaminate Food and Drink, spoils food, makes pure wa
 | **Cost:** 3, +1/additional Intensity, +1 EXP | **Range:** 100 ft. |
 | **Area:** 1 Target | **Resist:** NA (Força de Vontade) |
 
-This spell may be cast on the corpse of a creature dead less than 24 hours per level of Intensity. If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Força de Vontade roll and, if successful, negate the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
+This spell may be cast on the corpse of a creature dead less than 24 hours per level of Intensity. If the subject's Alinhamento was anything other than evil, they can resist the spell with an Opposed Força de Vontade roll and, if successful, negate the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
 
 In the case of evil souls, who would gladly return to the material plane instead of suffering eternal damnation, it is not the deceased's Força de Vontade that is resisting, but that of the demon, devil, and so on, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Força de Vontade. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of their damnation. If the caster succeeds, they have successfully returned the spirit to the body, while a failed roll results in the victim being either unwilling or unable to return.
 
@@ -2360,7 +2360,7 @@ When reversed, Wither will cause a location touched by the caster to shrivel up 
 | **Cost:** 3, +1/additional Intensity, +1EXP | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** See Below |
 
-This spell is cast while touching the corpse of a creature dead less than 24 hours per level of Intensity. However, this version of Reincarnation has no effect on full-blooded elves (instead, see the divine spells [Raiae Dead](0010_Spells.md?id=raise-dead-r) or [Resurrection](0010_Spells.md?id=resurrection-r)). If the victim's Alignment was anything other than evil, the victim resists the spell with an Opposed Força de Vontade roll, and if successful, negates the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to enter a new body once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
+This spell is cast while touching the corpse of a creature dead less than 24 hours per level of Intensity. However, this version of Reincarnation has no effect on full-blooded elves (instead, see the divine spells [Raiae Dead](0010_Spells.md?id=raise-dead-r) or [Resurrection](0010_Spells.md?id=resurrection-r)). If the victim's Alinhamento was anything other than evil, the victim resists the spell with an Opposed Força de Vontade roll, and if successful, negates the effects of the spell. This is because the soul or spirit of the deceased is rarely willing to enter a new body once it has reached its eternal reward. The Games Master can decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live.
 
 <details>
 
@@ -2473,7 +2473,7 @@ Repair fixes physical damage to an inanimate object. Each separate successful ca
 
 Resurrection raises any creature dead for no more than 20 years per level of Intensity. The creature is not only given life, but restored to full strength and healed from injury, even restoring lost limbs. Little of the actual creature needs to remain for the spell to still be effective. For example, Resurrection could be used to bring a being back from the dead after 145 years, even if possesCanto nothing more than a finger bone, assuming the spell is cast at 8 Intensity. The raised individual requires no period of rest and is fully functional immediately. The spell has no effect on a creature that died of natural causes at the end of its allotted lifespan.
 
-If the subject's Alignment was anything other than evil, they can resist the spell with an Opposed Força de Vontade roll and, if successful, negate the effects. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. However, the Games Master may decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live. In the case of evil souls, who would gladly return instead of suffering eternal damnation, it isn't the deceased's Força de Vontade that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Força de Vontade. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, the subject has been successfully resurrected, while a failed roll results in the victim being either unwilling or unable to return.
+If the subject's Alinhamento was anything other than evil, they can resist the spell with an Opposed Força de Vontade roll and, if successful, negate the effects. This is because the soul or spirit of the deceased is rarely willing to return to the living once it has reached its eternal reward. However, the Games Master may decide to waive the roll if the recipient has unfinished business, cannot be separated from their true love, or has some other heroic reason to live. In the case of evil souls, who would gladly return instead of suffering eternal damnation, it isn't the deceased's Força de Vontade that's resisting, but that of the demon, devil, and so forth, placed in charge of their punishment, their tormentor. In this case, the caster must overcome the tormentor's Força de Vontade. If this is unknown, assume it is at least 20 points higher than that of the deceased to represent that the stronger the soul's will, the more powerful the being placed in charge of his or her damnation. If the caster succeeds, the subject has been successfully resurrected, while a failed roll results in the victim being either unwilling or unable to return.
 
 Resurrection is very draining, Aging the cleric 3% of their typical lifespan (3 years in the case of a human caster). See the rules for [Aging](0007_Game_System.md?id=aging).
 
@@ -2595,7 +2595,7 @@ While sleeping, affected creatures are helpless and normal noise will not faze t
 | **Cost:** 3/Intensity | **Range:** 100 ft |
 | **Area:** 20 ft. Radius | **Resist:** Força de Vontade |
 
-This spell allows the caster to halve the normal Movement Rate of one creature. An additional creature may be slowed for each additional level of Intensity. Those affected must be within the Area of Effect when the spell is first cast but may move freely thereafter. In addition, those under the effects of Slow receive a -4 penalty to their Initiative for the spell's Duration and must reduce their total Action Points by half, including any used for Reactive purposes only. The casting of Slow cancels out the effects of Haste. Slow does not stack with itself or similar magical effects.
+This spell allows the caster to halve the normal Movimento Rate of one creature. An additional creature may be slowed for each additional level of Intensity. Those affected must be within the Area of Effect when the spell is first cast but may move freely thereafter. In addition, those under the effects of Slow receive a -4 penalty to their Initiative for the spell's Duration and must reduce their total Action Points by half, including any used for Reactive purposes only. The casting of Slow cancels out the effects of Haste. Slow does not stack with itself or similar magical effects.
 
 | **Intensity** | **Cost** | **Variable Effect** |
 | :-: | :-: | :-- |
@@ -2635,7 +2635,7 @@ As a last resort, if the caster can get to an individual that has 'died' of pois
 | **Cost:** 3, +1/additional Intensity | **Range:** 100 ft |
 | **Area:** 1 or more Monsters | **Resist:** NA |
 
-This spell allows the caster to understand and be understood by any type of creature capable of any form of communication (telepathic, pheromones, tactile, and so on). The caster simply speaks in their own Idioma and the creature understands the caster's intent or query in its own form of communication. The Games Master should determine the creature's reaction based on its Alignment as compared with that of the caster. The caster may switch from one creature to another of the same type throughout the spell's Duration.
+This spell allows the caster to understand and be understood by any type of creature capable of any form of communication (telepathic, pheromones, tactile, and so on). The caster simply speaks in their own Idioma and the creature understands the caster's intent or query in its own form of communication. The Games Master should determine the creature's reaction based on its Alinhamento as compared with that of the caster. The caster may switch from one creature to another of the same type throughout the spell's Duration.
 
 ---
 #### Sphere of Invulnerability, Lesser
@@ -2661,7 +2661,7 @@ When this spell is cast, an immobile sphere of shimmering magical protection for
 | **Cost:** 1/Intensity | **Range:** Touch |
 | **Area:** 1 Target | **Resist:** NA |
 
-The subject of this spell can move along vertical surfaces and ceilings with a 10-foot Movement Rate, even while hanging upside down. The subject must remove all hand and footwear and uCanto objects of negligible ENC (ENC less than 1) is impossible due to them sticking to their hands. This includes most spell-casting material components, typically making spell casting impossible while under the Influência of Spider Climb. To pull an object free from the individual or pull a resisting individual free from a surface requires a successful Musculatura roll at Formidable difficulty.
+The subject of this spell can move along vertical surfaces and ceilings with a 10-foot Movimento Rate, even while hanging upside down. The subject must remove all hand and footwear and uCanto objects of negligible ENC (ENC less than 1) is impossible due to them sticking to their hands. This includes most spell-casting material components, typically making spell casting impossible while under the Influência of Spider Climb. To pull an object free from the individual or pull a resisting individual free from a surface requires a successful Musculatura roll at Formidable difficulty.
 
 ---
 #### Spiritshield
@@ -2882,7 +2882,7 @@ _\*\*\* This requires a Força de Vontade vs. Força de Vontade Resistance roll 
 | **Cost:** 1/Intensity | **Range:** 0 |
 | **Area:** See Below | **Resist:** NA |
 
-This spell creates a small invisible 'eye' that the magic-user may see through for the Duration of the spell. This eye may be moved ahead of the party or sent to look around corners and into rooms having a Movement Rate of 20 ft. per Round (240 ft. per minute), if only scanning for 'obvious' threats or items of interest. This will typically only extend to the floor and lower walls. If attempting to be more thorough (examining the full walls and ceiling as well), its Movement Rate is reduced to 10 ft. per Round (120 feet per minute). The Games Master should feel free to allow Percepção rolls on the part of the caster, where necessary, with regards to spotting visual anomalies. The eye is corporeal, unable to pass through solid matter, and possesses normal vision out to 60 ft, and Infravision out to 10 ft. The caster must maintain Concentration on the eye throughout the Duration, or it will remain inert until Concentration is once again established. Any gaze attacks that would normally affect the caster still affect the caster as normal; however, the eye is considered independent of the caster with respect to blindness, darkness spells, and so forth. For the purposes of fitting through small openings, the eye is no bigger than 1 inch, and has a SIZ of 1.
+This spell creates a small invisible 'eye' that the magic-user may see through for the Duration of the spell. This eye may be moved ahead of the party or sent to look around corners and into rooms having a Movimento Rate of 20 ft. per Round (240 ft. per minute), if only scanning for 'obvious' threats or items of interest. This will typically only extend to the floor and lower walls. If attempting to be more thorough (examining the full walls and ceiling as well), its Movimento Rate is reduced to 10 ft. per Round (120 feet per minute). The Games Master should feel free to allow Percepção rolls on the part of the caster, where necessary, with regards to spotting visual anomalies. The eye is corporeal, unable to pass through solid matter, and possesses normal vision out to 60 ft, and Infravision out to 10 ft. The caster must maintain Concentration on the eye throughout the Duration, or it will remain inert until Concentration is once again established. Any gaze attacks that would normally affect the caster still affect the caster as normal; however, the eye is considered independent of the caster with respect to blindness, darkness spells, and so forth. For the purposes of fitting through small openings, the eye is no bigger than 1 inch, and has a SIZ of 1.
 
 ---
 #### Word of Recall

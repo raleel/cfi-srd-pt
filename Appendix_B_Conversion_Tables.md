@@ -80,7 +80,7 @@ To give _Classic Fantasy Imperative_ a cleaner presentation, make it easier to r
 ---
 #### Wind Table
 
-| MPH | Type | Effect on Skills | Effect on Movement |
+| MPH | Type | Effect on Skills | Effect on Movimento |
 | :-: | :-- | :-- | :-- |
 | 0-10 | Calm | None | None |
 | 11-20 | Moderate Breeze | None | None |
@@ -90,7 +90,7 @@ To give _Classic Fantasy Imperative_ a cleaner presentation, make it easier to r
 | 51-60 | Strong Gale | Formidable | Half |
 | 60+ | Storm/Hurricane | Formidable | One-Third |
 
-Wind, especially very strong winds, can have an adverse effect on activity. A wind's Strength (STR) is expressed in miles per hour of velocity. Its effect on physical skills – those involving STR or DEX – is detailed in the Skill column; effects on Movement Rate in the Movement Rate column.
+Wind, especially very strong winds, can have an adverse effect on activity. A wind's Strength (STR) is expressed in miles per hour of velocity. Its effect on physical skills – those involving STR or DEX – is detailed in the Skill column; effects on Movimento Rate in the Movimento Rate column.
  
 _For example, a Light Gale of STR 40 reduces human walking speed to two-thirds and skills are rolled at Hard difficulty._
 

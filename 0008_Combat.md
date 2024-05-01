@@ -26,7 +26,7 @@ To emphasize its visceral nature, combat is Rastreared on a blow-by-blow basis. 
 Combat Rounds use several important terms:
 
 - **Initiative:** The order of Turns indicates who acts when during  a Combat Round. The Games Master counts down through Initiative values from the highest to the lowest, so that each participant has a chance to take their Turn when their number is reached.
-- **Turns:** During each 5 second Combat Round, each participant has an opportunity to take one or more Turns, dependent on the number of Action Points they possess, and how they use them. Upon their Turn, participants perform one Combat Action, which comprises of a declaration, possible movement, any necessary dice rolls (including Reactions), and the resolution of the Action. If any participant has Action Points remaining, the players may each take another Turn in Initiative order. Once no Action Points remain, or any remaining are being held back for Reactions, play proceeds to the next Combat Round.
+- **Turns:** During each 5 second Combat Round, each participant has an opportunity to take one or more Turns, dependent on the number of Action Points they possess, and how they use them. Upon their Turn, participants perform one Combat Action, which comprises of a declaration, possible Movimento, any necessary dice rolls (including Reactions), and the resolution of the Action. If any participant has Action Points remaining, the players may each take another Turn in Initiative order. Once no Action Points remain, or any remaining are being held back for Reactions, play proceeds to the next Combat Round.
 
 Each term is described in more detail, below.
 
@@ -92,7 +92,7 @@ Once casting is complete, the character may hold a spell in temporary check, awa
 
 #### Hustle
 
-Provided they are not Engaged with an opponent, the character can move at Run (up to 3x Base Movement Rate) or Sprint (up to 5x the Movement Rate). However, one cannot perform or have performed any other Proactive Actions during this turn, including other movement.
+Provided they are not Engaged with an opponent, the character can move at Run (up to 3x Base Movimento Rate) or Sprint (up to 5x the Movimento Rate). However, one cannot perform or have performed any other Proactive Actions during this turn, including other Movimento.
 
 #### Mount
 
@@ -100,7 +100,7 @@ The character can mount or dismount a riding beast or vehicle. Particularly larg
 
 #### Move
 
-Provided one is not Engaged with an opponent; the character can move up to Base Movement Rate. If this brings them into contact with an enemy, they may make a melee attack without expending a further Action to do so, either way, the character is then considered Engaged. Unlike the Hustle Action, the Move Action may be taken multiple times during a Combat Round.
+Provided one is not Engaged with an opponent; the character can move up to Base Movimento Rate. If this brings them into contact with an enemy, they may make a melee attack without expending a further Action to do so, either way, the character is then considered Engaged. Unlike the Hustle Action, the Move Action may be taken multiple times during a Combat Round.
 
 #### Outmaneuver
 
@@ -175,30 +175,30 @@ The character guards a particular Hit Location from being hit by dedicating one 
 For further explanation see [Passive Blocking](0008_Combat.md?id=passive-blocking).
 
 ---
-## Movement
+## Movimento
 
 The following rules govern engagement in combat:
 
-- Movement is performed by either the Move, Hustle, or Charge Action.
-- The Move Action allows the character to move a distance equal to their Base Movement Rate.
-- The Hustle Action allows a character to Run a distance equal to 3x Movement Rate, or Sprint at 5x Movement Rate.
-- Movement can only be performed by unengaged characters (save for special cases such as Outmaneuvering).
-- Except in certain cases (such as Charging), all significant movement ceases once a character enters the engagement range of the intended opponent.
+- Movimento is performed by either the Move, Hustle, or Charge Action.
+- The Move Action allows the character to move a distance equal to their Base Movimento Rate.
+- The Hustle Action allows a character to Run a distance equal to 3x Movimento Rate, or Sprint at 5x Movimento Rate.
+- Movimento can only be performed by unengaged characters (save for special cases such as Outmaneuvering).
+- Except in certain cases (such as Charging), all significant Movimento ceases once a character enters the engagement range of the intended opponent.
 - Except in certain cases (such as Charging through Contact), moving into the opponent's engagement zone places each combatant in engagement with the other.
 - Once Engaged, characters cannot move away from an opponent unless first Withdrawing from close combat.
 - Attempting to move past an unengaged foe who is uCanto the Delay Action, permits (as a specific exception) that opponent to strike at moving characters as they pass by or block a character's progress, prompting close combat on the following Turn or Round.
 
-### Situational Movement Rates
+### Situational Movimento Rates
 
-These movement rates are situational and are not always an option. Many are detailed elsewhere but are included here for convenience. Most of these situational rates may be used in addition to a normal Movement Rate under set restrictions. Such information is detailed in the specific descriptions below.
+These Movimento rates are situational and are not always an option. Many are detailed elsewhere but are included here for convenience. Most of these situational rates may be used in addition to a normal Movimento Rate under set restrictions. Such information is detailed in the specific descriptions below.
 
 #### Climb
 
-A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armor hinders climbers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried.
+A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movimento Rate. The character cannot have moved faster than a Walk and must have Movimento remaining, with the distance climbed being reduced by any Movimento already used. Worn armor hinders climbers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried.
 
 #### Crawl
 
-A character that begins the Turn prone may crawl at a maximum rate of 5 feet per Turn in place of a normal Move. Creatures that naturally crawl as their normal mode of movement instead use the rules for Walk, Run, and Sprint set forth above.
+A character that begins the Turn prone may crawl at a maximum rate of 5 feet per Turn in place of a normal Move. Creatures that naturally crawl as their normal mode of Movimento instead use the rules for Walk, Run, and Sprint set forth above.
 
 #### Jump
 
@@ -212,9 +212,9 @@ A Fumble indicates the character has landed awkwardly. He must immediately make 
 
 #### Natação
 
-A character that moves adjacent to or starts the Turn next to a body of water may Natação at a rate equal to the Base Movement Rate, minus any movement already used. See the [Natação](0005_Skills.md?id=Natação-strcon) skill description for more information. Under normal conditions a character's maximum Nataçãoming speed per Round is equal to their Movement Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders Nataçãomers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces Natação distance to 0 or less, the character automatically begins drowning (refer to the rules on  [Asphyxiation](0007_Game_System.md?id=asphyxiation)).
+A character that moves adjacent to or starts the Turn next to a body of water may Natação at a rate equal to the Base Movimento Rate, minus any Movimento already used. See the [Natação](0005_Skills.md?id=Natação-strcon) skill description for more information. Under normal conditions a character's maximum Nataçãoming speed per Round is equal to their Movimento Rate, -1 for each 'Thing' carried more than the character's STR. Worn armor hinders Nataçãomers, with each location covered by light armor counting as 1 additional 'Thing' carried, and each location covered by heavy armor counting as 2 additional 'Things' carried. If total ENC reduces Natação distance to 0 or less, the character automatically begins drowning (refer to the rules on  [Asphyxiation](0007_Game_System.md?id=asphyxiation)).
 
-### Miniatures and Movement
+### Miniatures and Movimento
 
 Miniatures combat assumes the use of battle mats with a 1-inch square grid.
 
@@ -224,7 +224,7 @@ These rules work best where 1 inch is equal to either 5 feet or 10 feet.
 
 #### Facing
 
-A character's facing is one of the most important considerations on the battlefield. Leaving one side or your back open to attack is the fastest way to meet an untimely death. What follows are two facing diagrams. At the end of movement, a figure must be facing one of the sides of the square occupied, or optionally, into a diagonal, as seen below.
+A character's facing is one of the most important considerations on the battlefield. Leaving one side or your back open to attack is the fastest way to meet an untimely death. What follows are two facing diagrams. At the end of Movimento, a figure must be facing one of the sides of the square occupied, or optionally, into a diagonal, as seen below.
 
 ![](_media/CFI_8_Combat_Mini_Facing_Has.png)
 
@@ -232,13 +232,13 @@ A character's facing is one of the most important considerations on the battlefi
 
 **Evading** is always at Standard Difficulty against any attack except those from a back square, which is Formidable and requires a successful Percepção roll to even know the attack is coming.
 
-### Effects of Terrain on Movement
+### Effects of Terrain on Movimento
 
-Battlefields will usually have terrain of some type that hinders movement, represented as either Obstacles or Difficult Terrain.
+Battlefields will usually have terrain of some type that hinders Movimento, represented as either Obstacles or Difficult Terrain.
 
-Obstacles can be anything from huge trees, walls, high fences, doors, pits, and so on. An Obstacle completely blocks movement, requiring opponents to circumvent it; however, some creatures, like ghosts or those that fly, are unaffected by Obstacles. If an object doesn't completely block a square, like a chair, small tree, or bush, it is treated as Difficult Terrain.
+Obstacles can be anything from huge trees, walls, high fences, doors, pits, and so on. An Obstacle completely blocks Movimento, requiring opponents to circumvent it; however, some creatures, like ghosts or those that fly, are unaffected by Obstacles. If an object doesn't completely block a square, like a chair, small tree, or bush, it is treated as Difficult Terrain.
 
-Difficult terrain costs twice the normal movement to enter. Thus, moving into an area of Difficult Terrain in a 5-foot square would count as 10 feet of movement. A slow creature hindered by Difficult Terrain can always move a minimum of 5 feet. Some examples of Difficult Terrain would be shallow pools of water, rubble, low fences, bushes, tall grass/weeds, and dead bodies. Some creatures, like ghosts or those that fly are unaffected by Difficult Terrain. PasCanto through Difficult Terrain at any rate faster than the Base Movement Rate requires a Formidable Atletismo or a Standard Acrobatics roll to avoid stumbling and falling.
+Difficult terrain costs twice the normal Movimento to enter. Thus, moving into an area of Difficult Terrain in a 5-foot square would count as 10 feet of Movimento. A slow creature hindered by Difficult Terrain can always move a minimum of 5 feet. Some examples of Difficult Terrain would be shallow pools of water, rubble, low fences, bushes, tall grass/weeds, and dead bodies. Some creatures, like ghosts or those that fly are unaffected by Difficult Terrain. PasCanto through Difficult Terrain at any rate faster than the Base Movimento Rate requires a Formidable Atletismo or a Standard Acrobatics roll to avoid stumbling and falling.
 
 ---
 ## How Combat Works
@@ -277,7 +277,7 @@ For example, Parrying a great axe (Huge) with a kite shield (also Huge) would bl
 
 Any damage which penetrates the defender's Parry is further reduced by the Armor Points of any natural protection (such as scales or a shell) or worn armor they possess. If the defender has both, then the two stack together to reduce damage.
 
-Due to its mass and restriction to movement, the highest Armor Point value of armor _worn_ by a character acts as a penalty to their Initiative roll.
+Due to its mass and restriction to Movimento, the highest Armor Point value of armor _worn_ by a character acts as a penalty to their Initiative roll.
 
 ### Parrying a Missed Attack
 
@@ -521,7 +521,7 @@ No damage is inflicted as part of the leap; however, a subsequently prone victim
 
 ### Outmaneuvering
 
-A character facing multiple opponents can use movement to limit the number which can attack him at any time, constantly shifting position, forcing foes to interfere with one another. Outmaneuvering requires that the character has room to move about and is not pinned in a confining area.
+A character facing multiple opponents can use Movimento to limit the number which can attack him at any time, constantly shifting position, forcing foes to interfere with one another. Outmaneuvering requires that the character has room to move about and is not pinned in a confining area.
 
 Outmaneuvering requires that the character engages his opponents in a group Opposed Roll of Evasão skills. Every participant, both the maneuvering character and those foes who wish to corner him, must spend an Action Point. Then they each roll once and those who fail to beat the maneuvering character's roll cannot attack him for the remainder of that Combat Round, being blocked by their allies or terrain features.
 

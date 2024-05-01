@@ -1,6 +1,6 @@
 # Chapter 5: Skills
 
-Skills are divided into two categories: Standard and Professional. All characters have the same set of Standard Skills. Professional Skills differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Professional Skills work in the same way.
+Skills are divided into two categories: Standard and Professional. All characters have the same set of Perícias Comuns. Perícias Profissionais differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Perícias Profissionais work in the same way.
 
 ---
 ## How Skills Work
@@ -54,11 +54,11 @@ Where a character is already suffering a penalty from other circumstances, the h
 Outside of combat, _Classic Fantasy Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide, according to the capabilities of the characters, his Percepção of the difficulty of the situation and the dramatic tension at that particular moment.
 
 ---
-## Standard Skills
+## Perícias Comuns
 
 #### Atletismo (STR+DEX)
 
-Atletismo covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a Cantole roll against the Atletismo skill. See the [Movement](0008_Combat.md?id=movement
+Atletismo covers a range of physical activities, including climbing, jumping, throwing, and running. Skills rolls for any of these activities are handled by a Cantole roll against the Atletismo skill. See the [Movimento](0008_Combat.md?id=Movimento
 ) section for more information on climbing, jumping, and running.
 
 #### Canoagem (STR+CON)
@@ -79,7 +79,7 @@ Customs represents the character's knowledge of his own community, its social co
 
 #### Dança (DEX+CHA)
 
-Just about every culture uses Dança in some way – either as recreation or as part of important rituals. It might be a court Dança, a war Dança, or a simple set of movements accompanying a prayer or ceremonial chant. The Dança skill measures a character's ability to move rhythmically and accurately (to a reasonable degree) when called upon to do so.
+Just about every culture uses Dança in some way – either as recreation or as part of important rituals. It might be a court Dança, a war Dança, or a simple set of Movimentos accompanying a prayer or ceremonial chant. The Dança skill measures a character's ability to move rhythmically and accurately (to a reasonable degree) when called upon to do so.
 
 #### Dissimulação (INT+CHA)
 
@@ -111,7 +111,7 @@ Intuição is the ability to read or intuitively define another's verbal and non
 
 #### Local (INT x2)
 
-Local measures a character's understanding of local flora, fauna, terrain, and weather in the area where he or she has spent much of their life, usually within their community. The character knows the common plants, trees, and animals, their properties and behavior: where the best fish can be found; the movements of game creatures; where to find shelter; the likely weather for the season, and the most common regional dangers. In neighboring, yet unfamiliar locations Local should be made one or more grades harder.
+Local measures a character's understanding of local flora, fauna, terrain, and weather in the area where he or she has spent much of their life, usually within their community. The character knows the common plants, trees, and animals, their properties and behavior: where the best fish can be found; the Movimentos of game creatures; where to find shelter; the likely weather for the season, and the most common regional dangers. In neighboring, yet unfamiliar locations Local should be made one or more grades harder.
 
 #### Native Tongue (INT+CHA+40)
 
@@ -119,7 +119,7 @@ Native Tongue is the ability to speak and read one's own Idioma, the one learned
 
 Unlike other skills, Native Tongue is not rolled against directly. Instead, it is treated as a static representation of overall fluency, limiting the level of conversational interaction. This is described in more detail under the [Idioma](0005_Skills.md?id=Idioma-intcha) skill, but starting characters usually begin play fully fluent in their native Idioma.
 
-The skill can be used in two ways. First, it can help to understand the dialects of neighboring peoples who share a common linguistic basis or origin. In such cases the skill is treated at least one grade harder, potentially affecting the character's fluency. Second, it can be used as a cap on verbal skills which require a good grasp of Idioma.
+The skill can be used in two ways. First, it can help to understand the dialects of neighboring peoples who share a common linguistic basis or origin. In such cases the skill is treated at least one grade harder, potentially affecting the character's fluency. Second, it can be used as a cap on verbal skills which require a Bom grasp of Idioma.
 
 #### Percepção (INT+POW)
 
@@ -139,7 +139,7 @@ Hiding out of plain sight or moving with minimal sound are covered by the Furtiv
 
 #### Natação (STR+CON)
 
-Without development, the ability to Natação is limited to being able to thrash around and keep one's head above the water for a short time. Higher Natação percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Natação roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See the [Movement](0008_Combat.md?id=movement) section for more information on Nataçãoming, including calculating Natação speeds.
+Without development, the ability to Natação is limited to being able to thrash around and keep one's head above the water for a short time. Higher Natação percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Natação roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See the [Movimento](0008_Combat.md?id=Movimento) section for more information on Nataçãoming, including calculating Natação speeds.
 
 #### Unarmed (STR+DEX)
 
@@ -154,11 +154,11 @@ Força de Vontade is a measure of a character's ability to concentrate, channel 
 Again, like Tolerância and Evasão, Força de Vontade is most often used in Opposed Tests. When used as a Standard test, a Critical Força de Vontade roll indicates that the character has hardened his mind and spirit to the extent that no further attempts to Influência him, or shake his resolve, will work. In the case of resisting magic, a Critical Success means that no further mentally afflicting spells cast by the opponent have any effect on the character for the remainder of that encounter.
 
 ---
-## Professional Skills
+## Perícias Profissionais
 
-Professional Skills differ between characters and represent more specialized forms of training and experience. Some Professional Skills are gathered through cultural background and a character's Class, as the name suggests. Although they differ between characters they work in the same way as Standard Skills.
+Perícias Profissionais differ between characters and represent more specialized forms of training and experience. Some Perícias Profissionais are gathered through cultural background and a character's Class, as the name suggests. Although they differ between characters they work in the same way as Perícias Comuns.
 
-Certain magical skills are also classed as Professional Skills: Channeling and Devotion are the two skills associated with Divine magic for example. These are only briefly described here. For more details refer to the relevant section of the [Magic](0009_Magic.md) chapter.
+Certain magical skills are also classed as Perícias Profissionais: Channeling and Devotion are the two skills associated with Divine magic for example. These are only briefly described here. For more details refer to the relevant section of the [Magic](0009_Magic.md) chapter.
 
 #### Acting (CHA x2)
 
@@ -193,7 +193,7 @@ There are many specific art forms. Painting to poetry; literature to sculpture. 
 
 #### Bureaucracy (INT x2)
 
-Understanding administrative procedures, records, and unspoken conventions are covered by the Bureaucracy skill. It is used to interact with officials or discover pertinent civic information. Depending on the sophistication of their culture, bureaucrats need not necessarily be literate. However, their Bureaucracy skill cannot exceed the score of the Idioma or Literacy skill in which they work. Whenever red-tape or administrative landscapes need to be Navegaçãod, a Bureaucracy roll is necessary.
+Understanding administrative procedures, records, and unspoken conventions are covered by the Bureaucracy skill. It is used to interact with officials or discover pertinent civic information. Depending on the sophistication of their culture, bureaucrats need not necessarily be Alfabetizado. However, their Bureaucracy skill cannot exceed the score of the Idioma or Literacy skill in which they work. Whenever red-tape or administrative landscapes need to be Navegaçãod, a Bureaucracy roll is necessary.
 
 #### Channel (INT+CHA)
 
@@ -300,7 +300,7 @@ Sleight covers attempts to palm or Ocultação small objects (legerdemain and pr
 
 #### Manha (POW+CHA)
 
-Manha represents knowledge of places and social contacts within a settlement. It covers everything from identifying potentially dangerous neighborhoods, to finding local services – legal or illegal. How long a Manha attempt takes depends on what is sought. Finding a good inn will take less time than locating a fence for stolen goods or a fake trading permit.
+Manha represents knowledge of places and social contacts within a settlement. It covers everything from identifying potentially dangerous neighborhoods, to finding local services – legal or illegal. How long a Manha attempt takes depends on what is sought. Finding a Bom inn will take less time than locating a fence for stolen goods or a fake trading permit.
 
 #### Sobrevivência (CON+POW)
 
@@ -323,7 +323,7 @@ If this second effort also ends in failure, the character is assumed to have giv
 
 ### Opposed Rolls
 
-Skills are frequently used against other skills – Furtividade versus Percepção when a rogue attempts to cut a nobleman's purse, say; or Dissimulação versus Intuição when the same rogue tries to deny the attempt when she is caught. These are good examples of times where skills are matched against each other. These are known as Opposed Rolls and are used where a challenge will result in either win or lose, pass or fail.
+Skills are frequently used against other skills – Furtividade versus Percepção when a rogue attempts to cut a nobleman's purse, say; or Dissimulação versus Intuição when the same rogue tries to deny the attempt when she is caught. These are Bom examples of times where skills are matched against each other. These are known as Opposed Rolls and are used where a challenge will result in either win or lose, pass or fail.
 
 - An Opposed Roll is determined thus: both participants roll their respective skills. The winner is the one who gains the better Level of Success. If the participants score the same Level of Success (a Standard Success each, or a Critical each), then the winner is the one who has the highest dice roll still within the success range of the skill.
 
@@ -341,7 +341,7 @@ Opposed Rolls are frequently used in certain battle situations to overcome the e
 | Bargaining/Haggling | Comércio vs. Comércio, Influência vs. Comércio |
 | ChaCanto/Racing | Atletismo vs. Atletismo, Atletismo vs. Tolerância, Montaria vs. Montaria |
 | Deceiving or Lying | Dissimulação vs. Intuição, Sleight vs. Percepção |
-| Displaying Loyalty | Passion vs. Passion, Passion vs. Intuição, Passion vs. Influência |
+| Displaying Loyalty | Paixão vs. Paixão, Paixão vs. Intuição, Paixão vs. Influência |
 | Getting out of the Way | Evasão vs. Atletismo, Evasão vs. Mecanismos, Evasão vs. Montaria |
 | Hiding or Sneaking | Furtividade vs. Percepção; Furtividade vs. Rastrear |
 | Pulling Rank | Influência vs. Força de Vontade, Dissimulação vs. Força de Vontade |

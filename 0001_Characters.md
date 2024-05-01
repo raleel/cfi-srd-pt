@@ -205,7 +205,7 @@ Para aqueles que podem utilizar tais poderes, os Pontos de Magia de um personage
 
 #### Taxa de Movimento
 
-Cada criatura possui uma Taxa de Movimento – a quantidade de pés que pode percorrer durante um período específico. O movimento não é calculado a partir das Características, mas é um valor padrão que varia de espécie para espécie. A Taxa de Movimento Base para humanos é de 20 pés, embora certas habilidades possam melhorá-la. A seção sobre [Movimento](0008_Combat.md?id=movement) oferece mais detalhes.
+Cada criatura possui uma Taxa de Movimento – a quantidade de pés que pode percorrer durante um período específico. O movimento não é calculado a partir das Características, mas é um valor padrão que varia de espécie para espécie. A Taxa de Movimento Base para humanos é de 20 pés, embora certas habilidades possam melhorá-la. A seção sobre [Movimento](0008_Combat.md?id=Movimento) oferece mais detalhes.
 
 ##### Tabela de Taxa de Movimento por Raça
 
@@ -253,10 +253,10 @@ Observe que as porcentagens básicas para algumas habilidades serão modificadas
 
 | Perícias | Percentual Básico |
 | :-- | :-: |
-| Atletismo | STR+DEX |
-| Canoagem | STR+CON |
+| Atletismo | FOR+DES |
+| Canoagem | FOR+CON |
 | Canto | CAR+POD |
-| Condução | DEX+POW |
+| Condução | DES+POD |
 | Costumes | INT x2, +40\* |
 | Dança | DES+CAR |
 | Desarmado | FOR+DES |
@@ -269,7 +269,7 @@ Observe que as porcentagens básicas para algumas habilidades serão modificadas
 | Língua Nativa | INT+CAR, +40\* |
 | Local | INT x2 |
 | Montaria | DES+POD |
-| Musculatura | STR+SIZ |
+| Musculatura | FOR+TAM |
 | Natação | FOR+CON |
 | Ocultação | DES+POD |
 | Percepção | INT+POD |
@@ -402,19 +402,19 @@ Os Pontos de Perícias Bônus são usados da seguinte maneira:
 
 É recomendado que personagens iniciantes comecem do zero, no Nível 1, com pouca ou nenhuma experiência prática. Claro, o nível dos personagens dependerá muito do cenário e se o jogo será uma aventura única ou uma campanha de longa duração. Também é comum um jogador criar um personagem mais experiente ao substituir um que tenha morrido durante o jogo ou ao ingressar em uma campanha existente.
 
-Uma tabela é fornecida, dividindo a experiência em Categorias de Experiência. A experiência de um personagem tem uma correlação direta com a idade e a competência em habilidades; personagens mais experientes naturalmente têm mais experiência de vida do que seus colegas mais jovens. No entanto, o bônus de idade observado deve ser tratado como aproximado, pois as campanhas avançam em ritmos diferentes — algumas campanhas têm muito tempo de jogo entre aventuras, enquanto outras são uma sequência contínua de aventuras ininterruptas. Ao converter um personagem existente, basta substituir a idade real pelo valor indicado abaixo.
+Uma tabela é fornecida, dividindo a experiência em Níveis de Experiência. A experiência de um personagem tem uma correlação direta com a idade e a competência em habilidades; personagens mais experientes naturalmente têm mais experiência de vida do que seus colegas mais jovens. No entanto, o bônus de idade observado deve ser tratado como aproximado, pois as campanhas avançam em ritmos diferentes — algumas campanhas têm muito tempo de jogo entre aventuras, enquanto outras são uma sequência contínua de aventuras ininterruptas. Ao converter um personagem existente, basta substituir a idade real pelo valor indicado abaixo.
 
-Essa tabela também pode ser usada para PdMs, sejam eles construídos como parte de uma Classe ou de uma carreira, e segue as mesmas regras. Há uma exceção: NPCs construídos como parte de uma carreira não possuem Habilidades especiais, incluindo os Pontos de Sorte extras, que são reservados apenas para personagens jogadores e PdMs importantes. Observe que um PdM iniciante construído como parte de uma carreira está no Nível 1 por padrão.
+Essa tabela também pode ser usada para PdMs, sejam eles construídos como parte de uma Classe ou de uma carreira, e segue as mesmas regras. Há uma exceção: NPCs construídos como parte de uma carreira não possuem habilidades especiais, incluindo os Pontos de Sorte extras, que são reservados apenas para personagens jogadores e PdMs importantes. Observe que um PdM iniciante construído como parte de uma carreira está no Nível 1 por padrão.
 
 ##### Tabela de Experiência
 
-| Classificação (Nível\*) | Idade | Pontos de Perícias Bônus | Aumento Máximo nas Perícias | Nível de Perícia Médio\*\* | Avanço |
+| Nível\* | Idade | Pontos de Perícias Bônus | Aumento Máximo nas Perícias | Nível de Perícia Médio\*\* | Avanço |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| Classificação 1 (1-4): _Inexperiente_ | Por espécie | 100 | +10 | 40-60 | Quaisquer 5 Perícias de Classe em 40% |
-| Classificação 2 (5-9): _Nível Baixo_ | +1d6 | 300 | +30 | 65-75 | Quaisquer 5 Perícias de Classe em 70% |
-| Classificação 3 (10-14): _Nível Médio_ | +1d6+5 | 500 | +50 | 85-95 | Quaisquer 4 Perícias de Classe em 90% |
-| Classificação 4 (15-19): _Nível Alto_ | +1d6+10 | 700 | +70 | 105-115 | Quaisquer 3 Perícias de Classe em 110% |
-| Classificação 5 (20+): _Nível Épico_ | +1d6+20 | 900 | +90 | 125-135 | Quaiquer 2 Perícias de Classe em 130% |
+| Nível 1 (1-4): _Inexperiente_ | Por espécie | 100 | +10 | 40-60 | Quaisquer 5 Perícias de Classe em 40% |
+| Nível 2 (5-9): _Nível Baixo_ | +1d6 | 300 | +30 | 65-75 | Quaisquer 5 Perícias de Classe em 70% |
+| Nível 3 (10-14): _Nível Médio_ | +1d6+5 | 500 | +50 | 85-95 | Quaisquer 4 Perícias de Classe em 90% |
+| Nível 4 (15-19): _Nível Alto_ | +1d6+10 | 700 | +70 | 105-115 | Quaisquer 3 Perícias de Classe em 110% |
+| Nível 5 (20+): _Nível Épico_ | +1d6+20 | 900 | +90 | 125-135 | Quaiquer 2 Perícias de Classe em 130% |
 
 _\* O número entre parênteses pode ser usado como um indicador ao converter personagens existentes de jogos baseados em nível._
 
@@ -422,18 +422,18 @@ _\*\* Essa é a média do nível de perícia de quaisquer habilidades de particu
 
 **Nota sobre a Tabela de Experiência**
 
-- Classificação é um guia descritivo aproximado para comparar personagens com diferentes níveis de habilidade.
+- O nível é um guia descritivo aproximado para comparar personagens com diferentes níveis de habilidade.
 - A idade é determinada calculando a idade de acordo com a espécie e adicionando qualquer bônus observado. Isso é mais uma diretriz do que uma regra rígida, pois o tempo passa de maneira diferente de campanha para campanha.
-- Os Pontos de Perícias Bônus determinam quantos pontos o personagem deve gastar no desenvolvimento de perícias. Isso não é cumulativo com os pontos de Classificaçãos anteriores. Por exemplo, um personagem na Classificação 2 é construído com 300 pontos, não 300 pontos mais os 100 da Classificação 1.
-- O Aumento Máximo de Perícia limita quantos dos Pontos de Perícias Bônus podem ser aplicados a uma única perícia.
-- O Nível Médio de Perícias mostra a faixa típica das perícias mais importantes relacionadas à Classe de um personagem em cada Nível de Experiência. Ele é incluído para fins de referência e assume Características de Nível Base de 16, com os Pontos de Perícias máximos gastos durante cada etapa. Os resultados reais podem variar.
-- Avanço: Isso representa o número de Perícias de Classe necessárias para atingir a Classificação indicado. Por exemplo, para atingir a Classificação 3, pelo menos quatro das Perícias de Classe mencionadas na descrição relevante da Classe devem ter pelo menos 90%.
+- Os Pontos Bônus de Perícias determinam quantos pontos o personagem deve gastar no desenvolvimento de perícias. Isso não é cumulativo com os pontos de níveis anteriores. Por exemplo, um personagem no nível 2 é construído com 300 pontos, não 300 pontos mais os 100 do nível 1.
+- O Aumento Máximo de Perícia limita quantos Pontos Bônus de Perícias podem ser aplicados a uma única perícia.
+- O Nível Médio de Perícias mostra a faixa típica das perícias mais importantes relacionadas à Classe de um personagem em cada nível de Experiência. Ele é incluído para fins de referência e assume Características de Nível Base igual a 16, com os Pontos de Perícias máximos gastos durante cada etapa. Os resultados reais podem variar.
+- Avanço: isso representa o número de perícias de classe necessárias para atingir o nível indicado. Por exemplo, para atingir o nível 3, pelo menos quatro perícias de classe, mencionadas na descrição da classe, devem estar pelo menos em 90%;
 
 ---
 ## Etapa 8: Finalmente…
 
-- Determina seu Alinhamento e Paixões baseado Cultura/Raça e Classe escolhida. Consulte o [Capítulol 4](0004_Alignment_and_Passions.md).
+- Determina seu Alinhamento e Paixões baseado na Cultura/Raça e Classe escolhida. Consulte o [Capítulol 4](0004_Alignment_and_Passions.md).
 - Anote todas as Habilidades Iniciais de sua Raça e Classe.
-- Nas Habilidades de Classificação, escolha uma Habilidade de Rangue 1 para a qual você atenda os requisitos sem custo em jogadas de Experiência.
+- Nas Habilidades de Nível, escolha uma Habilidade de Nível 1 para a qual você atenda os requisitos sem custo em Jogadas de Experiência.
 - Copie o equipamento inicial conforme indicado no final da descrição da sua Classe.
 - Não se esqueça de dar um nome ao seu personagem. Além disso, procure maneiras de estabelecer conexões com outros personagens, se desejar.

@@ -22,7 +22,7 @@ Each Class requires several Class skills at a particular level for Advancement. 
 
 When a further degree of mastery is reached, based on the character's Skills, the character again increases in Rank. At that point Abilities and spells rated at that Rank may be learned, as the character has demonstrated the necessary level of comprehension and skill.
 
-For the most part, if the character is in good standing with any Oaths required of the Class and possesses the required number of Class skills at the required level, the character will automatically increase to the appropriate Rank. Each Rank above 1 also allows characters to add another Luck Point to their total, giving them a better chance of surviving tougher encounters without needing to artificially increase their Hit Points. Each Class possesses a table detailing the skill requirements per Rank, as well as a summary of any available Ranked Talents and/or Abilities. The following provides a description of each element within these tables:
+For the most part, if the character is in Bom standing with any Oaths required of the Class and possesses the required number of Class skills at the required level, the character will automatically increase to the appropriate Rank. Each Rank above 1 also allows characters to add another Luck Point to their total, giving them a better chance of surviving tougher encounters without needing to artificially increase their Hit Points. Each Class possesses a table detailing the skill requirements per Rank, as well as a summary of any available Ranked Talents and/or Abilities. The following provides a description of each element within these tables:
 
 - **Rank:** A numerical representation of the character's Rank.
 - **Title:** The title granted a character of the appropriate Rank.
@@ -45,20 +45,20 @@ Any.
 
 STR, INT, POW, and CHA
 
-#### Alignment/Oath Requirements
+#### Alinhamento/Oath Requirements
 
-- Alignment: Any, as appropriate to pantheon or deity.
+- Alinhamento: Any, as appropriate to pantheon or deity.
 - Clerical Oath 30% plus character's INT+POW.
 
-See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
+See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
 
 
-In addition to racial/cultural Alignment and Passions, all clerics swear an Oath of Conduct to their clerical order and the deity or pantheon of deities the order venerates. Part of the Oath typically includes tithing 10% of all wealth to the order. Where a pantheon is concerned, the character's Alignment will be used to help determine which deities of the desired pantheon will be worshipped. Typically, an order will devote themselves to all deities of a specific pantheon with like Passions. A cleric typically aligns with all deities of a specific pantheon with an Alignment not contrary to their own. For example, a cleric with a Good Alignment would serve and respect all good and neutral deities of their pantheon. They may work against those deities of an evil disposition, or even acknowledge and respect them, but would offer them no worship. A True Neutral cleric may choose either good or evil deities along with those of neutral disposition if desired but could not choose both.
+In addition to racial/cultural Alinhamento and Passions, all clerics swear an Oath of Conduct to their clerical order and the deity or pantheon of deities the order venerates. Part of the Oath typically includes tithing 10% of all wealth to the order. Where a pantheon is concerned, the character's Alinhamento will be used to help determine which deities of the desired pantheon will be worshipped. Typically, an order will devote themselves to all deities of a specific pantheon with like Passions. A cleric typically aligns with all deities of a specific pantheon with an Alinhamento not contrary to their own. For example, a cleric with a Bom Alinhamento would serve and respect all Bom and neutral deities of their pantheon. They may work against those deities of an evil disposition, or even acknowledge and respect them, but would offer them no worship. A True Neutral cleric may choose either Bom or evil deities along with those of neutral disposition if desired but could not choose both.
 
 #### Class Skills
 
-- **Standard Skills:** Combat Skill (Cleric), Primeiros Socorros, Influência, Intuição, Local, Canto, Força de Vontade
-- **Professional Skills:** A cleric automatically receives Channel and Devotion (specific pantheon or deity), plus 3 additional skills from the following: Bureaucracy, Courtesy, Culture (any), Cura, Saber (Alchemy), Saber (Religion), Idioma (any) or Saber (any), and Oratory.
+- **Perícias Comuns:** Combat Skill (Cleric), Primeiros Socorros, Influência, Intuição, Local, Canto, Força de Vontade
+- **Perícias Profissionais:** A cleric automatically receives Channel and Devotion (specific pantheon or deity), plus 3 additional skills from the following: Bureaucracy, Courtesy, Culture (qualquer), Cura, Saber (Alchemy), Saber (Religion), Idioma (qualquer) or Saber (qualquer), and Oratory.
 
 #### Cleric Armor and Weapon Proficiency
 
@@ -156,7 +156,7 @@ _\*\* Counts as ½ a Thing._
 
 ### Turning Undead
 
-Clerics of any Alignment may attempt to Turn any undead within 30 feet. Evil clerics may choose to control undead instead, if desired. You may attempt to Turn Undead once at Rank 1, twice at Rank 3, and three times at Rank 5. You regain all uses of Turn after a Short Rest of at least 1 hour.
+Clerics of any Alinhamento may attempt to Turn any undead within 30 feet. Evil clerics may choose to control undead instead, if desired. You may attempt to Turn Undead once at Rank 1, twice at Rank 3, and three times at Rank 5. You regain all uses of Turn after a Short Rest of at least 1 hour.
 
 _For example, Alexandra is a Rank 4 cleric. She can attempt to turn two times during an encounter, and if she rests at least an hour after, will regain both uses._
 
@@ -189,7 +189,7 @@ Evil clerics may command their Turning Power in Intensity of undead. This effect
 | [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
 | [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
 | [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
-| [Protection](0010_Spells.md?id=protection) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
+| [Protection](0010_Spells.md?id=protection) | [Know Alinhamento \(R\)](0010_Spells.md?id=know-Alinhamento-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
 | [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
 | [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
 | [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -214,16 +214,16 @@ Any.
 
 STR, CON, and DEX
 
-#### Alignment/Oath Requirements
+#### Alinhamento/Oath Requirements
 
-- Alignment: Fighters are not restricted by Alignment and require no Oath.
+- Alinhamento: Fighters are not restricted by Alinhamento and require no Oath.
 
-See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
+See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
 
 #### Class Skills
 
-- **Standard Skills:** Atletismo, Canoagem or Montaria, Musculatura, Combat Skill (Fighter)\*, Tolerância, Evasão, Unarmed\*
-- **Professional Skills:** Ofício. (any), Engineering, Gambling, Intimidation, Saber (Military History), Saber (Strategy and Tactics), Oratory, Sobrevivência or Navegação
+- **Perícias Comuns:** Atletismo, Canoagem or Montaria, Musculatura, Combat Skill (Fighter)\*, Tolerância, Evasão, Unarmed\*
+- **Perícias Profissionais:** Ofício. (qualquer), Engineering, Gambling, Intimidation, Saber (Military History), Saber (Strategy and Tactics), Oratory, Sobrevivência or Navegação
 
 _\* Receives a +5 bonus from Combat Proficiency_
 
@@ -369,20 +369,20 @@ Any, but typically Civilized and Nomadic humans, as well as gnomes, elves, and h
 
 DEX, INT, and POW
 
-#### Alignment/Oath Requirements
+#### Alinhamento/Oath Requirements
 
-- Alignment: Mages are not restricted by Alignment and require no Oath.
+- Alinhamento: Mages are not restricted by Alinhamento and require no Oath.
 
-See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
+See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
 
 #### Class Skills
 
-- **Standard Skills:** Evasão, Primeiros Socorros, Influência, Intuição, Local, Percepção, Força de Vontade
-- **Professional Skills:** A mage automatically receives Arcane Casting and Arcane Knowledge, plus 3 additional skills from the following: Culture (any), Idioma (any), Saber (Alchemy), Saber (any)
+- **Perícias Comuns:** Evasão, Primeiros Socorros, Influência, Intuição, Local, Percepção, Força de Vontade
+- **Perícias Profissionais:** A mage automatically receives Arcane Casting and Arcane Knowledge, plus 3 additional skills from the following: Culture (qualquer), Idioma (qualquer), Saber (Alchemy), Saber (qualquer)
 
 #### Mage Armor and Weapon Proficiency
 
-Mages are not proficient with any type of armor or shields, as Arcane spells require precise gestures and movements during casting, which are hindered by the wearing of armor. They are typically not trained in physical combat; therefore, the mage Combat Skill may only be developed with Bonus Skill Points. It includes the use of daggers, darts, slings, quarterstaffs, and light crossbows, simple weapons commonly found around their master's residence or that are relatively easy to pick up and learn.
+Mages are not proficient with any type of armor or shields, as Arcane spells require precise gestures and Movimentos during casting, which are hindered by the wearing of armor. They are typically not trained in physical combat; therefore, the mage Combat Skill may only be developed with Bonus Skill Points. It includes the use of daggers, darts, slings, quarterstaffs, and light crossbows, simple weapons commonly found around their master's residence or that are relatively easy to pick up and learn.
 
 ### Rank Structure
 
@@ -403,7 +403,7 @@ All mages are rated by Rank, which is a rating of power and skill. When a specif
 
 The mage knows the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
-- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and movements (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table), above, under Spells in Memory.
+- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and Movimentos (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table), above, under Spells in Memory.
 - **Starting Spells:** Cantrips are the first magical abilities taught to an apprentice mage and are fully defined in the [Spells](0010_Spells.md) chapter. A mage begins with knowledge of the Rank 0 cantrip Read Magic, as well as two cantrips (Rank 0) for every 1/10th Arcane Knowledge (skill x 0.1). If the mage qualifies as Rank 1, they also know one Rank 1 spell for every 1/10th Arcane Knowledge. The number of spells the mage may have prepared at each Rank is found above on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Spells in Memory. See the [Mage Spell List](0003_Classes.md?id=mage-spell-list) below and the section on [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
 
 #### Ranked Abilities
@@ -474,7 +474,7 @@ _\*\* Counts as ½ a Thing._
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Appraise](0010_Spells.md?id=appraise) | [Armor](0010_Spells.md?id=armor) | [Continual Light](0010_Spells.md?id=continual-light) | [Charm Monster](0010_Spells.md?id=charm-monster) | [Chain Lightning](0010_Spells.md?id=chain-lightning) | [Astral Spell](0010_Spells.md?id=astral-spell) |
 | [Avert](0010_Spells.md?id=avert) | [Burning Hands](0010_Spells.md?id=burning-hands) | [Darkness](0010_Spells.md?id=darkness) | [Cone of Cold](0010_Spells.md?id=cone-of-cold) | [Control Weather](0010_Spells.md?id=control-weather) | [Charm, Mass](0010_Spells.md?id=charm-mass) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Darkvision](0010_Spells.md?id=darkvision) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
+| [Befuddle](0010_Spells.md?id=befuddle) | [Change Appearance](0010_Spells.md?id=change-appearance) | [Visão no Escuro](0010_Spells.md?id=Visão no Escuro) | [Confusion](0010_Spells.md?id=confusion) | [Death Spell](0010_Spells.md?id=death-spell) | [Earthquake](0010_Spells.md?id=earthquake) |
 | [Chill \(R\)](0010_Spells.md?id=chill-r) | [Charm Person](0010_Spells.md?id=charm-person) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dimension Door](0010_Spells.md?id=dimension-door) | [Enchant Item](0010_Spells.md?id=enchant-item) | [Energy Drain](0010_Spells.md?id=energy-drain) |
 | [Cleanse  \(R\)](0010_Spells.md?id=cleanse-r) | [Dancing Lights](0010_Spells.md?id=dancing-lights) | [Detect Invisibility](0010_Spells.md?id=detect-invisibility) | [Enchant Weapon](0010_Spells.md?id=enchant-weapon) | [Fireball, Delayed Blast](0010_Spells.md?id=fireball-delayed-blast) | [Gate](0010_Spells.md?id=gate) |
 | [Coordination](0010_Spells.md?id=coordination) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Fear](0010_Spells.md?id=fear) | [Flesh to Stone  \(R\)](0010_Spells.md?id=flesh-to-stone-r) | [Meteor Shower](0010_Spells.md?id=meteor-shower) |
@@ -484,7 +484,7 @@ _\*\* Counts as ½ a Thing._
 | [Glamour \(R\)](0010_Spells.md?id=glamour-r) | [Identify](0010_Spells.md?id=identify) | [Hold Person](0010_Spells.md?id=hold-person) | [Invisibility, Greater](0010_Spells.md?id=invisibility-greater) |
 | [Glue](0010_Spells.md?id=glue) | [Illusion](0010_Spells.md?id=illusion) | [Invisibility, 10 ft. radius](0010_Spells.md?id=invisibility-10-ft-radius) | [Polymorph Other](0010_Spells.md?id=polymorph-other) |
 | [Ignite  \(R\)](0010_Spells.md?id=ignite-r) | [Invisibility](0010_Spells.md?id=invisibility) | [Knock \(R\)](0010_Spells.md?id=knock-r) | [Polymorph Self](0010_Spells.md?id=polymorph-self) |
-| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Idiomas \(R\)](0010_Spells.md?id=know-Idiomas-r) | [Know Alignment \(R\)](0010_Spells.md?id=know-alignment-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
+| [Magic Tricks](0010_Spells.md?id=magic-tricks) | [Know Idiomas \(R\)](0010_Spells.md?id=know-Idiomas-r) | [Know Alinhamento \(R\)](0010_Spells.md?id=know-Alinhamento-r) | [Power Word – Stun](0010_Spells.md?id=power-word-stun) |
 | [Might](0010_Spells.md?id=might) | [Levitate](0010_Spells.md?id=levitate) | [Lightning Bolt](0010_Spells.md?id=lightning-bolt) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) |
 | [Pet](0010_Spells.md?id=pet) | [Light](0010_Spells.md?id=light) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Sphere of Invulnerability, Lesser](0010_Spells.md?id=sphere-of-invulnerability-lesser) |
 | [Polish](0010_Spells.md?id=polish) | [Magic Missile](0010_Spells.md?id=magic-missile) | [Mage Lock](0010_Spells.md?id=mage-lock) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
@@ -502,7 +502,7 @@ _\(R\) indicates a reversible spell._
 ---
 ## Rogue
 
-Rogues are the experts in subterfuge, specializing in Furtividade, traps, lockpicking, and other skills that society often views with suspicion. However, while all thieves are rogues, not all rogues are thieves. Rogues survive by their wits, uCanto their skills of infiltration and Furtividade for the greater good. However, the greater good often depends on which side of the diamond one is standing.
+Rogues are the experts in subterfuge, specializing in Furtividade, traps, lockpicking, and other skills that society often views with suspicion. However, while all thieves are rogues, not all rogues are thieves. Rogues survive by their wits, uCanto their skills of infiltration and Furtividade for the greater Bom. However, the greater Bom often depends on which side of the diamond one is standing.
 
 #### Common Species/Culture
 
@@ -512,14 +512,14 @@ Any
 
 DEX, INT, and CHA
 
-#### Alignment/Oath Requirements
+#### Alinhamento/Oath Requirements
 
-- Alignment: Rogues are not restricted by Alignment and require no Oath unless they are a member of a thieves' guild.
+- Alinhamento: Rogues are not restricted by Alinhamento and require no Oath unless they are a member of a thieves' guild.
 - Thieves' Guild Oath 30% plus character's INT+POW
 
-See [Chapter 4: Alignment and Passions](0004_Alignment_and_Passions.md).
+See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
 
-In addition to any racial/cultural Alignment and Passions, rogues who choose to join a thieves' guild must swear an Oath and follow all the normal rules set forth in [UCanto Alignment and Passions](0004_Alignment_and_Passions.md?id=uCanto-alignment-and-passions). In addition, they must abide to the following strictures: display loyalty to other members, abide by all guild rules, act in the guild's best interests (putting the guild before personal interests), keep the guild's secrets safe, pay guild dues, and pay a cut of any job 'sanctioned' by the guild.
+In addition to any racial/cultural Alinhamento and Passions, rogues who choose to join a thieves' guild must swear an Oath and follow all the normal rules set forth in [UCanto Alinhamento and Passions](0004_Alignment_and_Passions.md?id=uCanto-Alinhamento-and-passions). In addition, they must abide to the following strictures: display loyalty to other members, abide by all guild rules, act in the guild's best interests (putting the guild before personal interests), keep the guild's secrets safe, pay guild dues, and pay a cut of any job 'sanctioned' by the guild.
 
 Dues vary by location and guild size, but around 100 gold per year is standard. In addition to yearly dues, members are required to pay a cut of any jobs where the guild helped in the form of contacts, tipoffs, maps, general information, and so on. The specific amount of the cut should be determined on a case-by-case basis, depending on the assistance provided, but an average of 20%, modified up or down is about right. In exchange, the guild provides temporary shelter to the member and their allies, as well as any other services the Games Master deems appropriate. Fences are available to help move stolen merchandise, and through these contacts, a thief can be expected to get about ¼ the item's sale value. Most thieves' guilds have a presence in most major cities and even some large towns.
 
@@ -529,8 +529,8 @@ A rogue may choose to join a thieves' guild after character creation if the Game
 
 Because of their diverse nature, rogues possess more skill choices than the standard allotment. However, they do not receive any extra Skill Points.
 
-- **Standard Skills:** Atletismo, Combat Skill (Rogue), Dissimulação, Evasão, Intuição, Percepção, Furtividade
-- **Professional Skills:** A rogue automatically receives Lockpicking and Mecanismos, plus two additional skills from the following: Acrobatics, Acting, Comércio, Disguise, Intimidation, Seduction, Slight, or Manha. At character creation, members of the Thieves' Guild also receive Idioma (Thieves' Cant) at +40. If they take it later, they do not receive the +40 bonus.
+- **Perícias Comuns:** Atletismo, Combat Skill (Rogue), Dissimulação, Evasão, Intuição, Percepção, Furtividade
+- **Perícias Profissionais:** A rogue automatically receives Lockpicking and Mecanismos, plus two additional skills from the following: Acrobatics, Acting, Comércio, Disguise, Intimidation, Seduction, Slight, or Manha. At character creation, members of the Thieves' Guild also receive Idioma (Thieves' Cant) at +40. If they take it later, they do not receive the +40 bonus.
 
 #### Rogue Armor and Weapon Proficiency
 
@@ -555,7 +555,7 @@ All rogues are rated by Rank, which is a rating of power and skill. You may choo
 
 The rogue knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
 
-- **Climb Walls:**  You are particularly good at climbing anything up to a sheer surface. If you are Unburdened (Less 'Things' carried than STR), and wearing nothing more restrictive than light armor, you may ignore 1 Difficulty Grade to your Atletismo roll when performing any attempt at climbing. In addition, the Armor Penalty to Base Movement when climbing may be ignored.
+- **Climb Walls:**  You are particularly Bom at climbing anything up to a sheer surface. If you are Unburdened (Less 'Things' carried than STR), and wearing nothing more restrictive than light armor, you may ignore 1 Difficulty Grade to your Atletismo roll when performing any attempt at climbing. In addition, the Armor Penalty to Base Movimento when climbing may be ignored.
 - **Hide in Shadows:**  You are an expert in Furtividade and have perfected the art of hiding in shadows. If you can position yourself in an area enshrouded in shadow, all Percepção rolls to spot you are 1 Difficulty Grade harder.
 - **Sneak Attack:**  The rogue may attempt to neutralize a victim from an advantageous position if armed with a small or medium melee weapon or uCanto a Ranged Weapon within 30 feet of the victim. The target must be generally humanoid in form and possess vital organs. It has no effect on a dragon or gelatinous mass, for example. Because the attacker is typically able to strike without hindrance, they gain Choose Location as a bonus Special Effect if successful. However, the location selected must be the target's head, chest, or abdomen to gain any of the following additional benefits.
   - The attacker may ignore any negative Damage Modifier that normally applies, the Special Effects Bypass Armor and Maximize Damage do not require a Critical Success.

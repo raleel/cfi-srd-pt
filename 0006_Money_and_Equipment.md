@@ -37,7 +37,7 @@ _Classic Fantasy Imperative_ does not need detailed encumbrance rules if the Gam
 - Every full 50 coins of any denomination weigh the equivalent of Half a 'Thing.'
 - Assume that 1 SIZ is equal to 3 'Things'.
 
-Every additional Thing above a character's STR reduces the character's Initiative Bonus by 1. Every 6 Things above STR reduces the character's Movement Rate by 5 feet. Finally, when more Things are carried than the character's STR, skills uCanto STR or DEX as part of their Base are 1 grade more difficult. When more Things are carried than twice the character's STR, these skills are 2 grades more difficult.
+Every additional Thing above a character's STR reduces the character's Initiative Bonus by 1. Every 6 Things above STR reduces the character's Movimento Rate by 5 feet. Finally, when more Things are carried than the character's STR, skills uCanto STR or DEX as part of their Base are 1 grade more difficult. When more Things are carried than twice the character's STR, these skills are 2 grades more difficult.
 
 Armor Encumbrance: For simplicity, worn armor does not count toward Things carried for characters proficient in, and accustomed to the armor they wear. However, for characters not proficient in armor, or in the case of additional armor pieces being carried, they have a value of 1 Thing per Hit Location for light armor, and 2 Things per Hit Location for heavy. Thus, a full suit of light armor being worn by someone without training, or carried by anyone, is a total of 7 Things, and a full suit of heavy armor is a total of 14. On top of that, a full suit of heavy armor will not even fit in a backpack.
 
@@ -54,7 +54,7 @@ This section is given over to equipment: armor, weapons, clothing, tools, and ot
 
 #### Equipment Price
 
-All items listed in this chapter represent standard quality examples. Items of better or worse quality are available at either an inflated or reduced cost. The prices quoted assume availability is good. When there is a short supply of something, prices will rise and, depending on the commodity, may be anywhere between 10% and 1000% higher than quoted (1d100x10%). The environment, too, will affect availability and therefore cost. Items and commodities are easier and cheaper to obtain in larger settlements with established markets and traders. In remote or rural areas, all but the most basic of locally produced goods and foodstuffs will be more difficult to obtain; and will command a higher price, if available at all.
+All items listed in this chapter represent standard quality examples. Items of better or worse quality are available at either an inflated or reduced cost. The prices quoted assume availability is Bom. When there is a short supply of something, prices will rise and, depending on the commodity, may be anywhere between 10% and 1000% higher than quoted (1d100x10%). The environment, too, will affect availability and therefore cost. Items and commodities are easier and cheaper to obtain in larger settlements with established markets and traders. In remote or rural areas, all but the most basic of locally produced goods and foodstuffs will be more difficult to obtain; and will command a higher price, if available at all.
 
 #### Silver Weapons
 
@@ -231,7 +231,7 @@ Weapons such as bows and crossbows use ammunition to deliver damage. Arrows, bol
 ---
 ## Armor
 
-Armor reduces the amount of damage a Hit Location sustains by its Armor Point value. For example, Ring Mail has 3 Armor Points and so reduces any damage by the same amount. A dagger strike for 3 points of damage would be completely blocked, for example. The downside to armor is that it can be heavy and restrictive to movement; fighting for a sustained period in metal armor takes its toll in terms of Fatigue and slows down the ability to react.
+Armor reduces the amount of damage a Hit Location sustains by its Armor Point value. For example, Ring Mail has 3 Armor Points and so reduces any damage by the same amount. A dagger strike for 3 points of damage would be completely blocked, for example. The downside to armor is that it can be heavy and restrictive to Movimento; fighting for a sustained period in metal armor takes its toll in terms of Fatigue and slows down the ability to react.
 
 No matter what material armor is made of it cannot be layered with other types – such concepts are already incorporated as part of its construction. Armor is assumed to come with whatever lining or padding would normally be expected as part of the complete panoply.
 
@@ -299,7 +299,7 @@ Tools include all the items any self-respecting adventurer can be expected to ow
 | Grappling Hook | May be thrown up to half STRx3 feet with a successful Throw roll. | 5SP |
 | Hammer/Mallet/3 Chisels | Hammers and mallets may be treated as a club in combat, chisels as a knife. | 1SP |
 | Healer's Kit | Useful for 10 applications of Cura skill. | 15GP |
-| Holy Symbol | The symbol of one's patron deity. Good quality x10 cost, Excellent x100 (½ a Thing). | 5SP |
+| Holy Symbol | The symbol of one's patron deity. Bom quality x10 cost, Excellent x100 (½ a Thing). | 5SP |
 | Ladder, Rope 10 Feet | Climbing rolls one grade easier. | 2SP |
 | Lantern, Basic | Burns for 2 hours on one flask of oil, 10-foot radius. | 1GP |
 | Lock Picks and Thieves' Tools | A small pouch containing tools useful for picking locks and disarming traps. | 8GP |
