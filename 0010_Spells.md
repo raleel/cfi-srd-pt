@@ -1,4 +1,4 @@
-# Chapter 10: Spells
+# Capítulo 10: Magias
 
 ---
 ### Cleric Spell List

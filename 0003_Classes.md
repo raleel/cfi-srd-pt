@@ -1,39 +1,39 @@
 # Chapter 3: Classes
 
-Every _Classic Fantasy Imperative_ character starts the game having been trained in a Class. This Class is the career the character has embarked on as part of the transition to adulthood, and it further defines the character's skills development.
+Cada personagem em _Classic Fantasy Imperative_ começa o jogo tendo treinado em uma Classe. Esta Classe é a carreira que o personagem embarcou na transição para a vida adulta e definirá o desenvolvimento das perícias dos personagens.
 
-Players are free to choose a racially and culturally appropriate Class for their character, provided that the Games Master deems it suitable. The write-ups give some guiDança as to the races that commonly gravitate toward that Class. These suggestions are not definitive and may be altered by player choice, or to suit more exotic game settings. For example, in a campaign based on a dying desert world, where the halflings are a tribal, cannibalistic people, it would not be out of the question to allow them to become berserkers. The players should not view these race/culture restrictions as hard and fast rules, but rather as standard starting points. Players should feel free to suggest alternatives to their Games Master who, in turn, may allow a normally unusual combination of Race and Class to fit a more out-of-the-ordinary campaign setting or reward a creative background story.
+Os jogadores são livres para escolher uma Classe racial e culturalmente apropriada para seus personagens, desde que o Mestre do Jogo considere adequada. As descrições fornecem algumas orientações sobre as raças que normalmente se inclinam para determinada Classe. Essas sugestões não são definitivas e podem ser alteradas pela escolha do jogador ou para se adequar a configurações de jogo mais exóticas. Por exemplo, em uma campanha baseada em um mundo desértico moribundo, onde os halflings são um povo tribal e canibal, não seria absurdo permitir que eles se tornassem berserkers. Os jogadores não devem encarar essas restrições de raça/cultura como regras rígidas e imutáveis, mas sim como pontos de partida padrão. Eles devem se sentir à vontade para sugerir alternativas ao Mestre do Jogo, que, por sua vez, pode permitir uma combinação normalmente incomum de Raça e Classe para se adequar a uma configuração de campanha mais fora do comum ou recompensar uma história de fundo criativa.
 
-#### Class Rank Structure
+#### Estrutura de Classe por Nível
 
-_Classic Fantasy Imperative_ 's Class and Rank structure is based on various organizations such as Orders or Guilds. For example, the Fighter's Guild, Clerical Order, Magic-User's Guild, and Thieves' Guild.
+A Estrutura de Classe por Nível do _Classic Fantasy Imperative_ é baseada em várias organizações, como Ordens ou Guildas. Por exemplo, a Guilda dos Lutadores, a Ordem Clerical, a Guilda dos Usuários de Magia e a Guilda dos Ladrões.
 
-Rank is used as a tool to guide character development and most Class structures are arranged in a pyramidal hierarchy. Common members (Rank 0) form the base of the pyramid and are the most numerous members of a Class.
+O nível é usado como uma ferramenta para orientar o desenvolvimento do personagem, e a maioria das estruturas de Classe é organizada em uma hierarquia piramidal. Os membros comuns (Nível 0) formam a base da pirâmide e são os membros mais numerosos de uma Classe.
 
-Higher ranks (Rank 1–5) represent professional members of the Class, who are working full time under its edicts.
+Os níveis mais altos (Nível 1–5) representam membros profissionais da Classe, que trabalham em tempo integral sob seus decretos.
 
-Numbers diminish as one advances up through the ranks until only a handful of individuals, or even only one, occupy the upper echelons. Advancement brings greater privilege, prestige, learning, and sometimes, magic, or other benefits.
+Os números diminuem à medida que se avança nos níveis, até que apenas um punhado de indivíduos, ou até mesmo apenas um, ocupe os escalões superiores. O avanço traz maior privilégio, prestígio, aprendizado e, às vezes, magia ou outros benefícios.
 
-#### IncreaCanto in Rank
+#### Aumentando o Nível
 
-Characters seek to rise in the ranks in the pursuit of greater respect, reputation, or responsibility, or simply out of a thirst for knowledge and power.
+Os personagens buscam ascender nas fileiras em busca de maior respeito, reputação ou responsabilidade, ou simplesmente por sede de conhecimento e poder.
 
-Each Class requires several Class skills at a particular level for Advancement. When the character is first created, these skills will determine the character's initial Rank. Having any 5 Class skills at 40% or greater will place the character at Rank 1, since it demonstrates that the person is capable and worthy of the special Abilities of that Rank. Otherwise, the character begins at Rank 0. When the character finally becomes Rank 1, all Abilities that are not specified as Ranked, may be acquired at no cost in Experience Rolls, as the character can be assumed to have been practicing these Abilities in play. Ranked Abilities may be purchased normally with Experience Rolls once Rank 1 is attained.
+Cada Classe requer várias habilidades de Classe em um nível específico para o Avanço. Quando o personagem é criado pela primeira vez, essas habilidades determinarão o nível inicial do personagem. Ter pelo menos 5 perícias de Classe com 40% ou mais colocará o personagem no nível 1, pois demonstra que a pessoa é capaz e digna das Habilidades Especiais desse nível. Caso contrário, o personagem começa no nível 0. Quando o personagem finalmente se torna nível 1, todas as Habilidades que não são especificadas como de nível podem ser adquiridas sem custo em Pontos de Experiência, pois o personagem pode ser considerado como tendo praticado essas Habilidades durante o jogo. Habilidades de Nível podem ser adquiridas normalmente com Pontos de Experiência assim que o nível 1 for alcançado.
 
-When a further degree of mastery is reached, based on the character's Skills, the character again increases in Rank. At that point Abilities and spells rated at that Rank may be learned, as the character has demonstrated the necessary level of comprehension and skill.
+Quando um grau adicional de domínio é alcançado, com base nas Perícias do personagem, o personagem aumenta novamente de Nível. Nesse ponto, Habilidades e magias classificadas nesse nível podem ser aprendidas, pois o personagem demonstrou o nível necessário de compreensão e habilidade.
 
-For the most part, if the character is in Bom standing with any Oaths required of the Class and possesses the required number of Class skills at the required level, the character will automatically increase to the appropriate Rank. Each Rank above 1 also allows characters to add another Luck Point to their total, giving them a better chance of surviving tougher encounters without needing to artificially increase their Hit Points. Each Class possesses a table detailing the skill requirements per Rank, as well as a summary of any available Ranked Talents and/or Abilities. The following provides a description of each element within these tables:
+Na maior parte do tempo, se o personagem estiver em Bom estado com quaisquer Juramentos exigidos pela Classe e possuir o número necessário de Habilidades de Classe no nível exigido, o personagem aumentará automaticamente para o nível apropriado. Cada nível acima de 1 também permite que os personagens adicionem outro Ponto de Sorte ao seu total, dando-lhes uma melhor chance de sobreviver a encontros mais difíceis sem precisar aumentar artificialmente seus Pontos de Vida. Cada Classe possui uma tabela detalhando os requisitos de habilidades por nível, bem como um resumo de quaisquer Talentos e/ou Habilidades de nível disponíveis. Cada um desses elementos é descrito a seguir:
 
-- **Rank:** A numerical representation of the character's Rank.
-- **Title:** The title granted a character of the appropriate Rank.
-- **Advancement:** The number of class skills and the required skill level needed to gain the relevant Rank. These may be chosen from any of the listed class skills. There is no need to select them beforehand. Skills that receive a +40 bonus, such as Customs and Native Idiomas, never count towards advancement.
-- **Spells in Memory:** If applicable, this shows how many spells of each Rank you may have memorized.
-- **Hit Points:** Certain ranks grant an additional Hit Point, which is added to all locations. The noted value includes all previous bonuses.
-- **Luck Points:** Each Rank after the first grants the character 1 additional Luck Point. The noted value includes all previous bonuses.
-- **Action Points:** Certain ranks grant an additional Action Point. The noted value includes all previous bonuses.
+- **Nível:** uma representação numérica do nível do personagem.
+- **Título:** o título concedido ao personagem do nível apropriado.
+- **Avanço:** o número de perícias de classe e os requerimentos de perícia necessários para ganhar um nível. Estas podem ser escolhidas de qualquer lista das perícias de classe.
+- **Magias Memorizadas:** quando aplicável, mostra quantas magias daquele nível o personagem pode ter memorizadas.
+- **Pontos de Vida:** cada nível depois do primeiro concede ao personagem 1 ponto de adicional em cada parte do corpo. Os valores apresentados já incluem os bônus anteriores.
+- **Pontos de Sorte:** cada nível depois do primeiro concede ao personagem 1 Ponto de Sorte adicional. Os valores apresentados já incluem os bônus anteriores.
+- **Pontos de Ação:** certos níveis concedem um Ponto de Ação adicional. Os valores apresentados já incluem os bônus anteriores.
 
 ---
-## Cleric
+## Clérigo
 
 Clerics are the militant arm of a religious order and are skilled in protecting their religion and its followers. During times of relative peace, clerics travel the land spreading the word of their pantheon and seeking converts. Clerics are blessed with the ability to cast spells by the deities of their pantheon and are also masters of combat against the undead, possesCanto the capacity to Condução them away with but a spoken prayer.
 

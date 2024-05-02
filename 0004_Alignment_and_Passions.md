@@ -1,4 +1,4 @@
-# Chapter 4: Alinhamento & Passions
+# Capítulo 4: Alinhamento & Paixões
 
 UCanto Alinhamento and Passions in _Classic Fantasy Imperative_ can greatly assist players and Games Masters in deepening the nature of the character, introducing plot hooks based on a character's desire or prejudices, and helping the player to understand who his character is, what Conduçãos him, and so on. While the player's specific choice of Alinhamento and Passions found in this chapter are up to them, some found in the previous chapter pertaining to character [Classes](0003_Classes.md) are required to play that character. None of the Classes in this document require a specific Alinhamento or Passions, but some like the cleric and rogue (that joins a thieves' guild), require an Oath to their order or guild. An Oath can be treated like a Paixão with regards to its game mechanics.
 

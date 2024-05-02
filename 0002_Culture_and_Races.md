@@ -1,9 +1,6 @@
-# Capítulo 2: Culture & Raças
+# Capítulo 2: Cultura & Raças
 
-
-Aqui está a tradução do texto:
-
-Uma descrição de cada origem racial segue, incorporando uma lista de bônus de perícia apropriados. Jogadores que escolhem um personagem humano precisam defini-lo ainda mais com uma cultura apropriada. Os jogadores devem aplicar os bônus de perícia imediatamente às Perícias Comuns em sua Ficha de Personagem e adicionar as novas habilidades adicionais, conhecidas como Perícias Profissionais (introduzidas no próximo capítulo), à seção apropriada da ficha. Em muitos casos, uma raça lista uma variedade de perícias e convida o jogador a escolher uma ou mais, que ganharão um bônus: dessa forma, jogadores de origens raciais idênticas podem garantir que seus aventureiros sejam diferentes nas áreas que desenvolveram.
+A seguir são fornecidas descrições de cada origem racial, incorporando uma lista de perícias apropriadas. Jogadores que escolham um personagem humano ainda precisarão definí-lo com uma cultura apropriada. Os jogadores devem aplicar os bônus de perícia imediatamene às Perícias Comuns em sua ficha de personagem e adicionar as novas perícias adicionais, conhecidas como Perícias Profissionais (introduzidas no próximo capítulo), à seção apropriada da ficha. Em muitos casos, uma raça lista uma variedade de perícias e convida o jogador e escolher uma ou mais, que ganharão um bônus: dessa forma, jogadores de origens raciais idênticas podem garantir que seus aventureiros sejam diferentes nas áreas que desenvolveram. 
 
 Observe também que cada raça vem com um Alinhamento típico e várias Paixões (veja [Capítulo 4: Alinhamento e Paixões](0004_Alignment_and_Passions.md)). Alinhamento e Paixões podem adicionar muita profundidade e caracterização ao aventureiro que você está criando, definindo preferências e preconceitos arraigados, bem como definindo os valores morais do personagem.
 
@@ -17,7 +14,7 @@ Humanos podem habitar praticamente qualquer local em um mundo de fantasia e pode
 Dentre todas as raças jogáveis, apenas os humanos escolhem uma cultura separada, o que os ajuda a definir ainda mais a si mesmos. Observe que cada cultura pode ser ainda mais granular e pode ser alterada para ser bem específica de uma região. Semi-humanos, em comparação, são menos dispersos e, como resultado, sua cultura é mais homogênea e totalmente subsumida por sua raça. As informações a seguir detalham os quatro tipos de culturas humanas.
 
 ---
-### Bárbaros
+### Bárbara
 
 Sendo tribais por natureza, os bárbaros tendem a evitar a civilização, vendo aqueles que vivem em grandes vilas e cidades como fracos e corruptos. Embora seus próprios assentamentos também sejam sedentários, tendem a ser bem menores e mais próximos da natureza. As tribos bárbaras ocupam territórios distintos, muitas vezes regiões selvagens semi-domesticadas, que consideram como suas para fins de caça, pastagem e agricultura. A maioria é adepta do uso de armas, pois precisam superar muitos perigos ao longo da vida - enfrentando criaturas da natureza ou se reunindo para defender suas terras contra tribos rivais. Como vivem em pequenas comunidades, os laços de parentesco e clã são elementos fortes de sua sociedade.
 
@@ -47,7 +44,7 @@ _\* Na criação de personagens, humanos não têm limite na escolha de idiomas,
 - **Sortudos:** Humanos começam o jogo com um Ponto de Sorte adicional.
 
 ---
-### Civilizados
+### Civilizada
 
 A cultura "Civilizada" é caracterizada por uma aparência de lei e ordem, sustentada por complexos códigos sociais e apoiada por uma burocracia. Povos civilizados acreditam ser superiores a todas as outras culturas porque suas realizações tendem à permanência: cidades extensas, templos imponentes, monumentos comemorativos e o registro da história e eventos em livros, tomos e pergaminhos. Claro, isso é uma fachada superficial. As cidades mais "Civilizadas" podem ser mais caóticas do que qualquer assentamento bárbaro na fronteira; e os códigos sociais podem ser mais rudes que os rituais de hospitalidade dos nômades. Mas a cultura "Civilizada" se orgulha de suas realizações, de sua infraestrutura, de seus artesãos profissionais e de sua capacidade de expandir facilmente seu alcance para onde quer que deseje ir.
 
@@ -74,7 +71,7 @@ _\* Na criação de personagens, humanos não têm limite na escolha de idiomas,
 - **Sortudos:** Humanos começam o jogo com um Ponto de Sorte adicional.
 
 ---
-### Nômades
+### Nômade
 
 Nomades são povos constantemente em movimento, sem um lar fixo. Eles podem vagar sem destino certo ou ter vários acampamentos pelos quais se movimentam ao longo do ano. Plantam poucos cultivos e, em vez disso, seguem as migrações de animais ou peixes, podendo até mesmo conduzir seus próprios animais domesticados. Nômades são hábeis em sobreviver com o que podem coletar rápida e facilmente de seu entorno, não desperdiçando nada. As habilidades da cultura nômade devem ser adaptadas ao seu meio ambiente.  Alguns percorrem vastas distâncias a pé, outros vivem em caravanas ou montando criaturas estranhas, e alguns navegam pelos oceanos em grandes jangadas flutuantes.
 
@@ -102,7 +99,7 @@ _\* Na criação de personagens, humanos não têm limite na escolha de idiomas,
 - **Sortudos:** Humanos começam o jogo com um Ponto de Sorte adicional.
 
 ---
-### Primitivos
+### Primitiva
 
 De todos os povos, os primitivos são aqueles que vivem mais próximos da terra, em sintonia com seus segredos ocultos. Vivendo em grupos familiares extensos, as culturas primitivas se reúnem em torno de moradias muito simples, que podem variar de cavernas e áreas de abrigo natural a abrigos improvisados ou cabanas bem básicas. Os primitivos são tipicamente caçadores-coletores, com sistemas de cultivo e criação de animais poucos desenvolvidos ou mal elaborados.
 
@@ -215,7 +212,7 @@ _\* Durante a criação do personagem, idiomas adicionais estão limitados a gno
 - **Movimento:** 20 pés (6 metros).
 - **Armadura Élfica**: Elfos são hábeis em conjurar magias Arcanas enquanto usam armadura élfica, podendo fazê-lo com uma categoria de dificuldade reduzida em um grau.
 - **Alfabetização**:  Elfos normalmente conseguem ler e escrever qualquer idioma que falem.
-- **Resistência a Sono e Encanto**: Elfos consideram testes de Força de Vontade para resistir a magias de Sono e Encanto duas categorias mais fáceis. Isso inclui todas as magias da Escola de Encantamento (Encantamento Pessoal, Amizade, Hipnose, etc.). Eles podem optar por abandonar essa resistência e aceitar os efeitos da magia.
+- **Resistência a Sono e Encantamento**: Elfos consideram testes de Força de Vontade para resistir a magias de Sono e Encanto duas categorias mais fáceis. Isso inclui todas as magias da Escola de Encantamento (Encantar Pessoa, Amizade, Hipnose, etc.). Eles podem optar por abandonar essa resistência e aceitar os efeitos da magia.
 - **Visão Aguçada**: Devido à sua acuidade visual excepcional, elfos consideram todos os testes de Percepção para localizar algo uma categoria mais fáceis.
 - **Furtividade**: Elfos vestindo apenas armaduras leves ou sem armadura nenhuma consideram testes de Furtividade uma categoria mais fáceis.
 
@@ -262,119 +259,121 @@ _\* Respeitoso com a natureza ou Ama a natura, não ambos._
 ---
 ### Meio-Elfo
 
-Half-elves are the offspring of an elf and a human, granting them a mixture of traits from both parents. Their appearance is closer to their elven heritage; they tend to possess attractive features. Half-elves lose some of the Abilities of elven heritage and do not have the same lucky or gifted nature as humanity; instead, they fall somewhere in-between. Half-elves possess their human parent's wanderlust and the love of nature of their elven heritage. They are also long-lived, reaching ages of around 300 years. In some parts of world, half-elves are regarded with suspicion due to their mixed heritage, but they are generally accepted everywhere elves and humans are, though they tend to receive the greatest amount of bigotry from the elven people.
+Os meio-elfos são descendentes de um elfo e um humano, herdando uma mistura de características de ambos os pais. Sua aparência é mais próxima da herança élfica; geralmente possuem traços atraentes. Os meio-elfos perdem algumas das habilidades dos elfos e não possuem a mesma natureza sortuda ou talentosa da humanidade; em vez disso, ficam em algum ponto intermediário. Eles compartilham com seus pais humanos o desejo de viajar e o amor pela natureza de sua herança élfica. Além disso, são longevos, chegando a viver cerca de 300 anos. Em algumas partes do mundo, os meio-elfos são vistos com desconfiança devido à sua herança mista, mas geralmente são aceitos onde quer que elfos e humanos convivam, embora frequentemente enfrentem preconceito por parte dos elfos .
 
 #### Cultura
 
-Half-elves have no communities of their own but can be found living wherever humans and elves co-mingle, and they will typically share the culture of the race that raised them. For example, if raised among humans they will share the culture of their human parent (one of the four detailed under humans), if raised among elves they will share their elven parent's culture.
+Os meio-elfos não possuem comunidades próprias, mas podem ser encontrados vivendo onde quer que humanos e elfos convivam, e geralmente compartilham a cultura da raça que os criou. Por exemplo, se foram criados entre humanos, compartilharão a cultura de seu pai ou mãe humano (uma das quatro culturas detalhadas para humanos); se foram criados entre elfos, compartilharão a cultura de seu pai ou mãe élfico.
 
 #### Perícias
 
-- **Perícias Grátis:** Customs +40, Idioma (Common) +40, Idioma (Elf) +40
-- **Perícias Comuns:** Choose from a human culture or from the following elf skill list: Ocultação, Influência, Intuição, Local, Percepção, Furtividade, Força de Vontade
-- **Perícias Profissionais:** Choose from a human culture or from the following elf skill list: Art (qualquer), Comércio, Ofício (qualquer), Courtesy, Idioma (any\*), Saber (qualquer), Música, Sobrevivência.
+- **Perícias Grátis:** Costumes +40, Idioma (Comum) +40, Idioma (Élfico) +40
+- **Perícias Comuns:** Escolha de um cultura humana ou da seguinte lista de perícias élficas: Ocultação, Influência, Intuição, Local, Percepção, Furtividade, Força de Vontade
+- **Perícias Profissionais:** Escolha de uma cultura humana ou da seguinte lista de perícias élficas:Arte (qualquer), Comércio, Ofício (qualquer), Etiqueta, Idioma (qualquer\*), Saber (qualquer), Música, Sobrevivência.
 
-_\* During character creation, if raised by elves, additional Idiomas are limited to gnome, halfling, goblin, hobgoblin, orc, and gnoll. If raised by humans, they are unlimited in choice of Idioma._
+_\* Durante a criação do personagem, se criado por elfos, os Idiomas adicionais são limitados a gnomo, halfling, goblin, hobgoblin, orc e gnoll. Se criado por humanos, não possuem limitações na escolha de Idiomas._
 
 #### Alinhamento e Paixões
 
-Choose from a human culture or from the following elf Passions:
+Escolha entre uma cultura humana ou entre as seguintes paixões élficas:
 
-- **Alinhamento:** Any, but typically Chaotic Bom if raised by elves, choose one or two from each, or select a different Alinhamento. Or as per human parent.
-  - **Chaotic** (Curious, Freedom, Suspicious)
-  - **Bom** (Admirable, Altruistic, Angelic, Charitable, Compunctions against harming innocents, Decent, Ethical, Forgiving, Friendly, Hates Evil, Helpful, Kind, Loves nature, Merciful, Optimistic, Positive, Vegetarian)
-- **Paixão (Raised as Elf):** Any, but typically one or two from the following:
-  - Loyalty to King/Queen
-  - Love (Something emotional)
-  - Hate (any enemy of grace and beauty)
-- **Paixão (Raised as Human):** Choose from an appropriate human list.
+- **Alinhamento**: Qualquer, mas geralmente Caótico Bom se criado por elfos. Escolha um ou dois de cada, ou selecione um Alinhamento diferente. Ou conforme o pai humano.
+- **Caótico** (Curioso, Liberdade, Desconfiado)
+- **Bom** (Admirável, Altruísta, Angelical, Caridoso, Compunção contra prejudicar inocentes, Decente, Ético, Perdoador, Amigável, Odeia o Mal, Prestativo, Gentil, Ama a natureza, Misericordioso, Otimista, Positivo, Vegetariano)
+- **Paixão (Criado como Elfo)**: Qualquer, mas geralmente um ou dois dos seguintes:
+- Lealdade ao Rei/Rainha
+- Amor (algo emocional)
+- Ódio (qualquer inimigo da graça e da beleza)
+- **Paixão (Criado como Humano)**: Escolha de uma lista apropriada para humanos.
+
 
 #### Regras Especiais
 
-- **Movimento** : 20 feet.
-- **Elven Chain** : Elves are adept at casting Arcane Magic spells while wearing elven chain and may cast such spells at one level of difficulty.
-- **Alfabetizado** : Half-elves are typically able to read and write any Idioma they can speak.
-- **Resistance to Sleep and Charm** : Half-elves find Força de Vontade rolls to resist _Sleep_ and _Charm_ spells one grade easier. This includes all spells of the _Enchantment (Charm)_ School (_Charm Person, Friendship, Hypnotism_, and so on). They may drop this resistance and accept the magic's effects if they choose.
-- **Sharp Vision** : Due to their acute visual acuity, half-elves find all Percepção rolls to spot something one grade easier.
-- **Furtividadey** : Half-elves wearing nothing more restrictive than light armor find Furtividade tests 1 grade easier.
+- **Movimento** : 20 pés (6 metros).
+- **Armadura Élfica** : Meio-elfos são hábeis em conjurar magias Arcanas enquanto usam armadura élfica, podendo fazê-lo com uma categoria de dificuldade reduzida em um grau.
+- **Alfabetizado**: Meio-elfos normalmente são capazes de ler e escrever os Idiomas que possam falar.
+- **Resisência ao Sono e Encantamento**: Meio-elfos consideram testes de Força de Vontade para resistir a magias de Sono e Encantamento uma categoria mais fácil. Isso inclui todas as magias da Escola de Encantamento (Encantar Pessoa, Amizade, Hipnose, etc.). Eles podem optar por abandonar essa resistência e aceitar os efeitos da magia.
+- **Visão Aguçada**: Devido à sua acuidade visual excepcional, elfos consideram todos os testes de Percepção para localizar algo uma categoria mais fáceis.
+- **Furtividade**: Elfos vestindo apenas armaduras leves ou sem armadura nenhuma consideram testes de Furtividade uma categoria mais fáceis.
 
 ---
 ### Meio-Orc
 
-Originating in the wilder frontiers of world, where orcs and humans come into conflict, half-orcs are the result of the unlikely union between these two races. Genetically, half-orcs exhibit more orcish traits than human ones, standing taller than a human on average, with large prominent teeth, an extended lower jaw, and greenish skin covered with coarse dark hair. They are warlike by nature and have no interest in the more refined of pursuits. Half-orcs are on poor terms with the other races due to their orcish blood, enmity with the elves and dwarves being the greatest; but given time, a trust can develop even with these unlikely races. Of all the races the half-elves tend to be the most sympathetic, understanding the life of the outcast all too well. Strangely enough, gnomes and halflings tend to be generally accepting of half-orcs, the former because half-orcs tend to be able to take a joke, and the latter due to their curious and accepting natures. Half-orcs have natural lifespans of around 80 years.
+Originários das fronteiras mais selvagens do mundo, onde orcs e humanos entram em conflito, os meio-orcs são o resultado da improvável união entre essas duas raças. Geneticamente, os meio-orcs exibem mais traços orcs do que humanos, sendo mais altos que um humano em média, com dentes proeminentes e uma mandíbula inferior alongada, além de pele esverdeada coberta por pelos escuros e grossos. São naturalmente guerreiros e não têm interesse nas atividades mais refinadas. Os meio-orcs têm relações tensas com as outras raças devido ao seu sangue orc, sendo a inimizade com elfos e anões a maior; no entanto, com o tempo, pode-se desenvolver confiança mesmo com essas raças improváveis. Entre todas as raças, os meio-orcs costumam ser os mais compreensivos, entendendo muito bem a vida dos excluídos. Curiosamente, gnomos e halflings tendem a aceitar os meio-orcs, os primeiros porque os meio-orcs geralmente conseguem levar uma piada na esportiva, e os últimos devido à sua natureza curiosa e acolhedora. A expectativa de vida natural dos meio-orcs é de cerca de 80 anos.
 
 #### Cultura
 
-Like half-elves, half-orcs have no native lands, most often living among orcish tribes. Those not living among other orcs, range toward human lands. Because they are frequently not accepted by society, half-orcs are usually drawn toward violent careers befitting their great strength and temperament, usually finding companionship among adventurers, many of whom are fellow wanderers and outsiders. Half-orcs typically share the culture of the race that raised them. For example, if raised among humans, they will share the culture of their human parent; if raised among orcs, they will share their orcish parent's culture.
+Assim como os meio-elfos, os meio-orcs não possuem terras nativas e geralmente vivem entre tribos orcs. Aqueles que não vivem com outros orcs tendem a se aproximar das terras humanas. Por não serem frequentemente aceitos pela sociedade, os meio-orcs geralmente são atraídos para carreiras violentas que combinam com sua grande força e temperamento, encontrando companheirismo entre aventureiros, muitos dos quais também são viajantes e outsiders. Os meio-orcs normalmente compartilham a cultura da raça que os criou. Por exemplo, se foram criados entre humanos, compartilharão a cultura de seu pai ou mãe humano; se foram criados entre orcs, compartilharão a cultura de seu pai ou mãe orc.
 
 #### Perícias
 
-- **Perícias Grátis:** Customs +40, Idioma (Common) +40, Idioma (Orc) +40.
-- **Perícias Comuns:** Choose from a human culture or from the following orc skill list: Atletismo, Musculatura, Tolerância, Primeiros Socorros, Local, Percepção; and either Canoagem, Evasão, or Montaria.
-- **Perícias Profissionais:** Choose from a human culture or from the following orc skill list: Ofício (qualquer), Cura, Intimidation, Saber (qualquer), Música, Navegação, Sobrevivência, Rastrear.
+- **Perícias Grátis:** Costumes +40, Idioma (Comum) +40, Idioma (Orc) +40.
+- **Perícias Comuns:** Escolha de uma cultura humana ou de seguinte lita de perícias de orc: Atletismo, Musculatura, Tolerância, Primeiros Socorros, Local, Percepção; e uma entre Canoagem, Evasão, ou Montaria.
+- **Perícias Profissionais:** Escolha entre uma cultura humana ou entre a seguinte lista de perícias orcs:: Ofício (qualquer), Cura, Intimidação, Saber (qualquer), Música, Navegação, Sobrevivência, Rastrear.
 
-_\* During character creation, if raised by orcs, additional Idiomas are limited to goblin, hobgoblin, orc, and gnoll. If raised by humans, you are not limited in selection of Idiomas if you can justify the choice._
+_\* Durante a criação do personagem, se criado por orcs, os idiomas adicionais estão limitados a goblin, hobgoblin, orc e gnoll. Se criado por humanos, você não tem restrições na escolha de idiomas, desde que possa justificar a escolha._
 
 #### Alinhamento e Paixões
 
-Choose from a human culture or from the following orc Passions if raised in orcish society:
+Escolha entre uma cultura humana ou entre as seguintes paixões orcs se você foi criado na sociedade orc:
 
-- **Alinhamento:** Any, but typically Leal Evil if raised by orcs, choose one or two from each or select a different Alinhamento. Or as per human parent.
-  - **Leal** (Adherence to tradition, Calculating, Closed-Minded, Lack of adaptability)
-  - **Evil** (Abusive, Cruel, Domineering, Enjoys Harming Innocents, Hates Bom, Merciless, Sadistic, Slaver, Spiteful)
-- **Paixão (Raised as Orc):** Any, but typically one or two from the following:
-  - Loyalty to Clan Chieftain
-  - Love (friend, sibling, or romantic lover)
-  - Hate (magic, creature, rival, or clan)
-- **Paixão (Raised as Human):** Choose from an appropriate human list.
+- **Alinhamento**: Qualquer, mas geralmente Leal e Maligno se criado por orcs. Escolha um ou dois de cada, ou selecione um Alinhamento diferente. Ou conforme o pai humano.
+- **Leal** (Adesão à tradição, Calculista, Fechado, Falta de adaptabilidade)
+- **Maligno** (Abusivo, Cruel, Dominador, Gosta de prejudicar inocentes, Odeia o Bem, Impiedoso, Sádico, Escravizador, Rancoroso)
+- **Paixão (Criado como Orc)**: Qualquer, mas geralmente um ou dois dos seguintes:
+- Lealdade ao Chefe do Clã
+- Amor (amigo, irmão ou amante romântico)
+- Ódio (magia, criatura, rival ou clã)
+- **Paixão (Criado como Humano)**: Escolha de uma lista apropriada para humanos.
 
 #### Regras Especiais
 
-- **Movimento:** 20 feet.
-- **Visão no Escuro:** Half-orc Visão no Escuro enables them to see up to 60 feet in dim light as if it were bright light (standard Percepção rolls to spot something) and in darkness as if it were dim light (Percepção rolls to spot something are Hard). Within that darkness, they discern colors only in shades of gray. Visão no Escuro does not allow vision in magical darkness.
-- **Analfabeto:** If raised by orcs, half-orcs are typically unable to read or write. They may learn literacy by spending 1 Experience Roll and a month of training under a character Alfabetizado in the desired Idioma. This gives them basic literacy equal to half skill level in one Idioma the character knows. If desired, another 1 Experience Roll and a month of training will give them full literacy. When learning new Idiomas in play, it can be assumed they are learning them at full literacy level. Half-orcs raised by another culture will be Alfabetizado if that culture is also Alfabetizado.
-- **Bônus de Sobrevivência (Específico):** If raised by orcs, half-orcs find all Sobrevivência rolls pertaining to their area of origin one grade easier.
+- **Movimento:** 20 pés (6 metros).
+- **Visão no Escuro:** A Visão no Escuro dos meio-orcs permite que eles enxerguem até 60 pés (18 metros) em luz fraca como se fosse luz intensa (rolagens padrão de Percepção para detectar algo) e em escuridão como se fosse luz fraca (rolagens de Percepção para detectar algo são difíceis). Dentro dessa escuridão, eles percebem apenas cores em tons de cinza. A Visão no Escuro não permite enxergar em escuridão mágica.
+- **Analfabeto:** Se criados por orcs, os meio-orcs geralmente não conseguem ler ou escrever. Eles podem aprender a ler e escrever gastando 1 Ponto de Experiência e um mês de treinamento com um personagem alfabetizado no Idioma desejado. Isso lhes proporciona uma alfabetização básica equivalente a metade do nível de habilidade em um Idioma que o personagem conhece. Se desejado, mais 1 Ponto de Experiência e um mês de treinamento lhes darão plena alfabetização. Ao aprender novos Idiomas durante o jogo, pode-se presumir que eles estão aprendendo-os com plena alfabetização.
+- **Bônus de Sobrevivência (Específico):** Se criados por orcs, os meio-orcs consideram todas os testes de Sobrevivência relacionadas à sua área de origem como um grau mais fáceis.
 
 ---
 ### Halfling
 
-Peaceful, civilized folk who live a largely agrarian existence, halflings are diminutive humanoids who standing an average of 4'0" to 4'3" tall are shorter than dwarves, but taller than gnomes. Their homes are farms and steads with villages forming close-knit communities. Halflings are the least adventurous of the races and can go largely unnoticed as they pose no kind of threat to anyone.
+Os halflings, também conhecidos como meio-homens, são um povo pacífico e civilizado que vive principalmente de uma existência agrária. São humanoides diminutos, com altura média entre 1,2 metros a 1,3 metros, mais baixos que os anões, mas mais altos que os gnomos. Suas casas são fazendas e vilarejos formando comunidades unidas. Os halflings são a raça menos aventureira e passam despercebidos, pois não representam ameaça a ninguém.
 
-At first glance halflings might be mistaken for children, but the differences are obvious upon close inspection. Halflings have pointed ears, and skin, hair, and eye colors that run the normal range. They have large, rugged feet that are oversized for the body, and typically quite hairy. Shoes and boots are shunned; the soles of the feet are extremely thick, providing more than adequate protection against rocks and stones.
+À primeira vista, os halflings podem ser confundidos com crianças, mas as diferenças são óbvias ao observá-los de perto. Eles têm orelhas pontudas, e a cor da pele, cabelo e olhos varia dentro do padrão normal. Possuem pés grandes e robustos, desproporcionalmente grandes para o corpo, e geralmente bastante peludos. Sapatos e botas são evitados; as solas dos pés são extremamente espessas, proporcionando proteção adequada contra pedras e rochas.
 
-While they are generally unadventurous, halflings are inquisitive. They like to know, and share, secrets. They adore stories, myths, and fables and have inquiring minds. This means that, when abroad, the world is a fascinating place to be questioned and taken in – and this can lead halflings into trouble. Otherwise, halflings are a rather prosaic, content race that keeps to itself and prefer neither to interfere with the wider world nor have it interfere with them.
+Apesar de geralmente não serem aventureiros, os halflings são curiosos. Gostam de conhecer e compartilhar segredos. Adoram histórias, mitos e fábulas, e têm mentes inquisitivas. Isso significa que, quando estão em terras estrangeiras, o mundo se torna um lugar fascinante a ser explorado e questionado – o que pode levar os halflings a se meterem em encrencas. Fora isso, os halflings são uma raça bastante prosaica e contente, que prefere não interferir no mundo exterior nem ser incomodada por ele.
 
-To most other races, halflings are short hairy-footed kleptomaniacs, a not entirely unfounded view, as most that take up a life of adventure can easily incorporate a little Furtividade and subterfuge due to their small size and quick fingers, but other Classes can and do exist. There is an old dwarf saying which goes, "if there is a halfling in your party check your money pouch, if it's misCanto check his."
+Para a maioria das outras raças, os halflings são vistos como cleptomaníacos de pés peludos e baixinhos, uma visão não totalmente infundada, já que muitos que se aventuram na vida de aventureiro podem facilmente incorporar um pouco de furtividade e subterfúgio devido ao seu tamanho pequeno e dedos ágeis. No entanto, outras classes também podem existir. Existe um antigo ditado anão que diz: “se há um halfling em seu grupo, verifique sua bolsa de dinheiro; se estiver faltando, foi ele.”
 
-Despite being physically smaller and weaker than most other sapient species, halflings compensate with a certain nimbleness that serves them well in sticky situations. Although cautious, they are not cowardly: halflings might say they are, but when it comes to fighting for their homes and way of life, they can summon enormous reserves of courage. In short, halflings make for Bom player characters, especially for those players who prefer sneaking around to stalking boldly across the moorland. They are long-lived, with lifespans of around 170 years.
+Apesar de serem fisicamente menores e mais fracos que a maioria das outras espécies inteligentes, os halflings compensam com agilidade, o que os ajuda em situações complicadas. Embora sejam cautelosos, não são covardes: os halflings podem até dizer que são, mas quando se trata de lutar por seus lares e modo de vida, eles conseguem reunir enormes reservas de coragem. Em resumo, os halflings são bons personagens para jogadores, especialmente para aqueles que preferem se esgueirar a avançar ousadamente pelos campos. Eles têm uma longa vida, com expectativa de vida de cerca de 170 anos.
 
 #### Cultura
 
-Halfling culture is akin to Civilized. They live in small communities called shires, closely-knit villages and small towns with several extended families forming the basis of the community. Their industries are basic: agriculture primarily, but also handiOfícios such as pottery, weaving, leatherworking, and textiles. They do work metals but very infrequently for weapons and armor. Like elves, most halflings will never leave their communities. Instead, they prefer staying at home, eating their twelve meals a day, smoking pipe weed, and drinking while socializing with friends and loved ones. But occasionally, a halfling comes along that gets the urge for adventure. The common cultural unit for halflings is the Riding; an area bounded by three shires which makes the size of each riding vary considerably. A Borough is formed of three Ridings.
+A cultura dos halflings, também conhecidos como meio-homens, é semelhante à civilizada. Eles vivem em pequenas comunidades chamados condados, vilarejos unidos e pequenas cidades, com várias famílias estendidas formando a base da comunidade. Suas atividades econômicas são básicas: principalmente agricultura, mas também artesanato, como cerâmica, tecelagem, trabalho em couro e têxteis. Eles também trabalham com metais, mas muito raramente para armas e armaduras. Assim como os elfos, a maioria dos halflings nunca deixa suas comunidades. Em vez disso, preferem ficar em casa, fazer suas doze refeições diárias, fumar cachimbo e beber enquanto socializam com amigos e entes queridos. No entanto, ocasionalmente, um halfling sente o desejo de aventura. A unidade cultural comum para os halflings é o distrito, uma área delimitada por três condados, o que faz com que o tamanho de cada distrito varie consideravelmente. Um burgo é formado por três distritos.
+
 
 #### Perícias
 
-- **Perícias Grátis:** Customs +40, Idioma (Common) +40, Idioma (Halfling) +40
-- **Perícias Comuns:** Dança or Canto, Evasão, Intuição, Local, Percepção, Furtividade, Força de Vontade
-- **Perícias Profissionais:** Art (qualquer), Comércio, Ofício (qualquer), Courtesy, Idioma (any\*), Saber (qualquer), Música, Manha.
+- **Perícias Grátis:** Costumes +40, Idioma (Comum) +40, Idioma (Halfling) +40
+- **Perícias Comuns:** Dança ou Canto, Evasão, Intuição, Local, Percepção, Furtividade, Força de Vontade
+- **Perícias Profissionais:** Arte (qualquer), Comércio, Ofício (qualquer), Etiqueta, Idioma (qualquer\*), Saber (qualquer), Música, Manha.
 
-_\* During character creation, additional Idiomas are limited to dwarf, elf, gnome, goblin, and orc._
+_\* Durante a criação do personagem, Idiomas adicionais são limitados a anão, élfico, gnomo, goblin e orc._
 
 #### Alinhamento e Paixões
 
-- **Alinhamento:** Any, but typically Leal Bom, choose one or two from each, or select a different Alinhamento.
-  - **Leal** (Honest, Honorable, Reliable, Trusting, Trustworthy, Well-mannered)
-  - **Bom** (Admirable, Altruistic, Charitable, Compunctions against harming innocents, Decent, Ethical, Forgiving, Friendly, Hates Evil, Helpful, Kind, Loves nature, Merciful, Optimistic, Positive, Vegetarian)
-- **Paixão:** Any, but typically one or two from the following:
-  - Loyalty to (Shire, Riding, or Borough)
-  - Love (Something emotional)
-  - Hate (Heavy Industry)
+- **Alinhamento:** Qualquer, mas geralmente Leal e Bom, escolha um ou dois de cada, ou selecione um Alinhamento diferente.
+  - **Leal** (Honesto, Honrável, Confiável, Confiante, Digno de confiança, Bem-educado)
+  - **Bom** (dmirável, Altruísta, Caridoso, Com escrúpulos contra prejudicar inocentes, Decente, Ético, Perdoador, Amigável, Odeia o Mal, Prestativo, Gentil, Ama a natureza, Misericordioso, Otimista, Positivo, Vegetariano)
+- **Paixão:** Qualquer, mas geralmente um ou dois dos seguintes:
+- Lealdade ao (condado, distrito ou burgo)
+- Amor (Algo emocional)
+- Ódio (Indústria pesada)
 
 #### Regras Especiais
 
-- **Movimento:** 15 pés.
+- **Movimento:** 15 pés (4,5 metros).
 - **Alfabetizado:** Os halflings normalmente são capazes de ler e escrever qualquer Idioma que possam falar.
-- **Resistência à Magia:** Like dwarves, halflings are highly resistant to Arcane Magic with Força de Vontade Checks being one grade easier when used to resist. This resistance has no effect on Divine magic.
-- **Resistência à Venenos:** Halflings are also highly resistant to poison, with Tolerância rolls that relate to poisoning being one grade easier.
-- **Furtivos:** Halflings wearing nothing more restrictive than light armor find Furtividade tests 1 grade easier.
-- **Tolerância à Exposição (Pés):** Halflings suffer no adverse effects from exposure when going around barefoot regardless of temperature. They do suffer from exposure normally as far as the rest of their body is concerned.
+- **Resistência à Magia:** Assim como os anões, os halflings são altamente resistentes à Magia Arcana, com Testes de Força de Vontade sendo um grau mais fáceis quando usados para resistir. Essa resistência não afeta a magia divina.
+- **Resistência à Venenos:** Os halflings também são altamente resistentes a venenos, com rolagens de Tolerância relacionadas a envenenamento sendo um grau mais fáceis.
+- **Furtivos:** Halflings que usam armaduras não mais restritivas do que armaduras leves encontram testes de Furtividade 1 grau mais fáceis.
+- **Tolerância à Exposição (Pés):** Os halflings não sofrem efeitos adversos da exposição ao andar descalços, independentemente da temperatura. No entanto, eles sofrem exposição normalmente no restante do corpo.

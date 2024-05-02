@@ -1,4 +1,4 @@
-# Chapter 7: Game System
+# Capítulo 7: Sistema do Jogo
 
 Many different things can occur during a _Classic Fantasy Imperative_ game. Some are resolved through skill use or one of the major game mechanics such as combat or magic; others require their own rules for adjudication. This chapter provides rules and guiDança for a variety of different scenarios that players will encounter while playing the game.
 

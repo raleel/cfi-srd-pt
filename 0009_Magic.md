@@ -1,4 +1,4 @@
-# Chapter 9: Magic
+# Capítulo 9: Magia
 
 _Classic Fantasy Imperative_ uses several default assumptions concerning the casting of magic. Since the same fundamental concepts are used by each discipline, these concepts have been collated here for easy reference and to avoid unnecessary duplication. The following rules are intended to be globally applied to all spellcasting.
 

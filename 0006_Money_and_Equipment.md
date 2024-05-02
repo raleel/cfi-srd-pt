@@ -1,4 +1,4 @@
-# Chapter 6: Money and Equipment
+# Capítulo 6: Dinheiro & Equipamento
 
 This chapter is concerned with money: how much characters have and what it buys. _Classic Fantasy Imperative_ uses the Gold Piece (GP) as the standard unit of currency in the game, with the cost of most equipment, goods and services being measured in GP. One GP is the standard price for one day's food, drink, and accommodation for one person living a modest lifestyle.
 

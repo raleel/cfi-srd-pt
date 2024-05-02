@@ -1,4 +1,4 @@
-# Chapter 5: Skills
+# Capítulo 5: Perícias
 
 Skills are divided into two categories: Standard and Professional. All characters have the same set of Perícias Comuns. Perícias Profissionais differ between individual characters and reflect expertise developed within a career and, to a certain extent, their culture. Despite these distinctions, Standard and Perícias Profissionais work in the same way.
 

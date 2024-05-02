@@ -1,4 +1,4 @@
-# Chapter 8: Combat
+# Capítulo 8: Combate
 
 Combat is an important feature of roleplaying games. Violent confrontation has ever been a way of settling problems, from vengeance-Conduçãon fights between nemeses, to the clash of armies in times of war. Nevertheless, combat need not be a savage battle to the death. Some combat encounters can be swashbuckling duels which end without injury, or perhaps light-hearted bar room brawls. _Classic Fantasy Imperative_ uses several terms to explain the core elements of combat. These are explained in the following sections, but in overview, these are:
 
