@@ -1,4 +1,4 @@
-# Chapter 3: Classes
+# Capítulo 3: Classes
 
 Cada personagem em _Classic Fantasy Imperative_ começa o jogo tendo treinado em uma Classe. Esta Classe é a carreira que o personagem embarcou na transição para a vida adulta e definirá o desenvolvimento das perícias dos personagens.
 
@@ -35,53 +35,53 @@ Na maior parte do tempo, se o personagem estiver em Bom estado com quaisquer Jur
 ---
 ## Clérigo
 
-Clerics are the militant arm of a religious order and are skilled in protecting their religion and its followers. During times of relative peace, clerics travel the land spreading the word of their pantheon and seeking converts. Clerics are blessed with the ability to cast spells by the deities of their pantheon and are also masters of combat against the undead, possesCanto the capacity to Condução them away with but a spoken prayer.
+Os clérigos são o braço militante de uma ordem religiosa e são habilidosos em proteger sua religião e seus seguidores. Durante períodos de relativa paz, os clérigos viajam pela terra espalhando a palavra de seu panteão e buscando conversões. Os clérigos são abençoados com a capacidade de lançar magias pelas divindades de seu panteão e também são mestres em combate contra os mortos-vivos, possuindo a capacidade de afastá-los com apenas uma oração falada.
 
-#### Common Species/Culture
+#### Espécies Comuns/Cultura
 
-Any.
+Qualquer
 
 #### Important Characteristics
 
-STR, INT, POW, and CHA
+FOR, INT, POD e CAR
 
-#### Alinhamento/Oath Requirements
+#### Alinhamento/Juramento Requeridos
 
-- Alinhamento: Any, as appropriate to pantheon or deity.
-- Clerical Oath 30% plus character's INT+POW.
+- Alinhamento: Qualquer apropriado para o panteão ou divindade.
+- Juramento Clerical 30% mais INT+POD do personagem.
 
-See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
+Consulte [Capítulo 4: Alinhamento e Paixões](0004_Alignment_and_Passions.md).
 
 
-In addition to racial/cultural Alinhamento and Passions, all clerics swear an Oath of Conduct to their clerical order and the deity or pantheon of deities the order venerates. Part of the Oath typically includes tithing 10% of all wealth to the order. Where a pantheon is concerned, the character's Alinhamento will be used to help determine which deities of the desired pantheon will be worshipped. Typically, an order will devote themselves to all deities of a specific pantheon with like Passions. A cleric typically aligns with all deities of a specific pantheon with an Alinhamento not contrary to their own. For example, a cleric with a Bom Alinhamento would serve and respect all Bom and neutral deities of their pantheon. They may work against those deities of an evil disposition, or even acknowledge and respect them, but would offer them no worship. A True Neutral cleric may choose either Bom or evil deities along with those of neutral disposition if desired but could not choose both.
+Além do Alinhamento racial/cultural e das Paixões, todos os clérigos fazem um Juramento de Conduta à sua ordem clerical e à divindade ou panteão de divindades que a ordem venera. Parte do juramento geralmente inclui o pagamento de dízimo de 10% de toda a riqueza à ordem. No caso de um panteão, o Alinhamento do personagem será usado para ajudar a determinar quais divindades do panteão desejado serão adoradas. Normalmente, uma ordem se dedica a todas as divindades de um panteão específico com Paixões semelhantes. Um clérigo normalmente se alinha com todas as divindades de um panteão específico, desde que o Alinhamento não seja contrário ao seu próprio. Por exemplo, um clérigo com Alinhamento Bom serviria e respeitaria todas as divindades Bom e neutras de seu panteão. Eles podem se opor às divindades de disposição maligna ou até mesmo reconhecê-las e respeitá-las, mas não as adorariam. Um clérigo Neutro Verdadeiro pode escolher divindades Bom ou malignas, juntamente com aquelas de disposição neutra, se desejar, mas não poderia escolher ambas.
 
 #### Class Skills
 
-- **Perícias Comuns:** Combat Skill (Cleric), Primeiros Socorros, Influência, Intuição, Local, Canto, Força de Vontade
-- **Perícias Profissionais:** A cleric automatically receives Channel and Devotion (specific pantheon or deity), plus 3 additional skills from the following: Bureaucracy, Courtesy, Culture (qualquer), Cura, Saber (Alchemy), Saber (Religion), Idioma (qualquer) or Saber (qualquer), and Oratory.
+- **Perícias Comuns:** Perícia de Combate (Clérigo), Primeiros Socorros, Influência, Intuição, Local, Canto, Força de Vontade
+- **Perícias Profissionais:** Um clérigo recebe automaticamente Canalizar e Devoção (pantão ou divindade específica), mais 3 perícias adicionais dentre as seguintes: Burocracia, Etiqueta, Cultura (qualquer), Cura, Saber (Alquimia), Saber (Religião), Idioma (qualquer) or Saber (qualquer) e Oratória.
 
-#### Cleric Armor and Weapon Proficiency
+#### Profiência com Armas e Armaduras de Clérigo
 
-Clerics are proficient with all types of armor (light and heavy), and with all shields (except tower shields). Clerical Divine spell casting is not hindered by the wearing of armor. Their Combat Skill includes the use of all basic weapons. Specialty clerics may have access to different weapons as a part of their Combat Skill. This is beyond the scope of this document however Games Masters may apply this information if they decide to.
+Clérigos são proficientes no uso de todos os tipos de armaduras (leves e pesadas) e com todos os escudos (exceto escudos torre). A conjuração de magias divinas dos clérigos não é prejudicada pelo uso de armaduras. Suas habilidades de combate incluem o uso de todas as armas básicas. Clérigos especializados podem ter acesso a diferentes armas como parte de suas habilidades de combate. No entanto, isso está além do escopo deste documento. Mestres de jogo podem aplicar essas informações se assim desejarem.
 
-### Rank Structure
+### Estrutura de Níveis
 
-All clerics are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, clerics may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an addition Luck Point is gained and new Abilities may be acquired. This information is found on the following table under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Initiate with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Lay Member with the Ability to cast Rank 0 spells, but no other Abilities.
+Todos os clérigos são classificados por Níveis, que representam seu poder e habilidade. Quando um grau específico de maestria é alcançado em um número limitado de habilidades de classe, os clérigos podem aumentar seu Nível, demonstrando o nível necessário de aptidão. Quando esse nível de aptidão é atingido, um Ponto de Sorte adicional é obtido e novas Habilidades podem ser adquiridas. Essas informações estão disponíveis na tabela de Progressão. Supondo que você atenda aos pré-requisitos, seu personagem começa como um Iniciante de Nível 1 com as Habilidades apropriadas listadas abaixo; caso contrário, você começa como um Membro Leigo de Nível 0, com a capacidade de lançar feitiços de Nível 0, mas sem outras Habilidades.
 
-##### Cleric Rank Table
+##### Tabela de Nível dos Clérigos
 
-| Rank | Title | Advancement | Spells in Memory | Hit Points | Luck Points | Action Points |
+| Nível | Título | Progressão | Magias Memorizadas | Pontos de Vida | Pontos de Sorte | Pontos de Ação |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Lay Member | - | Rank 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Initiate | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Cleric | Any 5 Class skills at 70% | Rank 0: (INT/4) +2<br> Rank 1: (INT/4) +2<br> Rank 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Priest or Priestess | Any 4 Class skills at 90% | Rank 0: (INT/4) +3<br> Rank 1: (INT/4) +4<br> Rank 2: (INT/4) +2<br> Rank 3: (INT/4) | +1 | +2 | +1 |
-| **4** | High Priest or High Priestess | Any 3 Class skills at 110% | Rank 0: (INT/4) +4<br> Rank 1: (INT/4) +6<br> Rank 2: (INT/4) +4<br> Rank 3: (INT/4) +2<br> Rank 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Grand Priest or Grand Priestess | Any 2 Class skills at 130% | Rank 0: (INT/4) +5<br> Rank 1: (INT/4) +8<br> Rank 2: (INT/4) +6<br> Rank 3: (INT/4) +4<br> Rank 4: (INT/4) +2<br> Rank 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Leigo | - | Nível 0: (INT/4) | 0 | +0 | +0 |
+| **1** | Iniciado | Quaisquer 5 perícias de Classe em 40% | Nível 0: (INT/4) +1<br> Nível 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Clérigo | Quaisquer 5 perícias de Classe em 70% | Nível 0: (INT/4) +2<br> Nível 1: (INT/4) +2<br> Nível 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Sacerdote ou Sacerdotisa | Quaisquer 4 perícias de Classe em 90% | Nível 0: (INT/4) +3<br> Nível 1: (INT/4) +4<br> Nível 2: (INT/4) +2<br> Nível 3: (INT/4) | +1 | +2 | +1 |
+| **4** | Alto Sacerdote ou Alta Sacerdotisa | Quaisquer 3 perícias de Classe em 110% | Nível 0: (INT/4) +4<br> Nível 1: (INT/4) +6<br> Nível 2: (INT/4) +4<br> Nível 3: (INT/4) +2<br> Nível 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Sumo Sacerdote ou Sumo Sacerdotisa | Quaisquer 2 perícias de Classe em 130% | Nível 0: (INT/4) +5<br> Nível 1: (INT/4) +8<br> Nível 2: (INT/4) +6<br> Nível 3: (INT/4) +4<br> Nível 4: (INT/4) +2<br> Nível 5: (INT/4) | +2 | +4 | +2 |
 
-#### Starting Abilities
+#### Habilidade Iniciais
 
-The cleric knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
+O clérigo conhece todas as seguintes Habilidades no Nível 1. Além disso, durante a criação do personagem, você pode escolher uma Habilidade de Nível 1 gratuitamente, desde que atenda aos seus requisitos.
 
 - **Spellcaster:** Clerics are masters of Divine magic, able to cast spells of Cura, defense, and protection to aid their allies. However, they are not without powerful offensive spells to smite those that stand against their ideals. Unlike magic-users, clerics require no spell book, having access to all spells of their Rank or below. Casting spells requires 1 or more Cast Magic Actions consisting of a few brief prayers, somatic gestures with their holy symbol, and a successful Channel roll. The number of spells of their current Rank a cleric may have in memory is found on the [Cleric Rank Table](0003_Classes.md?id=cleric-rank-table) above under Spells in Memory.
 - **Starting Spells:** A cleric begins with access to all Rank 0 cleric spells and all others of their Rank or less. See the [Cleric Spell List](0003_Classes.md?id=cleric-spell-list). They do not actually know them, like a magic-user 'knows' spells, but may pray for any of them when chooCanto which spells to memorize. The number of spells the cleric may memorize at each Rank is found on the cleric's Rank Table above. See [Memorizing Spells](0009_Magic.md?id=memorizing-spells) for more details.

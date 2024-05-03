@@ -66,18 +66,18 @@ CAR (Carisma) mede a personalidade e é independente da aparência física. O CA
 
 Cada Característica tem um valor numérico para determinar sua potência. O número entre parênteses após cada Característica é a média racial e serve como referência para avaliar os resultados do seu personagem em comparação com outros membros de sua espécie. Sugestões para determinar suas Características incluem:
 
-- **Rolagem de Dados**: Role os dados indicados na Tabela de Características Raciais para FOR, CON, TAM, DES, INT, POD e CAR, anotando cada resultado conforme aparece. Como os resultados dessas rolagens podem ser um tanto aleatórios, muitas vezes é melhor decidir o conceito do personagem após rolar os dados. Caso contrário, as Características finais podem impedir um papel preconcebido. Role 3d6 para FOR, CON, DES, POD e CAR; depois 2d6+6 para TAM e INT.
-- **Rolagem de Dados, Atribuição**: Como acima, exceto que o jogador pode trocar vaSabers entre Características com o mesmo intervalo de dados. Por exemplo, ao criar um humano, o jogador pode trocar vaSabers entre FOR, CON, DES, POD e CAR, pois compartilham um intervalo de 3d6, ou entre TAM e INT, que compartilham o intervalo de 2d6+6 — mas eles sempre devem ser do mesmo grupo de intervalo de dados; você não pode trocar rolagens de um grupo por outro.
-- **Rolagem de Dados, Maior**: Role um dado extra conforme indicado para FOR, CON, TAM, DES, INT, POD e CAR, e descarte o resultado mais baixo de cada um.
-- **Atribuição de Pontos**: Em vez de rolar dados para determinar as Características, os jogadores constroem seus personagens a partir de um conjunto predefinido de pontos, cuja quantidade é determinada pela espécie do personagem. Este método é melhor para grupos que sabem o que querem jogar e desejam personalizar sua construção para uma Classe específica. Algumas regras se aplicam à opção de Atribuição de Pontos:
+- **Jogada de Dados**: Jogue os dados indicados na Tabela de Características Raciais para FOR, CON, TAM, DES, INT, POD e CAR, anotando cada resultado conforme aparece. Como os resultados dessas jogadas podem ser um tanto aleatórios, muitas vezes é melhor decidir o conceito do personagem após a jogada dos dados. Caso contrário, as Características finais podem impedir um papel preconcebido. Role 3d6 para FOR, CON, DES, POD e CAR; depois 2d6+6 para TAM e INT.
+- **Jogada de Dados, Atribuição**: Como acima, exceto que o jogador pode trocar valores entre Características com o mesmo intervalo de dados. Por exemplo, ao criar um humano, o jogador pode trocar valores entre FOR, CON, DES, POD e CAR, pois compartilham um intervalo de 3d6, ou entre TAM e INT, que compartilham o intervalo de 2d6+6 — mas eles sempre devem ser do mesmo grupo de intervalo de dados; você não pode trocar rolagens de um grupo por outro.
+- **Jogada de Dados, Maior**: Jogue um dado extra conforme indicado para FOR, CON, TAM, DES, INT, POD e CAR, e descarte o resultado mais baixo de cada um.
+- **Atribuição de Pontos**: Em vez de jogar dados para determinar as Características, os jogadores constroem seus personagens a partir de um conjunto predefinido de pontos, cuja quantidade é determinada pela espécie do personagem. Este método é melhor para grupos que sabem o que querem jogar e desejam personalizar sua construção para uma Classe específica. Algumas regras se aplicam à opção de Atribuição de Pontos:
 - Comece com a média racial para cada uma das sete Características, conforme indicado entre parênteses após cada intervalo de dados abaixo.
 - Gaste mais 10 pontos (humanos) ou 6 pontos (semi-humanos) para aumentar as Características.
 - Você também pode diminuir uma Característica para ganhar pontos extras. Por exemplo, reduza FOR 11 para 9 para ganhar 2 pontos.
-- As Características não podem ser _menores_ que o mínimo possível ou _maiores_ que o máximo possível para aquela Característica, conforme determinado por sua rolagem de dados potencial.
+- As Características não podem ser _menores_ que o mínimo possível ou _maiores_ que o máximo possível para aquela Característica, conforme determinado por sua jogada de dados potencial.
 
-Os Mestres do Jogo (MJ) têm liberdade para criar seus próprios métodos ou determinar vaSabers conforme desejarem.
+Os Mestres do Jogo (MJ) têm liberdade para criar seus próprios métodos ou determinar valores conforme desejarem.
 
-A tabela a seguir resume as informações necessárias para cada um dos métodos mencionados. Os intervalos de dados são usados nos métodos de Rolagem de Dados, enquanto os números entre parênteses são usados na Atribuição de Pontos.
+A tabela a seguir resume as informações necessárias para cada um dos métodos mencionados. Os intervalos de dados são usados nos métodos de Jogada de Dados, enquanto os números entre parênteses são usados na Atribuição de Pontos.
 
 ##### Tabela de Características Raciais
 
@@ -163,7 +163,7 @@ Após sofrer ferimentos, um personagem precisa se recuperar. A Taxa de Cura dete
 
 | CON | Taxa de Cura |
 | :-: | :-: |
-| 6 or less | 1 |
+| 6 ou menos | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
 | A cada 6 pontos | +1 |
