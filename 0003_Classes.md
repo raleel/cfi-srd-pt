@@ -37,11 +37,11 @@ Na maior parte do tempo, se o personagem estiver em Bom estado com quaisquer Jur
 
 Os clérigos são o braço militante de uma ordem religiosa e são habilidosos em proteger sua religião e seus seguidores. Durante períodos de relativa paz, os clérigos viajam pela terra espalhando a palavra de seu panteão e buscando conversões. Os clérigos são abençoados com a capacidade de lançar magias pelas divindades de seu panteão e também são mestres em combate contra os mortos-vivos, possuindo a capacidade de afastá-los com apenas uma oração falada.
 
-#### Espécies Comuns/Cultura
+#### Raças Comuns/Cultura
 
 Qualquer
 
-#### Important Characteristics
+#### Características Importantes
 
 FOR, INT, POD e CAR
 
@@ -52,15 +52,14 @@ FOR, INT, POD e CAR
 
 Consulte [Capítulo 4: Alinhamento e Paixões](0004_Alignment_and_Passions.md).
 
-
 Além do Alinhamento racial/cultural e das Paixões, todos os clérigos fazem um Juramento de Conduta à sua ordem clerical e à divindade ou panteão de divindades que a ordem venera. Parte do juramento geralmente inclui o pagamento de dízimo de 10% de toda a riqueza à ordem. No caso de um panteão, o Alinhamento do personagem será usado para ajudar a determinar quais divindades do panteão desejado serão adoradas. Normalmente, uma ordem se dedica a todas as divindades de um panteão específico com Paixões semelhantes. Um clérigo normalmente se alinha com todas as divindades de um panteão específico, desde que o Alinhamento não seja contrário ao seu próprio. Por exemplo, um clérigo com Alinhamento Bom serviria e respeitaria todas as divindades Bom e neutras de seu panteão. Eles podem se opor às divindades de disposição maligna ou até mesmo reconhecê-las e respeitá-las, mas não as adorariam. Um clérigo Neutro Verdadeiro pode escolher divindades Bom ou malignas, juntamente com aquelas de disposição neutra, se desejar, mas não poderia escolher ambas.
 
-#### Class Skills
+#### Perícias de Classe
 
 - **Perícias Comuns:** Perícia de Combate (Clérigo), Primeiros Socorros, Influência, Intuição, Local, Canto, Força de Vontade
 - **Perícias Profissionais:** Um clérigo recebe automaticamente Canalizar e Devoção (pantão ou divindade específica), mais 3 perícias adicionais dentre as seguintes: Burocracia, Etiqueta, Cultura (qualquer), Cura, Saber (Alquimia), Saber (Religião), Idioma (qualquer) or Saber (qualquer) e Oratória.
 
-#### Profiência com Armas e Armaduras de Clérigo
+#### Proficiência com Armas e Armaduras de Clérigo
 
 Clérigos são proficientes no uso de todos os tipos de armaduras (leves e pesadas) e com todos os escudos (exceto escudos torre). A conjuração de magias divinas dos clérigos não é prejudicada pelo uso de armaduras. Suas habilidades de combate incluem o uso de todas as armas básicas. Clérigos especializados podem ter acesso a diferentes armas como parte de suas habilidades de combate. No entanto, isso está além do escopo deste documento. Mestres de jogo podem aplicar essas informações se assim desejarem.
 
@@ -79,13 +78,13 @@ Todos os clérigos são classificados por Níveis, que representam seu poder e h
 | **4** | Alto Sacerdote ou Alta Sacerdotisa | Quaisquer 3 perícias de Classe em 110% | Nível 0: (INT/4) +4<br> Nível 1: (INT/4) +6<br> Nível 2: (INT/4) +4<br> Nível 3: (INT/4) +2<br> Nível 4: (INT/4) | +2 | +3 | +2 |
 | **5** | Sumo Sacerdote ou Sumo Sacerdotisa | Quaisquer 2 perícias de Classe em 130% | Nível 0: (INT/4) +5<br> Nível 1: (INT/4) +8<br> Nível 2: (INT/4) +6<br> Nível 3: (INT/4) +4<br> Nível 4: (INT/4) +2<br> Nível 5: (INT/4) | +2 | +4 | +2 |
 
-#### Habilidade Iniciais
+#### Perícias Iniciais
 
-O clérigo conhece todas as seguintes Habilidades no Nível 1. Além disso, durante a criação do personagem, você pode escolher uma Habilidade de Nível 1 gratuitamente, desde que atenda aos seus requisitos.
+O clérigo conhece todas as seguintes Perícias no Nível 1. Além disso, durante a criação do personagem, você pode escolher uma Perícia de Nível 1 gratuitamente, desde que atenda aos seus requisitos.
 
-- **Spellcaster:** Clerics are masters of Divine magic, able to cast spells of Cura, defense, and protection to aid their allies. However, they are not without powerful offensive spells to smite those that stand against their ideals. Unlike magic-users, clerics require no spell book, having access to all spells of their Rank or below. Casting spells requires 1 or more Cast Magic Actions consisting of a few brief prayers, somatic gestures with their holy symbol, and a successful Channel roll. The number of spells of their current Rank a cleric may have in memory is found on the [Cleric Rank Table](0003_Classes.md?id=cleric-rank-table) above under Spells in Memory.
-- **Starting Spells:** A cleric begins with access to all Rank 0 cleric spells and all others of their Rank or less. See the [Cleric Spell List](0003_Classes.md?id=cleric-spell-list). They do not actually know them, like a magic-user 'knows' spells, but may pray for any of them when chooCanto which spells to memorize. The number of spells the cleric may memorize at each Rank is found on the cleric's Rank Table above. See [Memorizing Spells](0009_Magic.md?id=memorizing-spells) for more details.
-- **Turn Undead:** Clerics may turn undead, driving them away by means of faith alone. [Turning Undead](0003_Classes.md?id=turning-undead) is covered in detail below.
+- **Conjurador:** Clérigos são mestres da Magia Divina, capazes de conjurar feitiços de cura, defesa e proteção para ajudar seus aliados. No entanto, eles possuem poderosos feitiços ofensivos para destruir aqueles que se opõem aos seus ideais. Ao contrário dos usuários de magia, os clérigos não necessitam de livro de feitiços, tendo acesso a todos os feitiços de seu Nível ou abaixo. Conjurar feitiços requer 1 ou mais Ações de Conjurar Magia que consistem em algumas orações breves, gestos somáticos com seu símbolo sagrado e um teste de Canalização bem-sucedido. O número de feitiços de seu Nível atual que um clérigo pode ter na memória é encontrado na [Tabela de Níveis do Clérigo](0003_Classes.md?id=cleric-rank-table) acima, na coluna Magias Memorizadas.
+- **Feitiços Iniciais:** Um clérigo começa com acesso a todos os feitiços de clérigo de Nível 0 e todos os outros de seu Nível ou menor. Veja a [Lista de Feitiços de Clérigo](0003_Classes.md?id=cleric-spell-list). Na verdade, eles não os conhecem, como um usuário de magia "sabe" os feitiços, mas podem orar por qualquer um deles ao escolher quais feitiços memorizar. O número de feitiços que o clérigo pode memorizar em cada Nível é encontrado na Tabela de Níveis do Clérigo, acima. Veja [Memorizando Feitiços](0009_Magic.md?id=memorizing-spells) para mais detalhes.
+- **Expulsar Mortos-Vivos:** Clérigos podem expulsar mortos-vivos, afastando-os apenas por meio da fé. [Turning Undead](0003_Classes.md?id=turning-undead) é abordado em detalhes abaixo.
 
 #### Ranked Abilities
 
