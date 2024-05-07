@@ -19,7 +19,7 @@ Sob a Licença ORC, você pode usar, compartilhar, adaptar e desenvolver o Mater
 
 #### Aviso ORC
 
-_Classic Fantasy Imperative_ é licenciado sob a Licença ORC localizada na Biblioteca do Congresso dos EUA e disponível online em vários locais, incluindo [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) e outros.
+_Classic Fantasy Imperative_ é licenciado sob a Licença ORC localizada na Biblioteca do Congresso dos EUA e disponível online em vários locais, incluindo [Paizo.com](https://paizo.com/community/blog/v5748dyo6sico?ORC-License-The-Final-Version-is-Here) e outros. Uma tradução da licença está disponível na [GURPZine Wiki](https://drive.google.com/uc?export=download&id=150AL_J-gwJC2FPvmJDJwb1bYU5rCjSoo).
 
 Todas as garantias são excluídas conforme estabelecido na licença.
 
