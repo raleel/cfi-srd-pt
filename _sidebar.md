@@ -1,16 +1,16 @@
-- [Introdução](README.md) <span style="color:green">✔</span>
-- [Personagens](0001_Characters.md) <span style="color:green">✔</span>
-- [Cultura & Raças](0002_Culture_and_Races.md) <span style="color:green">✔</span>
-- [Classes](0003_Classes.md) <span style="color:yellow">▶ ~15%</span>
-- [Alignment & Passions](0004_Alignment_and_Passions.md) <span style="color:red">❌</span>
-- [Skills](0005_Skills.md) <span style="color:red">❌</span>
-- [Money & Equipment](0006_Money_and_Equipment.md) <span style="color:red">❌</span>
-- [Game System](0007_Game_System.md) <span style="color:red">❌</span>
-- [Combat](0008_Combat.md) <span style="color:red">❌</span>
-- [Magic](0009_Magic.md) <span style="color:red">❌</span>
-- [Spells](0010_Spells.md) <span style="color:red">❌</span>
-- [Monsters & Treasure](Appendix_A_Monsters_And_Treasures.md) <span style="color:red">❌</span>
-- [Conversion Tables](Appendix_B_Conversion_Tables.md) <span style="color:red">❌</span>
+- [Introdução <span style="color:green">✔</span>](README.md)
+- [Personagens <span style="color:green">✔</span>](0001_Characters.md)
+- [Cultura & Raças <span style="color:green">✔</span>](0002_Culture_and_Races.md)
+- [Classes  <span style="color:yellow">▶ ~15%</span>](0003_Classes.md)
+- [Alignment & Passions <span style="color:red">❌</span>](0004_Alignment_and_Passions.md)
+- [Skills <span style="color:red">❌</span>](0005_Skills.md)
+- [Money & Equipment <span style="color:red">❌</span>](0006_Money_and_Equipment.md)
+- [Game System <span style="color:red">❌</span>](0007_Game_System.md)
+- [Combat <span style="color:red">❌</span>](0008_Combat.md)
+- [Magic <span style="color:red">❌</span>](0009_Magic.md)
+- [Spells <span style="color:red">❌</span>](0010_Spells.md)
+- [Monsters & Treasure <span style="color:red">❌</span>](Appendix_A_Monsters_And_Treasures.md)
+- [Conversion Tables <span style="color:red">❌</span>](Appendix_B_Conversion_Tables.md)
 
 ---
 
@@ -18,5 +18,5 @@
 
 - [Mythras Imperative SRD](https://srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD](https://bruge.us/rules/srd/) (alternativo)
-- [Licença ORC](https://drive.google.com/uc?export=download&id=150AL_J-gwJC2FPvmJDJwb1bYU5rCjSoo) (inclui tradução)
+- [BRP UGE SRD (alternativo)](https://bruge.us/rules/srd/)
+- [Licença ORC (inclui tradução)](https://drive.google.com/uc?export=download&id=150AL_J-gwJC2FPvmJDJwb1bYU5rCjSoo)
