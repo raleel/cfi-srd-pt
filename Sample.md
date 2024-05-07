@@ -1,6 +1,6 @@
 # Sample Heading 1
 
-Saberm ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. 
 
 ## Heading 2
 
@@ -20,7 +20,7 @@ Saberm ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mas
 
 | Column 1 | Column 2 |
 | ----------- | ----------- |
-| 1 | Saberm ipsum dolor sit amet |
+| 1 | Lorem ipsum dolor sit amet |
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 

@@ -1,6 +1,6 @@
 # Prerequisites
 
-1. A basic understanding of the [markdown Idioma](https://www.markdownguide.org/basic-syntax/).
+1. A basic understanding of the [markdown language](https://www.markdownguide.org/basic-syntax/).
 
 2. You will need to create a free [github](https://github.com/) account if you don't have one. Recommend you use the name of your RPG as this will become part of the URL people will use to access your SRD. 
 
@@ -14,7 +14,7 @@
 
 1. Login to Github
 
-2. Navegação to the public template https://github.com/7thExtinctionrpg/RPG_SRD_Template
+2. Navigate to the public template https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
 3. Click "Use this template"
 
@@ -39,13 +39,13 @@ It will take 5-30 seconds to copy the template, then you'll have your own copy.
 
 ### *.md Files
 
-.md files are markdown files, Markdown is a lightweight markup Idioma that you can use to add formatting elements to plaintext text documents. Depending on the size of your content you can either place all your game's information in a Cantole *.md file, or like I have at [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) create separate files for each chapter. The "sample.md" provides some formatting examples. 
+.md files are markdown files, Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Depending on the size of your content you can either place all your game's information in a single *.md file, or like I have at [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) create separate files for each chapter. The "sample.md" provides some formatting examples. 
 
-Markdown Idioma is very easy to learn, use the link provided on point 2 under Prerequisites above for a full list of syntax. 
+Markdown language is very easy to learn, use the link provided on point 2 under Prerequisites above for a full list of syntax. 
 
 ### _Sidebar.md
 
-This is your menu, Navegação pane on the left side of the website. Once you have added a markdown file to your repository you need to add the file here so that its contents are included. Follow the existing formatting.
+This is your menu, navigation pane on the left side of the website. Once you have added a markdown file to your repository you need to add the file here so that its contents are included. Follow the existing formatting.
 
 
 ## Enable Github Pages to turn the Repository into a Website
@@ -80,7 +80,7 @@ This is your menu, Navegação pane on the left side of the website. Once you ha
 3. Change these to the fonts you want to use
 
 
-## UCanto Fontawesome and/or Material Icons plugin to display free icons in your SRD
+## Using Fontawesome and/or Material Icons plugin to display free icons in your SRD
 
 ### Fontawesome
 
