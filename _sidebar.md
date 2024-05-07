@@ -1,8 +1,8 @@
-- [Introduction](README.md)
-- [Characters](0001_Characters.md)
-- [Cultures & Races](0002_Culture_and_Races.md)
-- [Classes](0003_Classes.md)
-- [Alinhamento & Passions](0004_Alignment_and_Passions.md)
+- [Introdução](README.md) <span style="color:green">✔</span>
+- [Personagens](0001_Characters.md) <span style="color:green">✔</span>
+- [Cultura & Raças](0002_Culture_and_Races.md) <span style="color:green">✔</span>
+- [Classes](0003_Classes.md) <span style="color:red">▶ ~15%</span>
+- [Alignment & Passions](0004_Alignment_and_Passions.md)
 - [Skills](0005_Skills.md)
 - [Money & Equipment](0006_Money_and_Equipment.md)
 - [Game System](0007_Game_System.md)
