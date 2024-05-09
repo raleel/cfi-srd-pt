@@ -14,8 +14,6 @@
 
 ---
 
-### Links
-
 - [Mythras Imperative SRD](https://srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
 - [BRP UGE SRD (alternativo)](https://bruge.us/rules/srd/)
