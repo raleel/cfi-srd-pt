@@ -141,7 +141,7 @@ Hiding out of plain sight or moving with minimal sound are covered by the Furtiv
 
 Without development, the ability to Natação is limited to being able to thrash around and keep one's head above the water for a short time. Higher Natação percentages indicate being able to negotiate deeper and stronger waters, with less risk of drowning. Making a Natação roll thus depends entirely on the conditions. Rough seas, strong currents, white water, and rip tides all reduce the grade of the skill no matter what the character's affinity for water might be. See the [Movimento](0008_Combat.md?id=Movimento) section for more information on Nataçãoming, including calculating Natação speeds.
 
-#### Unarmed (STR+DEX)
+#### Desarmado (STR+DEX)
 
 Unarmed is a universal Combat Skill common to all characters, measuring the ability to defend oneself without the aid of weapons. The Unarmed skill covers the brawling and wrestling techniques known by that culture.
 
@@ -160,11 +160,11 @@ Perícias Profissionais differ between characters and represent more specialized
 
 Certain magical skills are also classed as Perícias Profissionais: Channeling and Devotion are the two skills associated with Divine magic for example. These are only briefly described here. For more details refer to the relevant section of the [Magic](0009_Magic.md) chapter.
 
-#### Acting (CHA x2)
+#### Atuação (CHA x2)
 
 Acting governs the art of being able to impersonate and convey a completely different character, whether in a staged performance or in a social situation. The actor portrays a personality and mannerisms different to his own in a convincing manner. Coupled with the Disguise and Dissimulação skills, this is a powerful way of becoming someone else entirely.
 
-#### Acrobatics (STR+DEX)
+#### Acrobatismo (STR+DEX)
 
 Acrobatics covers acts of balance, gymnastics, juggling, and tumbling. The skill can be used to impress an audience, but also to help mitigate damage from falls. With a successful roll, a character can move at full speed and sure-footedly across an unstable or narrow surface. If trying to mitigate damage from an unexpected fall, a successful Acrobatics roll halves any damage sustained. In addition, if the roll is successful and the character does not suffer a Serious or Major Wound due to the fall, the character lands relatively safely and is not prone.
 
@@ -176,26 +176,26 @@ Acrobatics also serves as the basis for the Rogue's Rank 1 [Vaulting](0003_Class
 
 This skill serves several functions, including attempting to calm a hostile animal or training a domestic animal in certain tricks, such as teaching a dog to sit, fetch, stay, or heel; horses may be broken to a Montariar and so on. If used to attempt to calm a wild or hostile animal, a success will Condução it off. If it is hungry or has young present however, this roll is two grades more difficult. Offering a hungry animal food may make the roll one or two Difficulty Grades easier or may make the animal start following the character to get more, depending on the circumstances.
 
-#### Arcane Casting (INT+POW)
+#### Conjuração Arcana (INT+POW)
 
 Arcane Casting is a magical skill essential to Arcane Magic. It is the magic-user's ability to successfully cast spells previously memorized from a spell book or scroll. It also represents the caster finding the correct mental state to cast a spell, accompanying gestures and incantations and so on. IncreaCanto competence in this skill also improves the final Intensity of any spells cast with it.
 
-#### Arcane Knowledge (INT x2)
+#### Conhecimento Arcano (INT x2)
 
 Like Arcane Casting, this magical skill is essential to Arcane Magic. It represents a mage's actual accumulated spell knowledge, and is used when attempting to learn new spells, copy them into a spell book, create scrolls, identify a spell as it is being cast, and so on. It also determines the number of starting spells the caster may have - covered in more detail in the Mage class's [Rank Structure](0003_Classes.md?id=rank-structure-2) section.
 
 
 Arcane Knowledge is not only limited to Arcane casters. It may be adopted by those who simply wish to study the esoteric even if they do not actively practice Arcane Magic.
 
-#### Art (POW+CHA)
+#### Arte (POW+CHA)
 
 There are many specific art forms. Painting to poetry; literature to sculpture. A character chooses an Art specialization when taking this skill - e.g. Art (Painting). Subsequent Art forms are advanced separately. A roll is made whenever a character must impress or convince through his artistic medium.
 
-#### Bureaucracy (INT x2)
+#### Burocracia (INT x2)
 
 Understanding administrative procedures, records, and unspoken conventions are covered by the Bureaucracy skill. It is used to interact with officials or discover pertinent civic information. Depending on the sophistication of their culture, bureaucrats need not necessarily be Alfabetizado. However, their Bureaucracy skill cannot exceed the score of the Idioma or Literacy skill in which they work. Whenever red-tape or administrative landscapes need to be Navegaçãod, a Bureaucracy roll is necessary.
 
-#### Channel (INT+CHA)
+#### Canalisar (INT+CHA)
 
 Channel is the magical skill used to call upon and conduct the power of the gods. IncreaCanto competence in this skill also improves the final Intensity of any spells cast with it.
 
@@ -203,7 +203,7 @@ Channel is the magical skill used to call upon and conduct the power of the gods
 
 Comércio is used to evaluate the worth of goods and commodities and to trade them for the best possible price. It is also used to understand the intricacies of business transactions in addition to securing a profit. A further use is in finding the best way to dispose of stolen and illicit goods – again for the best possible price. Comércio is obviously used when trading and it can be Opposed by either an opponent's Comércio skill or Força de Vontade, reflecting the oppoCanto side's attempts to further the deal in their favor. It is also used to judge the market value of goods, gaining an idea of price, and where it will be best traded.
 
-#### Courtesy (INT+CHA)
+#### Etiqueta (INT+CHA)
 
 This skill covers understanding how to act appropriately in a social or formal situation: modes of address, rituals, and conventions of behavior, and so forth. It includes everything from who to bow to and when, to how low; from when to use a particular title to when it is appropriate to act informally.
 
@@ -211,21 +211,21 @@ This skill covers understanding how to act appropriately in a social or formal s
 
 Each Ofício is a specialized form, e.g. Ofício (Pottery), and there are as many Ofícios as there are professions for them. Like Art, Ofício is used to create the subject item. How long it takes depends entirely on the nature of the product: weaving a rug takes longer than throwing a pot, for instance, but time is not necessarily the most important factor: it is the skill of the Ofícioer, the quality of the resources and attention to detail.
 
-#### Culture (INT x2)
+#### Cultura (INT x2)
 
 Culture is the more specific form of the Standard Skill of Customs, relating instead to societies foreign to the character's own. Each Culture skill must be given a particular nation or society to which it applies. Mechanically it works in the same way as the Customs skill.
 
-#### Devotion (POW+CHA)
+#### Devoção (POW+CHA)
 
 Devotion is a magical skill which reflects the commitment of a cleric to the service of a deity. It not only measures the depth of devotion to a god, but also governs the Magnitude of any Divine spells called upon by the character. Additionally, the skill can indicate the standing of a Divine caster within a religious organization.
 
 Devotion is not only limited to Divine casters. It may be adopted by those who simply wish to show respect to the gods even if they do not actively practice Divine magic.
 
-#### Disguise (INT+CHA)
+#### Disfarce (INT+CHA)
 
 Effecting a convincing disguise, uCanto appropriate materials (costumes, cosmetics, wigs, or hairpieces), is covered by the Disguise skill. Creating the disguise requires time and attention to detail, as well as access to the right materials to make it convincing. If some, or all, of these elements are not present then the Disguise roll's Difficulty Grade is made one or more steps harder.
 
-#### Engineering (INT x2)
+#### Engenharia (INT x2)
 
 The design and building of large-scale structures, from houses to bridges, gates to siege engines, is in the remit of the Engineering skill. Rolls are necessary when planning large-scale projects to ensure correct construction but are also made when an engineer wants to assess a structure's integrity for whatever reason (state of repair or weak spots, for example).
 
@@ -237,7 +237,7 @@ The Gambling skill measures a character's competence in games of chance and espe
 
 Cura is the in-depth knowledge of medical procedures, based on cultural practices. In a Primitive or Barbarian culture, for instance, Cura will be based on the knowledge of herbs and natural cures. In a Civilized culture, drugs and more advanced treatments will be more common. In all cultures Cura includes the ability to set bones, suture wounds, and so forth. Obviously applying Cura requires appropriate resources, and most practicing healers will have such things at hand (needles, gut or thread for sutures, herbs for poultices, and so forth).
 
-#### Intimidation (INT+CHA)
+#### Intimidação (INT+CHA)
 
 This skill is used to threaten an individual into a course of action they would otherwise be unwilling to take. It is often used to extract information from another, or to get an opponent to back down through the threat of physical violence. Intimidation checks may be modified based on the method used, and the opponent's perceived level of danger. Intimidation is typically Opposed by the victim's Força de Vontade, however, if used with torture, Tolerância may be applicable.
 
@@ -245,7 +245,7 @@ This skill is used to threaten an individual into a course of action they would 
 
 This skill covers the speaking and comprehension of Idiomas other than the character's own. The Idioma skill is not rolled against directly but is treated as a static representation of overall fluency. Its value is used by the Games Master to limit the level of spoken interaction when the players converse with personalities in the game. Use the [Linguistic Fluency table](0005_Skills.md?id=linguistic-fluency-table) as a guideline.
 
-##### Linguistic Fluency Table
+##### Tabela de Fluência Linguística
 
 | Idioma% | Conversational Fluency |
 | :-: | :-- |
@@ -258,7 +258,7 @@ Each Idioma skill is specific to a particular racial, national, or regional Idio
 
 The Idioma skill includes literacy. Literacy does not necessarily imply writing, as there are an infinite number of ways to record information. Some cultures might carve symbols into trees or lengths of bone, whereas others record history in complex patterns of knots in a tapestry. Neither are all forms of literacy based on phonetic alphabets; hieroglyphs and ideograms also being commonplace.
 
-#### Idioma (Thieves' Cant) (INT+CHA)
+#### Idioma (Gíria de Ladrões) (INT+CHA)
 
 _(Rogues Only)_: Requires Oath to the Thieves' Guild to learn this patois at Base Level. This 'Idioma' skill consists of slang and implied meanings and is used between thieves to discuss pursuits of an illicit nature in public, without giving away information to other interested parties. This communication is limited to discussions about breaking and entering. Rogues that are long-term members of the Thieves Guild will automatically know this skill at Base Level +40%. Those that pick it up in play start at Base Level.
 
@@ -282,7 +282,7 @@ Música covers the playing of musical instruments; from a simple reed pipe to a 
 
 Whether uCanto prominent landmarks, the stars, or the varying taste of seawater, the ability to accurately direct travel is covered by the Navegação skill. Each Navegação skill covers a specific region or environment, such as Open Seas or Underground for example. It should be made during unusual journeys or when in completely unfamiliar territory.
 
-#### Oratory (POW+CHA)
+#### Oratória (POW+CHA)
 
 Oratory is the art of delivering a speech to a large group of people with the aim of conveying or swaying a point of view. It is a skill frequently used by politicians to Condução home a policy but is also used by commanders to inspire troops and impose discipline on the battlefield. Wherever mass persuasion is needed, Oratory, rather than Influência, is used.
 

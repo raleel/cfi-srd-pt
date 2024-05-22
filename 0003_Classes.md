@@ -83,389 +83,395 @@ Todos os clérigos são classificados por Níveis, que representam seu poder e h
 
 O clérigo conhece todas as seguintes Habilidades no Nível 1. Além disso, durante a criação do personagem, você pode escolher uma Habilidade de Nível 1 gratuitamente, desde que atenda aos seus requisitos.
 
-- **Spellcaster:** Clerics are masters of Divine magic, able to cast spells of Cura, defense, and protection to aid their allies. However, they are not without powerful offensive spells to smite those that stand against their ideals. Unlike magic-users, clerics require no spell book, having access to all spells of their Rank or below. Casting spells requires 1 or more Cast Magic Actions consisting of a few brief prayers, somatic gestures with their holy symbol, and a successful Channel roll. The number of spells of their current Rank a cleric may have in memory is found on the [Cleric Rank Table](0003_Classes.md?id=cleric-rank-table) above under Spells in Memory.
-- **Starting Spells:** A cleric begins with access to all Rank 0 cleric spells and all others of their Rank or less. See the [Cleric Spell List](0003_Classes.md?id=cleric-spell-list). They do not actually know them, like a magic-user 'knows' spells, but may pray for any of them when chooCanto which spells to memorize. The number of spells the cleric may memorize at each Rank is found on the cleric's Rank Table above. See [Memorizing Spells](0009_Magic.md?id=memorizing-spells) for more details.
-- **Turn Undead:** Clerics may turn undead, driving them away by means of faith alone. [Turning Undead](0003_Classes.md?id=turning-undead) is covered in detail below.
+- **Conjurador:** Clérigos são mestres da magia divina, capazes de lançar feitiços de cura, defesa e proteção para ajudar seus aliados. No entanto, eles também possuem feitiços ofensivos poderosos para castigar aqueles que se opõem aos seus ideais. Diferente dos usuários de magia, os clérigos não precisam de um livro de feitiços, tendo acesso a todos os feitiços de seu nível ou abaixo. Lançar feitiços requer 1 ou mais Ações de Conjuração, que consistem em algumas breves orações, gestos somáticos com seu símbolo sagrado e uma rolagem bem-sucedida de Canalização. O número de feitiços de seu nível atual que um clérigo pode ter em memória é encontrado na [Tabela de Níveis do Clérigo](0003_Classes.md?id=cleric-rank-table) acima, na seção Feitiços em Memória.
 
-#### Ranked Abilities
+- **Feitiços Iniciais:** Um clérigo começa com acesso a todos os feitiços de nível 0 de clérigo e a todos os outros de seu nível ou inferiores. Veja a [Lista de Feitiços de Clérigo](0003_Classes.md?id=cleric-spell-list). Eles não conhecem esses feitiços como um usuário de magia 'conhece' feitiços, mas podem rezar por qualquer um deles ao escolher quais feitiços memorizar. O número de feitiços que o clérigo pode memorizar em cada nível é encontrado na Tabela de Níveis do Clérigo acima. Veja [Memorizando Feitiços](0009_Magic.md?id=memorizing-spells) para mais detalhes.
 
-Like the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher. You are not locked out of earlier Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a Cantole Ranked Ability may be taken per session.
+- **Afastar Mortos-Vivos:** Clérigos podem afastar mortos-vivos, expulsando-os apenas pela fé. [Afastar Mortos-Vivos](0003_Classes.md?id=turning-undead) é coberto em detalhes abaixo.
 
-#### Rank 1:
+#### Habilidades de Nível
 
-For each expenditure of 1 Experience Roll you may gain one of the following Abilities (one per session, and each Ability may only be taken once):
+Como o nome implica, Habilidades de Nível só podem ser selecionadas por um personagem de certo Nível ou superior. A maioria tem uma Habilidade Pré-requisito que deve estar em um certo nível ou superior. Você não fica impedido de escolher habilidades de níveis anteriores ao atingir um novo nível. Se você não escolheu uma Habilidade de Nível 2, por exemplo, pode escolhê-la no Nível 3 ou até mais tarde. Não mais do que uma Habilidade de Nível pode ser escolhida por sessão.
 
-- **Powerful Concentration:** Requires Devotion of 50% or higher. Força de Vontade tests to maintain Concentration regarding spells and spell casting are one grade easier.
-- **Greater Turning:** Requires Força de Vontade of 60% or higher. Turning Power may be re-rolled if desired, however the new roll must be used.
-- **Holy Smite:** Requires Devotion and Força de Vontade of 50% or higher. The cleric may increase their Damage Modifier by one grade against undead, demons, and devils. Usable once per day per Rank attained.
-- **Mental Strength I:** Requires Devotion of 60% or higher. Once per day you find it 2 grades easier to perform Força de Vontade checks when resisting any form of magic that targets the mind. This includes such powers as beguiling, charm, domination, hold, hypnosis, Magic Jar, possession, sleep, suggestion, and psionic mind blast. It has no effect on skills such as Influência or Seduction. You also find it 1 grade easier to Disbelieve illusions and phantasms. In the case of elves, this does not stack with their resistance to Sleep and Charm, but it does broaden their ability to resist additional effects.
-- **Weapon Precision:** You are adept at uCanto small, Ocultaçãoable, weapons that do not require a lot of strength, subtly and effectively. This allows you to calculate Damage Modifier with these weapons based on STR+DEX instead of STR+SIZ if it would generate a better result. The Damage Modifier cannot exceed weapons normal damage die. For example, a dagger with a damage of 1d4+1, would be limited to a Damage Modifier of +1d4, making it 1d4+1+1d4. This covers clubs, daggers, garrotes, knives, shortswords, main gauche, and rapiers, as well as unarmed attacks. Darts, slings, short bows, and javelins fall into this category as well.
+#### Nível 1:
 
-#### Rank 2:
+Para cada gasto de 1 Rolagem de Experiência, você pode ganhar uma das seguintes Habilidades (uma por sessão, e cada Habilidade só pode ser escolhida uma vez):
 
-For each expenditure of 2 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+- **Concentração Poderosa:** Requer Devoção de 50% ou superior. Testes de Força de Vontade para manter a Concentração em relação a feitiços e conjuração de feitiços são uma categoria mais fáceis.
+- **Afastamento Superior:** Requer Força de Vontade de 60% ou superior. O Poder de Afastamento pode ser re-rolado se desejado, no entanto, a nova rolagem deve ser usada.
+- **Golpe Sagrado:** Requer Devoção e Força de Vontade de 50% ou superior. O clérigo pode aumentar seu Modificador de Dano em uma categoria contra mortos-vivos, demônios e diabos. Usável uma vez por dia por Nível alcançado.
+- **Força Mental I:** Requer Devoção de 60% ou superior. Uma vez por dia, você encontra duas categorias mais fácil realizar testes de Força de Vontade ao resistir a qualquer forma de magia que tenha como alvo a mente. Isso inclui poderes como enfeitiçar, encanto, dominação, controle, hipnose, Jarro Mágico, possessão, sono, sugestão e explosão psíquica mental. Não tem efeito em habilidades como Influência ou Sedução. Você também encontra uma categoria mais fácil Desacreditar ilusões e fantasmas. No caso dos elfos, isso não se acumula com a resistência a Sono e Encanto, mas amplia sua capacidade de resistir a efeitos adicionais.
+- **Precisão com Armas:** Você é habilidoso no uso de armas pequenas e ocultáveis, que não exigem muita força, de forma sutil e eficaz. Isso permite calcular o Modificador de Dano com essas armas baseado em FOR+DES em vez de FOR+TAM, se isso gerar um resultado melhor. O Modificador de Dano não pode exceder o dado de dano normal das armas. Por exemplo, uma adaga com dano de 1d4+1, seria limitada a um Modificador de Dano de +1d4, tornando-se 1d4+1+1d4. Isso cobre clubes, adagas, garrotes, facas, espadas curtas, main gauche e rapiers, assim como ataques desarmados. Dardos, fundas, arcos curtos e dardos também entram nessa categoria.
 
-- **Characteristic Increase:** You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Defensive Reflexes I:** Defensive Reflexes requires you to be Unburdened (Less 'Things' carried than STR), wearing nothing more restrictive than light armor. Once per combat you may re-roll a Failed Parry or Evasão roll without spending a Luck Point.
-- **Extra Turning:** Requires Devotion and Força de Vontade of 80% or higher. The cleric may double the number of times between rests that they may Turn. Twice at Rank 1, four times at Rank 3, and six times at Rank 5.
-- **Mental Strength II:** Requires Mental Strength I and Devotion of 80% or higher. As per Mental Strength I, but usable twice per day.
-- **Ranged Touch (X):** Requires Força de Vontade of 80% or higher. This Ability allows the caster to give a spell with a Range of "Touch," a Range of 30 feet instead. The spell is considered one Rank higher with regards to memorization and should be noted as ranged when memorized. For example, Cure Minor Wounds (Ranged) would count as a Rank 2 spell.
+#### Nível 2:
 
-#### Rank 3:
+Para cada gasto de 2 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma só pode ser escolhida uma vez):
 
-For each expenditure of 3 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Reflexos Defensivos I:** Reflexos Defensivos requerem que você esteja Desimpedido (Menos 'Coisas' carregadas do que FOR), vestindo nada mais restritivo do que armadura leve. Uma vez por combate, você pode re-rolar uma Parada ou Evasão falhada sem gastar um Ponto de Sorte.
+- **Afastamento Extra:** Requer Devoção e Força de Vontade de 80% ou superior. O clérigo pode dobrar o número de vezes entre descansos que pode Afastar. Duas vezes no Nível 1, quatro vezes no Nível 3 e seis vezes no Nível 5.
 
-- **Characteristic Increase:** You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Improved Holy Smite:** Requires Holy Smite, as well as Devotion and Força de Vontade of 90% or higher. Holy Smite's Damage Modifier is now increased by two grades against undead, demons, and devils.
-- **Mental Strength III:** Requires Mental Strength II and Devotion of 100% or higher. As per Mental Strength I, but usable three times per day.
+Nível 1, quatro vezes no Nível 3 e seis vezes no Nível 5.
 
-#### Rank 4:
+- **Força Mental II:** Requer Força Mental I e Devoção de 80% ou superior. Conforme Força Mental I, mas utilizável duas vezes por dia.
+- **Toque à Distância (X):** Requer Força de Vontade de 80% ou superior. Esta Habilidade permite ao conjurador dar a um feitiço com Alcance "Toque" um Alcance de 30 pés. O feitiço é considerado um Nível superior em relação à memorização e deve ser anotado como à distância quando memorizado. Por exemplo, Curar Ferimentos Menores (À Distância) contaria como um feitiço de Nível 2.
 
-For each expenditure of 4 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+#### Nível 3:
 
-- **Characteristic Increase:** You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Defensive Reflexes II:** Requires Defensive Reflexes I. As per Defensive Reflexes, however you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once, however.
-- **Mental Strength IV:** Requires Mental Strength III and Oath or Devotion of 120% or higher. As per Mental Strength I, but usable four times per day.
+Para cada gasto de 3 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma só pode ser escolhida uma vez):
 
-#### Rank 5:
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Golpe Sagrado Melhorado:** Requer Golpe Sagrado, bem como Devoção e Força de Vontade de 90% ou superior. O Modificador de Dano do Golpe Sagrado agora é aumentado por duas categorias contra mortos-vivos, demônios e diabos.
+- **Força Mental III:** Requer Força Mental II e Devoção de 100% ou superior. Conforme Força Mental I, mas utilizável três vezes por dia.
 
-For each expenditure of 5 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+#### Nível 4:
 
-- **Characteristic Increase:** You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Greater Holy Smite:** Requires Improved Holy Smite, as well as Devotion and Força de Vontade of 130% or higher. Holy Smite's Damage Modifier is now increased by four grades against undead, demons, and devils!
-- **Mental Strength V:** Requires Mental Strength IV and Oath or Devotion of 140% or higher. As per Mental Strength I, but usable five times per day.
+Para cada gasto de 4 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma só pode ser escolhida uma vez):
 
-### Cleric's Basic Starting Equipment
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Reflexos Defensivos II:** Requer Reflexos Defensivos I. Conforme Reflexos Defensivos, mas agora você pode usar esta Habilidade duas vezes no mesmo combate. No entanto, você não pode re-rolar contra o mesmo ataque mais de uma vez.
+- **Força Mental IV:** Requer Força Mental III e Juramento ou Devoção de 120% ou superior. Conforme Força Mental I, mas utilizável quatro vezes por dia.
 
-Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise noted.
+#### Nível 5:
 
-- Mace
-- Heater shield (counts as 2 Things)
-- Light crossbow
-- Quiver with 20 crossbow bolts
-- Full set of scale armor, 4 Armor Points (0 Things when worn, 7 Things if carried)
-- Wooden holy symbol of deity (½ a Thing)
-- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, 2 six-hour torches (5½ Things contained)
-- Belt pouch with 1d4 gold pieces
+Para cada gasto de 5 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma só pode ser escolhida uma vez):
 
-Total ENC 7½ Things
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Golpe Sagrado Maior:** Requer Golpe Sagrado Melhorado, bem como Devoção e Força de Vontade de 130% ou superior. O Modificador de Dano do Golpe Sagrado agora é aumentado por quatro categorias contra mortos-vivos, demônios e diabos!
+- **Força Mental V:** Requer Força Mental IV e Juramento ou Devoção de 140% ou superior. Conforme Força Mental I, mas utilizável cinco vezes por dia.
 
-_\* Contents count toward the backpack's contents as its volume is increased._
+### Equipamento Básico Inicial do Clérigo
 
-_\*\* Counts as ½ a Thing._
+Cada item da lista conta como 1 'Coisa' para fins de Carga, a menos que seja indicado de outra forma.
 
-### Turning Undead
+- Maça
+- Escudo heater (conta como 2 Coisas)
+- Besta leve
+- Aljava com 20 virotes de besta
+- Conjunto completo de armadura de escamas, 4 Pontos de Armadura (0 Coisas quando vestida, 7 Coisas se carregada)
+- Símbolo sagrado de madeira da divindade (½ Coisa)
+- Mochila (capacidade de 10 Coisas); cantil, rações de viagem para uma semana, saco pequeno vazio\*, pederneira e isqueiro\*\*, 2 tochas de seis horas (5½ Coisas contidas)
+- Pochete com 1d4 peças de ouro
 
-Clerics of any Alinhamento may attempt to Turn any undead within 30 feet. Evil clerics may choose to control undead instead, if desired. You may attempt to Turn Undead once at Rank 1, twice at Rank 3, and three times at Rank 5. You regain all uses of Turn after a Short Rest of at least 1 hour.
+Total de Carga: 7½ Coisas
 
-_For example, Alexandra is a Rank 4 cleric. She can attempt to turn two times during an encounter, and if she rests at least an hour after, will regain both uses._
+_\* Os conteúdos contam para a capacidade da mochila à medida que seu volume é aumentado._
 
-**Turning Power:** A cleric's Turning Power modifies the total Intensity of undead who are successfully Turned. This is equal to 1d6+2, +2 per additional Rank beyond 1, and should be noted on the Character Sheet, as the character uses it whenever succeeding at a Turn attempt.
+_\*\* Conta como ½ Coisa._
 
-_For example, at Rank 2, Alexandra has a Turning Power of 1d6+4_
+### Afastar Mortos-Vivos
 
-To attempt a Turning requires an Opposed skill test uCanto Channel skill vs. the relevant creature with the highest Força de Vontade within the Area of Effect. The degree of success determines the effects of the attempt.
+Clérigos de qualquer Alinhamento podem tentar Afastar qualquer morto-vivo dentro de 30 pés. Clérigos malignos podem optar por controlar os mortos-vivos, se desejarem. Você pode tentar Afastar Mortos-Vivos uma vez no Nível 1, duas vezes no Nível 3 e três vezes no Nível 5. Você recupera todas as tentativas de Afastar após um Descanso Curto de pelo menos 1 hora.
 
-Evil clerics may command their Turning Power in Intensity of undead. This effect allows the cleric to issue commands to the undead but does not make them subservient unless they roll a Critical Success and choose Enslave - see below. Those with the lowest Intensity are always affected first. This has no effect on Intensity 7 or higher undead. An evil cleric may use this to bring previously turned non-sapient undead under their control once again.
+_Por exemplo, Alexandra é uma clériga de Nível 4. Ela pode tentar afastar duas vezes durante um encontro e, se descansar pelo menos uma hora depois, recuperará ambas as tentativas._
 
-- **Critical Success:**  Twice your Turning Power in Intensity undead are affected. If your Rank is twice the Intensity (or more) of a non-sapient undead creature, you destroy outright any that you would normally Turn.
-  - Evil clerics may instead command twice their Turning Power in Intensity of undead for 12 Rounds (1 minute). As undead are typically of the same mindset as an evil cleric, this effect allows the character to issue commands to the undead. It does not make them subservient, as with Enslave below, and sapient undead will not needlessly throw away their unlife. Those with the lowest Intensity are always affected first. This has no effect on Intensity 7 or higher undead. An evil cleric may use this to bring previously turned non-sapient undead under control once again.
-  - Alternately, an evil cleric scoring a Critical Success may Enslave their Turning Power in Intensity of undead, enslaving them to their control. Enslaved undead are completely subservient to the cleric until their control is somehow broken. Those with the lowest Intensity are always enslaved first. This has no effect on Intensity 7 or higher undead. An evil cleric may use this to bring previously turned undead under control once again.
-- **Success:**  Your Turning Power in Intensity of undead are affected, starting with those of the lowest Intensity first. If insufficient Turning Power is rolled to affect anything, then nothing is turned during this attempt. The cleric repulses those affected, which must move and stay at least 20 feet away for 12 Rounds (1 Minute). The affected cannot attack any members of the cleric's party who remain within the Area of Effect unless the affected are forced within 10 feet of the party. Those that cannot move the full distance due to intervening terrain cower (any Attack rolls against them are one Difficulty Grade easier). Approaching within 10 feet of the affected causes the undead to overcome being Turned and act normally. Ranged attacks no closer than 10 feet do not break the Turning effect; however, such attacks on a sapient undead will break the effects of the Turn, allowing the creature to react normally. Sapient creatures, once Turned, are allowed a Hard Força de Vontade roll each Round to try to break the effect; however, sapient creatures likely voluntarily flee the area and return only when they again have the advantage. If the cleric's Rank is twice the Intensity (or more) of a non-sapient undead creature, the cleric destroys outright any that they would normally Turn.
-  - An evil cleric may command their Turning Power in Intensity of undead creatures, bringing them under their control. This effect allows the cleric to issue commands to the undead. It does not make them subservient, as with a Critical, and sapient undead will not needlessly throw away their unlife. Those with the lowest Intensity are always affected first. This has no effect on Intensity 7 or higher undead. An evil cleric may use this to bring previously turned non-sapient undead under their control once again.
-- **Failure:**  No undead are Turned.
-- **Fumble:**  Not only did you fail to Turn anything, but you have drawn the attention of several undead equal to twice your Turning Power in Intensity. These entities target you specifically, with lowest Intensity entities provoked first.
+**Poder de Afastamento:** O Poder de Afastamento de um clérigo modifica a Intensidade total dos mortos-vivos que são afastados com sucesso. Isso é igual a 1d6+2, +2 por Nível adicional acima de 1, e deve ser anotado na Ficha de Personagem, pois o personagem o utiliza sempre que tiver sucesso em uma tentativa de Afastar.
 
-### Cleric Spell List
+_Por exemplo, no Nível 2, Alexandra tem um Poder de Afastamento de 1d6+4._
 
-| Rank 0 | Rank 1 | Rank 2 | Rank 3 | Rank 4 | Rank 5 |
+Tentar um Afastamento requer um teste de habilidade Oposto usando a habilidade Canalizar contra a criatura relevante com a maior Força de Vontade dentro da Área de Efeito. O grau de sucesso determina os efeitos da tentativa.
+
+Clérigos malignos podem comandar sua Intensidade de Poder de Afastamento em mortos-vivos. Esse efeito permite que o clérigo emita comandos aos mortos-vivos, mas não os torna subservientes, a menos que rolem um Sucesso Crítico e escolham Escravizar - veja abaixo. Aqueles com a menor Intensidade são sempre afetados primeiro. Isso não tem efeito em mortos-vivos de Intensidade 7 ou superior. Um clérigo maligno pode usar isso para trazer novamente sob seu controle mortos-vivos não-sencientes previamente afastados.
+
+- **Sucesso Crítico:** Mortos-vivos com Intensidade igual ao dobro do seu Poder de Afastamento são afetados. Se seu Nível for o dobro (ou mais) da Intensidade de uma criatura morta-viva não-senciente, você destrói imediatamente qualquer uma que normalmente afastaria.
+  - Clérigos malignos podem, alternativamente, comandar mortos-vivos com Intensidade igual ao dobro do seu Poder de Afastamento por 12 Rodadas (1 minuto). Como os mortos-vivos normalmente têm a mesma mentalidade de um clérigo maligno, esse efeito permite que o personagem emita comandos aos mortos-vivos. Isso não os torna subservientes, como com a Escravização abaixo, e mortos-vivos sencientes não desperdiçarão sua existência inutilmente. Aqueles com a menor Intensidade são sempre afetados primeiro. Isso não tem efeito em mortos-vivos de Intensidade 7 ou superior. Um clérigo maligno pode usar isso para trazer novamente sob seu controle mortos-vivos não-sencientes previamente afastados.
+  - Alternativamente, um clérigo maligno que obtenha um Sucesso Crítico pode Escravizar mortos-vivos com Intensidade igual ao seu Poder de Afastamento, escravizando-os ao seu controle. Mortos-vivos escravizados são completamente subservientes ao clérigo até que seu controle seja de alguma forma quebrado. Aqueles com a menor Intensidade são sempre escravizados primeiro. Isso não tem efeito em mortos-vivos de Intensidade 7 ou superior. Um clérigo maligno pode usar isso para trazer novamente sob seu controle mortos-vivos previamente afastados.
+- **Sucesso:** Mortos-vivos com Intensidade igual ao seu Poder de Afastamento são afetados, começando pelos de menor Intensidade. Se o Poder de Afastamento rolado for insuficiente para afetar qualquer coisa, então nada é afastado durante essa tentativa. O clérigo repele os afetados, que devem se mover e permanecer a pelo menos 20 pés de distância por 12 Rodadas (1 Minuto). Os afetados não podem atacar nenhum membro do grupo do clérigo que permaneça dentro da Área de Efeito, a menos que sejam forçados a menos de 10 pés do grupo. Aqueles que não podem se mover a distância total devido ao terreno circundante ficam acuados (qualquer teste de Ataque contra eles é uma Categoria de Dificuldade mais fácil). Aproximar-se a menos de 10 pés dos afetados faz com que os mortos-vivos superem o Afastamento e ajam normalmente. Ataques à distância a mais de 10 pés não quebram o efeito do Afastamento; no entanto, tais ataques contra um morto-vivo senciente quebrarão o efeito do Afastamento, permitindo que a criatura reaja normalmente. Criaturas sencientes, uma vez Afastadas, têm direito a um teste de Força de Vontade Difícil a cada Rodada para tentar quebrar o efeito; no entanto, é provável que criaturas sencientes fujam voluntariamente da área e retornem apenas quando tiverem novamente a vantagem. Se o Nível do clérigo for o dobro (ou mais) da Intensidade de uma criatura morta-viva não-senciente, o clérigo destrói imediatamente qualquer uma que normalmente afastaria.
+  - Um clérigo maligno pode comandar criaturas mortas-vivas com Intensidade igual ao seu Poder de Afastamento, trazendo-as sob seu controle. Esse efeito permite que o clérigo emita comandos aos mortos-vivos. Isso não os torna subservientes, como com um Sucesso Crítico, e mortos-vivos sencientes não desperdiçarão sua existência inutilmente. Aqueles com a menor Intensidade são sempre afetados primeiro. Isso não tem efeito em mortos-vivos de Intensidade 7 ou superior. Um clérigo maligno pode usar isso para trazer novamente sob seu controle mortos-vivos não-sencientes previamente afastados.
+- **Falha:** Nenhum morto-vivo é Afastado.
+- **Falha Crítica:** Você não apenas falhou em Afastar qualquer coisa, mas também atraiu a atenção de vários mortos-vivos com Intensidade igual ao dobro do seu Poder de Afastamento. Essas entidades te atacam especificamente, com as entidades de menor Intensidade sendo provocadas primeiro.
+
+### Lista de Feitiços do Clérigo
+
+| Nível 0 | Nível 1 | Nível 2 | Nível 3 | Nível 4 | Nível 5 |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Avert](0010_Spells.md?id=avert) | [Bless \(R\)](0010_Spells.md?id=bless-r) | [Augury](0010_Spells.md?id=augury) | [Cure Major Wounds \(R\)](0010_Spells.md?id=cure-major-wounds-r) | [Blade Barrier](0010_Spells.md?id=blade-barrier) | [Astral Spell](0010_Spells.md?id=astral-spell) |
-| [Befuddle](0010_Spells.md?id=befuddle) | [Command](0010_Spells.md?id=command) | [Chant](0010_Spells.md?id=chant) | [Divination](0010_Spells.md?id=divination) | [Confusion](0010_Spells.md?id=confusion) | [Control Weather](0010_Spells.md?id=control-weather) |
-| [Calm](0010_Spells.md?id=calm) | [Create Food and Water](0010_Spells.md?id=create-food-and-water) | [Continual Light](0010_Spells.md?id=continual-light) | [Exorcism](0010_Spells.md?id=exorcism) | [Heal \(R\)](0010_Spells.md?id=heal-r) | [Earthquake](0010_Spells.md?id=earthquake) |
-| [Coordination](0010_Spells.md?id=coordination) | [Cure Fatigue \(R\)](0010_Spells.md?id=cure-fatigue-r) | [Cure Disease \(R\)](0010_Spells.md?id=cure-disease-r) | [Free Action](0010_Spells.md?id=free-action) | [Part Water](0010_Spells.md?id=part-water) | [Gate](0010_Spells.md?id=gate) |
-| [Deflect](0010_Spells.md?id=deflect) | [Cure Minor Wounds \(R\)](0010_Spells.md?id=cure-minor-wounds-r) | [Cure Serious Wounds \(R\)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralize Poison \(R\)](0010_Spells.md?id=neutralize-poison-r) | [Regenerate \(R\)](0010_Spells.md?id=regenerate-r) | [Holy Word \(R\)](0010_Spells.md?id=holy-word-r) |
-| [Ironhand](0010_Spells.md?id=ironhand) | [Detect Charm \(R\)](0010_Spells.md?id=detect-charm-r) | [Detect Lie \(R\)](0010_Spells.md?id=detect-lie-r) | [Plane Shift](0010_Spells.md?id=plane-shift) | [Speak with Monsters](0010_Spells.md?id=speak-with-monsters) | [Resurrection \(R\)](0010_Spells.md?id=resurrection-r) |
-| [Might](0010_Spells.md?id=might) | [Detect Evil \(R\)](0010_Spells.md?id=detect-evil-r) | [Dispel Magic](0010_Spells.md?id=dispel-magic) | [Prayer](0010_Spells.md?id=prayer) | [Word of Recall](0010_Spells.md?id=word-of-recall) | [Sun Ray](0010_Spells.md?id=sun-ray) |
-| [Polish](0010_Spells.md?id=polish) | [Detect Magic](0010_Spells.md?id=detect-magic) | [Flame Strike](0010_Spells.md?id=flame-strike) | [Protection from Evil 10-foot Radius \(R\)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
-| [Preserve](0010_Spells.md?id=preserve) | [Endure Heat/Cold](0010_Spells.md?id=endure-heat-cold) | [Hold Person](0010_Spells.md?id=hold-person) | [Protection from Lightning](0010_Spells.md?id=protection-from-lightning) |
-| [Protection](0010_Spells.md?id=protection) | [Know Alinhamento \(R\)](0010_Spells.md?id=know-Alinhamento-r) | [Locate Object \(R\)](0010_Spells.md?id=locate-object-r) | [Raise Dead \(R\)](0010_Spells.md?id=raise-dead-r) |
-| [Repair](0010_Spells.md?id=repair) | [Light \(R\)](0010_Spells.md?id=light-r) | [Protection from Cold](0010_Spells.md?id=protection-from-cold) | [Restoration](0010_Spells.md?id=restoration) |
-| [Spiritshield](0010_Spells.md?id=spiritshield) | [Predict Weather](0010_Spells.md?id=predict-weather) | [Protection from Fire](0010_Spells.md?id=protection-from-fire) | [True Seeing](0010_Spells.md?id=true-seeing) |
-| [Voice](0010_Spells.md?id=voice) | [Protection from Evil \(R\)](0010_Spells.md?id=protection-from-evil-r) | [Remove Curse \(R\)](0010_Spells.md?id=remove-curse-r) | [Wall of Fire/Circle of Fire](0010_Spells.md?id=wall-of-firecircle-of-fire) |
-| | [Purify Food and Drink \(R\)](0010_Spells.md?id=purify-food-and-drink-r) | [Silence](0010_Spells.md?id=silence) |
-| | [Remove Fear \(R\)](0010_Spells.md?id=remove-fear-r) | [Spiritual Hammer](0010_Spells.md?id=spiritual-hammer) |
-| | [Slow Poison](0010_Spells.md?id=slow-poison) | [Water Breathing \(R\)](0010_Spells.md?id=water-breathing-r) |
+| [Afastar](0010_Spells.md?id=avert) | [Abençoar (R)](0010_Spells.md?id=bless-r) | [Augúrio](0010_Spells.md?id=augury) | [Curar Ferimentos Graves (R)](0010_Spells.md?id=cure-major-wounds-r) | [Barreira de Lâminas](0010_Spells.md?id=blade-barrier) | [Feitiço Astral](0010_Spells.md?id=astral-spell) |
+| [Confundir](0010_Spells.md?id=befuddle) | [Comando](0010_Spells.md?id=command) | [Cântico](0010_Spells.md?id=chant) | [Adivinhação](0010_Spells.md?id=divination) | [Confusão](0010_Spells.md?id=confusion) | [Controlar o Clima](0010_Spells.md?id=control-weather) |
+| [Acalmar](0010_Spells.md?id=calm) | [Criar Comida e Água](0010_Spells.md?id=create-food-and-water) | [Luz Contínua](0010_Spells.md?id=continual-light) | [Exorcismo](0010_Spells.md?id=exorcism) | [Curar (R)](0010_Spells.md?id=heal-r) | [Terremoto](0010_Spells.md?id=earthquake) |
+| [Coordenação](0010_Spells.md?id=coordination) | [Curar Fadiga (R)](0010_Spells.md?id=cure-fatigue-r) | [Curar Doença (R)](0010_Spells.md?id=cure-disease-r) | [Ação Livre](0010_Spells.md?id=free-action) | [Separar as Águas](0010_Spells.md?id=part-water) | [Portal](0010_Spells.md?id=gate) |
+| [Desviar](0010_Spells.md?id=deflect) | [Curar Ferimentos Leves (R)](0010_Spells.md?id=cure-minor-wounds-r) | [Curar Ferimentos Graves (R)](0010_Spells.md?id=cure-serious-wounds-r) | [Neutralizar Veneno (R)](0010_Spells.md?id=neutralize-poison-r) | [Regenerar (R)](0010_Spells.md?id=regenerate-r) | [Palavra Sagrada (R)](0010_Spells.md?id=holy-word-r) |
+| [Mão de Ferro](0010_Spells.md?id=ironhand) | [Detectar Encantamento (R)](0010_Spells.md?id=detect-charm-r) | [Detectar Mentira (R)](0010_Spells.md?id=detect-lie-r) | [Mudança de Plano](0010_Spells.md?id=plane-shift) | [Falar com Monstros](0010_Spells.md?id=speak-with-monsters) | [Ressurreição (R)](0010_Spells.md?id=resurrection-r) |
+| [Força](0010_Spells.md?id=might) | [Detectar Mal (R)](0010_Spells.md?id=detect-evil-r) | [Dissipar Magia](0010_Spells.md?id=dispel-magic) | [Oração](0010_Spells.md?id=prayer) | [Palavra de Recordação](0010_Spells.md?id=word-of-recall) | [Raio de Sol](0010_Spells.md?id=sun-ray) |
+| [Polir](0010_Spells.md?id=polish) | [Detectar Magia](0010_Spells.md?id=detect-magic) | [Golpe Flamejante](0010_Spells.md?id=flame-strike) | [Proteção contra o Mal, Raio de 10 pés (R)](0010_Spells.md?id=protection-from-evil-10-foot-radius-r) |
+| [Preservar](0010_Spells.md?id=preserve) | [Suportar Calor/Frio](0010_Spells.md?id=endure-heat-cold) | [Paralisar Pessoa](0010_Spells.md?id=hold-person) | [Proteção contra Relâmpagos](0010_Spells.md?id=protection-from-lightning) |
+| [Proteção](0010_Spells.md?id=protection) | [Conhecer Alinhamento (R)](0010_Spells.md?id=know-Alinhamento-r) | [Localizar Objeto (R)](0010_Spells.md?id=locate-object-r) | [Ressuscitar os Mortos (R)](0010_Spells.md?id=raise-dead-r) |
+| [Reparar](0010_Spells.md?id=repair) | [Luz (R)](0010_Spells.md?id=light-r) | [Proteção contra o Frio](0010_Spells.md?id=protection-from-cold) | [Restauração](0010_Spells.md?id=restoration) |
+| [Escudo Espiritual](0010_Spells.md?id=spiritshield) | [Prever o Tempo](0010_Spells.md?id=predict-weather) | [Proteção contra o Fogo](0010_Spells.md?id=protection-from-fire) | [Visão Verdadeira](0010_Spells.md?id=true-seeing) |
+| [Voz](0010_Spells.md?id=voice) | [Proteção contra o Mal (R)](0010_Spells.md?id=protection-from-evil-r) | [Remover Maldição (R)](0010_Spells.md?id=remove-curse-r) | [Muralha de Fogo/Círculo de Fogo](0010_Spells.md?id=wall-of-firecircle-of-fire) |
+| | [Purificar Comida e Bebida (R)](0010_Spells.md?id=purify-food-and-drink-r) | [Silêncio](0010_Spells.md?id=silence) |
+| | [Remover Medo (R)](0010_Spells.md?id=remove-fear-r) | [Martelo Espiritual](0010_Spells.md?id=spiritual-hammer) |
+| | [Envenenamento Lento](0010_Spells.md?id=slow-poison) | [Respiração Aquática (R)](0010_Spells.md?id=water-breathing-r) |
 
-_\(R\) indicates a reversible spell._
-
+_(R) indica um feitiço reversível._
 
 
 ---
-## Fighter
+## Guerreiro
 
-Fighters are professional soldiers, mercenaries, and warriors, and the most common adventurers in the worlds of fantasy. Whether breaking down doors, wielding swords and axes with both skill and finesse, or interpoCanto themselves between the party's less martial members and the opposition, wherever you find adventure, you will find the fighter.
+Guerreiros são soldados profissionais, mercenários e combatentes, e os aventureiros mais comuns nos mundos de fantasia. Seja arrombando portas, brandindo espadas e machados com habilidade e destreza, ou interpondo-se entre os membros menos marciais do grupo e a oposição, onde quer que você encontre aventura, você encontrará o guerreiro.
 
-#### Common Species/Culture
+#### Espécie/Cultura Comum
 
-Any.
+Qualquer.
 
-#### Important Characteristic
+#### Característica Importante
 
-STR, CON, and DEX
+FOR, CON e DES
 
-#### Alinhamento/Oath Requirements
+#### Requisitos de Alinhamento/Juramento
 
-- Alinhamento: Fighters are not restricted by Alinhamento and require no Oath.
+- **Alinhamento:** Guerreiros não são restritos por Alinhamento e não requerem Juramento.
 
-See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
+Veja [Capítulo 4: Alinhamento e Paixões](0004_Alignment_and_Passions.md).
 
-#### Class Skills
+#### Habilidades da Classe
 
-- **Perícias Comuns:** Atletismo, Canoagem or Montaria, Musculatura, Combat Skill (Fighter)\*, Tolerância, Evasão, Unarmed\*
-- **Perícias Profissionais:** Ofício. (qualquer), Engineering, Gambling, Intimidation, Saber (Military History), Saber (Strategy and Tactics), Oratory, Sobrevivência or Navegação
+- **Perícias Comuns:** Atletismo, Canoagem ou Montaria, Musculatura, Habilidade de Combate (Guerreiro)\*, Tolerância, Evasão, Desarmado\*
+- **Perícias Profissionais:** Ofício (qualquer), Engenharia, Jogos de Azar, Intimidação, Conhecimento (História Militar), Conhecimento (Estratégia e Táticas), Oratória, Sobrevivência ou Navegação
 
-_\* Receives a +5 bonus from Combat Proficiency_
+_\* Recebe um bônus de +5 em Habilidade de Combate_
 
-#### Fighter Armor and Weapon Proficiency
+#### Proficiência em Armaduras e Armas do Guerreiro
 
-Fighters are proficient with all types of armor (light and heavy), and with all shields. Their Combat Skill includes the use of all basic and martial weapons.
+Guerreiros são proficientes com todos os tipos de armaduras (leves e pesadas) e com todos os escudos. Sua Habilidade de Combate inclui o uso de todas as armas básicas e marciais.
 
-### Rank Structure
+### Estrutura de Patentes
 
-All fighters are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, fighters may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached, an additional Luck Point is gained, and new Abilities may be acquired. This information is found on the [Fighter Rank Table](0003_Classes.md?id=fighter-rank-table) under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Fighter with the appropriate Ranked Abilities noted below; otherwise, you start as a Rank 0 Warrior with no current Abilities.
+Todos os guerreiros são classificados por Patente, que é uma medida de poder e habilidade. Quando um grau específico de maestria é alcançado em um número limitado de habilidades da classe, os guerreiros podem aumentar sua Patente, pois terão demonstrado o nível necessário de aptidão. Quando esse nível de aptidão é alcançado, um ponto de sorte adicional é ganho, e novas habilidades podem ser adquiridas. Esta informação pode ser encontrada na [Tabela de Patente do Guerreiro](0003_Classes.md?id=fighter-rank-table) sob Avanço. Assumindo que você atende aos pré-requisitos, seu personagem começa como um Guerreiro de Patente 1 com as Habilidades de Patente apropriadas listadas abaixo; caso contrário, você começa como um Guerreiro Trainee de Patente 0, sem habilidades atuais.
 
-##### Fighter Rank Table
+##### Tabela de Patente do Guerreiro
 
-| Rank | Title | Advancement | Hit Points | Luck Points | Action Points |
+| Patente | Título | Avanço | Pontos de Vida | Pontos de Sorte | Pontos de Ação |
 | :-: | :-- | :-- | :-: | :-: | :-: |
-| **0** | Warrior Trainee | - | 0 | +0 | +0 |
-| **1** | Warrior | Any 5 Class skills at 40% | 0 | +0 | +0 |
-| **2** | Fighter | Any 5 Class skills at 70% | +1 | +1 | +1 |
-| **3** | Hero/Heroine | Any 4 Class skills at 90% | +1 | +2 | +1 |
-| **4** | Champion | Any 3 Class skills at 110% | +2 | +3 | +2 |
-| **5** | Lord/Lady | Any 2 Class skills at 130% | +2 | +4 | +2 |
+| **0** | Guerreiro Trainee | - | 0 | +0 | +0 |
+| **1** | Guerreiro | Qualquer 5 habilidades da classe a 40% | 0 | +0 | +0 |
+| **2** | Lutador | Qualquer 5 habilidades da classe a 70% | +1 | +1 | +1 |
+| **3** | Herói/Heroína | Qualquer 4 habilidades da classe a 90% | +1 | +2 | +1 |
+| **4** | Campeão | Qualquer 3 habilidades da classe a 110% | +2 | +3 | +2 |
+| **5** | Lord/Lady | Qualquer 2 habilidades da classe a 130% | +2 | +4 | +2 |
 
-#### Starting Abilities
+#### Habilidades Iniciais
 
-The fighter knows all the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ranked Ability for free assuming you meet its requirements.
+O guerreiro conhece todas as seguintes habilidades na Patente 1. Além disso, durante a criação do personagem, você pode escolher uma habilidade de Patente 1 gratuitamente, assumindo que você atende aos seus requisitos.
 
-- **Combat Proficiency:**  Being an expert in armed combat, fighters gain a further +5% to their Combat Skill and Unarmed skill.
-- **Weapon Specialization:** Your combat training has allowed you to choose a Cantole weapon for specialization, this may be a shield as well. Weapon specialization grants benefits depending on the specific weapon selected and is summarized below.
-  - **Melee Weapon:**  You receive the following specialization benefits to a Cantole melee weapon: 
-    - Your Combat Skill is improved by +5% when uCanto your weapon of specialization. This bonus will not aid in Rank Advancement.  
-    - You gain a bonus Parry when wielding this weapon. This does not require the use of an Action Point.
-  - **Ranged Weapon:**  You receive the following specialization benefits to a Cantole Ranged Weapon:  
-    - If not surprised you may automatically fire first (before rolling for Initiative) at the beginning of combat, assuming both weapon and ammo are readied. You state your intent to fire, resolve the results, and then Initiative is rolled.  
-    - When aiming at a target within the weapon's Close Range, aiming requires 1 Turn steadying the weapon instead of a full Round, and makes the following attack 1 grade easier. Attacks made beyond Close Range follow the normal rules for aiming as found under [Ranged Combat](0008_Combat.md?id=ranged-combat) in Chapter 8. Additional Rounds spend aiming grant no further advantage.  
-    - A specialist may reduce the reload time of any mastered Ranged Weapon by 1. A weapon with 0 reload time may effectively be readied as a Free Action.
-  - **Shields:**  You receive the following specialization benefits to ALL shields:  
-    - Your Combat Skill when uCanto any shield is improved by +10%. This skill bonus will not aid in Rank Advancement.  
-    - All shields count as 1 Size category larger for the purposes of Parrying damage: Large to Huge, Huge to Enormous, and Enormous to Colossal.
+- **Proficiência em Combate:** Sendo um especialista em combate armado, os guerreiros ganham um adicional de +5% em sua Habilidade de Combate e na habilidade de Combate Desarmado.
 
-#### Ranked Abilities
+- **Especialização em Armas:** Seu treinamento em combate permitiu que você escolhesse uma arma específica para especialização, podendo ser também um escudo. A especialização em armas concede benefícios dependendo da arma selecionada e está resumida abaixo.
+  - **Arma Corpo a Corpo:** Você recebe os seguintes benefícios de especialização para uma arma corpo a corpo específica:
+    - Sua Habilidade de Combate é melhorada em +5% ao usar sua arma de especialização. Este bônus não ajudará no Avanço de Patente.
+    - Você ganha um bônus de Parry ao empunhar esta arma. Isso não requer o uso de um Ponto de Ação.
+  - **Arma à Distância:** Você recebe os seguintes benefícios de especialização para uma arma à distância específica:
+    - Se não for surpreendido, você pode automaticamente disparar primeiro (antes de rolar a Iniciativa) no início do combate, assumindo que a arma e as munições estejam preparadas. Você declara sua intenção de disparar, resolve os resultados e então rola a Iniciativa.
+    - Ao mirar em um alvo dentro do Alcance Próximo da arma, mirar requer 1 Turno para estabilizar a arma em vez de um Round completo, e torna o próximo ataque 1 grau mais fácil. Ataques feitos além do Alcance Próximo seguem as regras normais de mira conforme encontrado em [Combate à Distância](0008_Combat.md?id=ranged-combat) no Capítulo 8. Rounds adicionais de mira não concedem vantagem extra.
+    - Um especialista pode reduzir o tempo de recarga de qualquer arma à distância dominada em 1. Uma arma com tempo de recarga 0 pode ser preparada efetivamente como uma Ação Livre.
+  - **Escudos:** Você recebe os seguintes benefícios de especialização para TODOS os escudos:
+    - Sua Habilidade de Combate ao usar qualquer escudo é melhorada em +10%. Este bônus de habilidade não ajudará no Avanço de Patente.
+    - Todos os escudos contam como 1 categoria de Tamanho maior para fins de bloquear dano: Grande para Enorme, Enorme para Imenso e Imenso para Colossal.
 
-As the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher. You are not locked out of earlier Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a Cantole Ability may be taken per session.
+#### Habilidades por Patente
 
-#### Rank 1:
+Como o nome sugere, as Habilidades por Patente só podem ser selecionadas por um personagem de uma certa Patente ou superior. A maioria tem uma Habilidade Pré-requisito que deve estar em um certo nível de habilidade ou superior. Você não está bloqueado das Habilidades anteriores quando uma nova Patente é alcançada. Se você não conseguir pegar uma Habilidade de Patente 2, por exemplo, você pode pegá-la na Patente 3 ou até mesmo mais tarde. No máximo uma Habilidade específica pode ser adquirida por sessão.
 
-For each expenditure of 1 Experience Roll, you may gain one of the following Abilities (one Ability per session, each may only be taken once):
+#### Patente 1:
 
-- **Forceful Strike:**  Requires Musculatura and Combat Skill of 50% or higher. By reducing your skill by one grade on your next melee attack, you may increase your Damage Modifier by two grades.
-- **Just a Scratch:**  Requires Tolerância of 50% or higher. Once per day, after having taken take a short break of at least an hour and checking your wounds, you may regain a number of Hit Points in one Hit Location equal to your Cura Rate. Has no effect on Major Wounds.
-- **Mounted Combat:**  Requires Montaria Skill of 50% or higher. You have trained to fight from the back of a mount and may benefit from the following when mounted. Where normally the combat skills of Montariars may not exceed their Montaria skill, this stipulation does not apply to you. In addition, performing a mounted charge does not incur the one step difficulty penalty to hit. Finally, you may ignore the first penalty grade of any Montaria roll required while in combat. Note that human nomads and elven Montariars may apply the above bonuses when uCanto a short bow from the back of a mount.
-- **Second Wind:**  Requires Tolerância of 50% or higher. Once per day, after having had a chance to take a short break of at least an hour, you may instantly recover up to 3 levels of lost Fatigue over and above any regained normally.
-- **Skirmishing:**  Requires Atletismo and Combat Skill of 50% or higher. The Ability permits the launch of a ranged attack while chooCanto the Hustle Action to run (but not while sprinting). However, the attacker's attack percentage cannot exceed his Atletismo skill. The attack may take place before or after the move.
-- **Weapon Precision:**  You are adept at uCanto small, Ocultaçãoable, weapons that do not require a lot of strength, subtly and effectively. This allows you to calculate Damage Modifier with these weapons based on STR+DEX instead of STR+SIZ if it would generate a better result. The Damage Modifier cannot exceed the weapons normal damage die. For example, a dagger with a damage of 1d4+1, would be limited to a Damage Modifier of +1d4, making it 1d4+1+1d4. This covers clubs, daggers, garrotes, knives, shortswords, main gauche, and rapiers. as well as unarmed attacks. Darts, slings, short bows, and javelins fall into this category as well.
-- **Weapon Specialization:**  Requires Combat Skill of 50% or higher. You may choose another Weapon Specialization.
+Para cada gasto de 1 Rolagem de Experiência, você pode ganhar uma das seguintes Habilidades (uma Habilidade por sessão, cada uma pode ser adquirida apenas uma vez):
 
-#### Rank 2:
+- **Golpe Poderoso:** Requer Musculatura e Habilidade de Combate de 50% ou mais. Ao reduzir sua habilidade em um grau no seu próximo ataque corpo a corpo, você pode aumentar seu Modificador de Dano em dois graus.
+- **Apenas um Arranhão:** Requer Tolerância de 50% ou mais. Uma vez por dia, após fazer uma pequena pausa de pelo menos uma hora e verificar seus ferimentos, você pode recuperar um número de Pontos de Vida em uma Localização de Ferimento igual à sua Taxa de Cura. Não tem efeito em Ferimentos Graves.
+- **Combate Montado:** Requer Habilidade de Montaria de 50% ou mais. Você foi treinado para lutar montado e pode se beneficiar do seguinte quando estiver montado. Onde normalmente as habilidades de combate de montados não podem exceder sua habilidade de Montaria, essa estipulação não se aplica a você. Além disso, realizar uma carga montada não acarreta a penalidade de dificuldade de um passo para acertar. Finalmente, você pode ignorar o primeiro grau de penalidade de qualquer rolagem de Montaria exigida enquanto estiver em combate. Observe que nômades humanos e montados élficos podem aplicar os bônus acima ao usar um arco curto nas costas de uma montaria.
+- **Segundo Fôlego:** Requer Tolerância de 50% ou mais. Uma vez por dia, após fazer uma pequena pausa de pelo menos uma hora, você pode recuperar instantaneamente até 3 níveis de Fadiga perdida além dos recuperados normalmente.
+- **Escaramuça:** Requer Atletismo e Habilidade de Combate de 50% ou mais. A Habilidade permite o lançamento de um ataque à distância enquanto escolhe a Ação de Corrida (mas não enquanto estiver correndo em disparada). No entanto, a porcentagem de ataque do atacante não pode exceder sua habilidade de Atletismo. O ataque pode ocorrer antes ou depois do movimento.
+- **Precisão com Armas:** Você é habilidoso em usar armas pequenas e ocultáveis que não exigem muita força, de forma sutil e eficaz. Isso permite que você calcule o Modificador de Dano com essas armas com base em FOR+DES em vez de FOR+TAM, se isso gerar um resultado melhor. O Modificador de Dano não pode exceder o dado de dano normal da arma. Por exemplo, uma adaga com um dano de 1d4+1 seria limitada a um Modificador de Dano de +1d4, tornando-se 1d4+1+1d4. Isso abrange porretes, adagas, garrotes, facas, espadas curtas, main gauche e rapieiras, bem como ataques desarmados. Dardos, fundas, arcos curtos e dardos também se enquadram nessa categoria.
+- **Especialização em Armas:** Requer Habilidade de Combate de 50% ou mais. Você pode escolher outra Especialização em Armas.
 
-Upon reaching Rank 2, you automatically progress to Weapon Master if you meet the prerequisites.
+#### Patente 2:
 
-- **Weapon Master** (specific melee or Ranged Weapon): Requires Weapon Specialization in the chosen weapon and a Combat Skill of 70% or higher. While you may specialize in any number of weapons, you may master only one. Therefore, you may not take this Ability if you have already taken weapon mastery in any other weapon. Weapon masters double the Critical chance of their mastered weapon. In addition, the chosen melee weapon gains a 1-step improvement to Damage Modifier while a Ranged Weapon gains the same bonus against targets within Close Range.
+Ao alcançar a Patente 2, você automaticamente progride para Mestre em Armas se atender aos pré-requisitos.
 
-In addition, for each expenditure of 2 Experience Rolls, you may gain one of the following Abilities (each may only be taken once):
+- **Mestre em Armas** (arma corpo a corpo específica ou arma à distância): Requer Especialização em Armas na arma escolhida e Habilidade de Combate de 70% ou mais. Embora você possa se especializar em qualquer número de armas, pode dominar apenas uma. Portanto, você não pode adquirir essa Habilidade se já tiver a maestria em qualquer outra arma. Mestres em armas dobram a chance de crítico de sua arma dominada. Além disso, a arma corpo a corpo escolhida ganha uma melhoria de 1 passo no Modificador de Dano, enquanto uma arma à distância ganha o mesmo bônus contra alvos dentro do Alcance Próximo.
 
-- **Brute Strength:**  Once per day your Musculatura skill becomes one grade easier to perform one Action. You suffer the loss of one level of Fatigue after.
-- **Characteristic Increase:**  You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Sweeping Strike:**  Requires Forceful Strike and Combat Skill of 70% or higher. A Sweeping Strike is made by applying a Cantole melee attack roll to two targets within reach and in your line of sight. Each defender must resolve the effects of the attack separately and any Special Effects imposed by the attacker are treated as having occurred concurrently. The attacks may not sweep past a friendly unit positioned between two opponents. Only one Sweeping Strike may be made per Round.
-- **Weapon Specialization:**  Requires Combat Skill of 70% or higher. You may choose another Weapon Specialization.
+Além disso, para cada gasto de 2 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma pode ser adquirida apenas uma vez):
 
-#### Rank 3:
+- **Força Bruta:** Uma vez por dia, sua habilidade de Musculatura torna-se um grau mais fácil para realizar uma Ação. Você sofre a perda de um nível de Fadiga depois.
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Golpe Varrido:** Requer Golpe Poderoso e Habilidade de Combate de 70% ou mais. Um Golpe Varrido é realizado aplicando uma rolagem de ataque corpo a corpo específica a dois alvos ao alcance e em sua linha de visão. Cada defensor deve resolver os efeitos do ataque separadamente e quaisquer Efeitos Especiais impostos pelo atacante são tratados como ocorrendo simultaneamente. Os ataques não podem varrer além de uma unidade amiga posicionada entre dois oponentes. Apenas um Golpe Varrido pode ser realizado por Round.
+- **Especialização em Armas:** Requer Habilidade de Combate de 70% ou mais. Você pode escolher outra Especialização em Armas.
 
-Upon reaching Rank 3, you automatically progress to High Master if you meet the prerequisites.
+#### Patente 3:
 
-- **High Master:** Requires Weapon Mastery in the chosen weapon and Combat Skill of 90% or higher. A Weapon Master may now become a High Master gaining additional benefits depending on the specific weapon chosen and summarized as follows.
-  - Melee weapon masters may make a riposte after a successful Parry. A riposte is a quick, Free Action follow-up thrust at their opponent at one grade of Difficulty. They treat their chosen weapon as 1 grade larger: Large to Huge, Huge to Enormous, and Enormous to Colossal for the purpose of deflecting damage.
-  - Ranged masters may shift the result of a Hit Location roll to an adjacent location assuming the target is within the weapon's Close Range, as per the Marksman Special Effect.
+Ao alcançar a Patente 3, você automaticamente progride para Mestre Supremo se atender aos pré-requisitos.
 
-In addition, for each expenditure of 3 Experience Rolls, you may gain one of the following Abilities (each may only be taken once unless specified otherwise):
+- **Mestre Supremo:** Requer Maestria em Armas na arma escolhida e Habilidade de Combate de 90% ou mais. Um Mestre em Armas agora pode se tornar um Mestre Supremo, ganhando benefícios adicionais dependendo da arma específica escolhida, conforme resumido a seguir.
+  - Mestres em armas corpo a corpo podem realizar uma riposta após um Parry bem-sucedido. Uma riposta é um golpe rápido de Ação Livre contra o oponente com um grau de Dificuldade. Eles tratam sua arma escolhida como 1 grau maior: Grande para Enorme, Enorme para Imenso e Imenso para Colossal para fins de desviar dano.
+  - Mestres em armas à distância podem deslocar o resultado de uma rolagem de Localização de Acerto para uma localização adjacente, assumindo que o alvo esteja dentro do Alcance Próximo da arma, conforme o Efeito Especial do Atirador.
 
-- **Characteristic Increase:** You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Defensive Reflexes:** This Ability requires you to be Unburdened (Less 'Things' carried than STR), wearing nothing more restrictive than light armor. Once per combat You may re-roll a Failed Parry or Evasão roll without spending a Luck Point. You may not re-roll against the same attack more than once, however, nor combine with a Luck Point.
-- **Greater Sweeping Strike:** Requires Sweeping Strike and Combat Skill of 90% or higher. As per Sweeping Strike, but it may be performed against all enemies in reach and in line of sight. The attacks may not sweep past a friendly unit positioned between two opponents. Only one Sweeping Strike may be made per Round.
-- **Weapon Specialization:** Requires Combat Skill of 90% or higher. You may choose another Weapon Specialization.
+Além disso, para cada gasto de 3 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma pode ser adquirida apenas uma vez, a menos que especificado de outra forma):
 
-#### Rank 4:
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Reflexos Defensivos:** Esta Habilidade requer que você esteja Desimpedido (menos "Coisas" carregadas do que FOR), usando nada mais restritivo do que armadura leve. Uma vez por combate, você pode re-rolar uma falha de Parry ou Evasão sem gastar um Ponto de Sorte. No entanto, você não pode re-rolar contra o mesmo ataque mais de uma vez, nem combinar com um Ponto de Sorte.
+- **Golpe Varrido Maior:** Requer Golpe Varrido e Habilidade de Combate de 90% ou mais. Conforme o Golpe Varrido, mas pode ser realizado contra todos os inimigos ao alcance e na linha de visão. Os ataques não podem varrer além de uma unidade amiga posicionada entre dois oponentes. Apenas um Golpe Varrido pode ser realizado por Round.
+- **Especialização em Armas:** Requer Habilidade de Combate de 90% ou mais. Você pode escolher outra Especialização em Armas.
 
-Upon reaching Rank 4, you automatically progress to Grand Master if you meet the prerequisites.
+#### Patente 4:
 
-- **Grand Master:**  Requires Weapon High Mastery and Combat Skill of 110% or higher. A Grand Master of a specific weapon gains benefits depending on the specific weapon chosen. This is summarized as follows:
-  - Melee weapon Grand Masters gain another 1-step improvement to Damage Modifier, for a total of 2 grades (including the bonus from Weapon Specialization).
-  - A Grand Master of a Ranged Weapon may reduce the reload time of a mastered Ranged Weapon by a further point. A weapon with 0 reload time may effectively be readied as a Free Action.
+Ao alcançar a Patente 4, você automaticamente progride para Mestre Supremo se atender aos pré-requisitos.
 
-In addition, for each expenditure of 4 Experience Rolls, you may gain one of the following Abilities (each may only be taken once unless specified otherwise):
+- **Mestre Supremo:** Requer Maestria Suprema em Armas e Habilidade de Combate de 110% ou mais. Um Mestre Supremo de uma arma específica ganha benefícios dependendo da arma escolhida. Isso é resumido a seguir:
+  - Mestres Supremos de armas corpo a corpo ganham mais uma melhoria de 1 passo no Modificador de Dano, totalizando 2 graus (incluindo o bônus da Especialização em Armas).
+  - Um Mestre Supremo de uma Arma à Distância pode reduzir o tempo de recarga de uma Arma à Distância dominada por mais um ponto. Uma arma com 0 tempo de recarga pode ser preparada efetivamente como uma Ação Livre.
 
-- **Characteristic Increase:**  You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Greater Brute Strength:**  As for Brute Strength, however, you may perform this Ability twice per day, and the first use causes no loss of Fatigue. You suffer the loss of one level of Fatigue after the second use.
-- **Weapon Specialization:**  Requires Combat Skill of 110% or higher. You may choose another Weapon Specialization.
+Além disso, para cada gasto de 4 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma pode ser adquirida apenas uma vez, a menos que especificado de outra forma):
 
-#### Rank 5:
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Força Bruta Maior:** Assim como Força Bruta, no entanto, você pode realizar essa Habilidade duas vezes por dia, e o primeiro uso não causa perda de Fadiga. Você sofre a perda de um nível de Fadiga após o segundo uso.
+- **Especialização em Armas:** Requer Habilidade de Combate de 110% ou mais. Você pode escolher outra Especialização em Armas.
 
-Upon reaching Rank 5, you automatically progress to Legendary Master if you meet the prerequisites.
+#### Patente 5:
 
-- **Legendary Master:** Requires Weapon Grand Mastery and Combat Skill of 130% or higher. A Grand Master of a weapon gains additional benefits depending on the specific weapon chosen, as follows:
-  - A Legendary Master's melee weapon is treated as 2 grades larger when Parrying: Large to Enormous, Huge to Colossal, and so on.
-  - An archer may nock two arrows and fire them at one grade of difficulty. They may fire 3 arrows at two grades of difficulty. In either case, the target must be within the weapon's Close Range, and if firing at multiple targets, each must be within 5 feet of another.
-  - A slinger or blade thrower may hurl additional stones, bullets, or knives as per an Archer.
-  - A crossbow master may reduce the reload time by a further point. A weapon with 0 reload time may effectively be readied as a Free Action.
+Ao alcançar a Patente 5, você automaticamente progride para Mestre Lendário se atender aos pré-requisitos.
 
-In addition, for each expenditure of 5 Experience Rolls, you may gain one of the following Abilities (each may only be taken once unless specified otherwise):
+- **Mestre Lendário:** Requer Maestria Suprema em Armas e Habilidade de Combate de 130% ou mais. Um Mestre Supremo de uma arma ganha benefícios adicionais dependendo da arma escolhida, conforme segue:
+  - A arma corpo a corpo de um Mestre Lendário é tratada como 2 graus maiores ao realizar Parry: Grande para Enorme, Enorme para Colossal, e assim por diante.
+  - Um arqueiro pode engatilhar duas flechas e dispará-las com um grau de dificuldade. Eles podem disparar 3 flechas com dois graus de dificuldade. Em ambos os casos, o alvo deve estar dentro do Alcance Próximo da arma e, se estiver disparando em múltiplos alvos, cada um deve estar a menos de 5 pés de outro.
+  - Um lançador de pedras ou lâminas pode arremessar pedras, balas ou facas adicionais como um Arqueiro.
+  - Um mestre de besta pode reduzir o tempo de recarga por mais um ponto. Uma arma com 0 tempo de recarga pode ser preparada efetivamente como uma Ação Livre.
 
-- **Characteristic Increase:** You may add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Defensive Reflexes II:** Requires Defensive Reflexes. As per Defensive Reflexes, however, you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once, however, nor combine with a Luck Point.
-- **Weapon Specialization:** Requires Combat Skill of 130% or higher. You may choose another Weapon Specialization.
+Além disso, para cada gasto de 5 Rolagens de Experiência, você pode ganhar uma das seguintes Habilidades (cada uma pode ser adquirida apenas uma vez, a menos que especificado de outra forma):
 
-### Fighter's Basic Starting Equipment
+- **Aumento de Característica:** Você pode adicionar +1 a uma Característica de sua escolha. Isso não pode exceder os máximos raciais.
+- **Reflexos Defensivos II:** Requer Reflexos Defensivos. Assim como Reflexos Defensivos, no entanto, agora você pode usar essa Habilidade duas vezes no mesmo combate. Você não pode re-rolar contra o mesmo ataque mais de uma vez, nem combinar com um Ponto de Sorte.
+- **Especialização em Armas:** Requer Habilidade de Combate de 130% ou mais. Você pode escolher outra Especialização em Armas.
 
-Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise noted.
+### Equipamento Básico Inicial do Guerreiro
 
-- Long sword
-- Round shield (counts as 2 Things)
-- Short bow
-- Quiver with 20 arrows
-- Full set of chain armor, 5 Armor Points (0 Things when worn, 14 Things if carried)
-- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, 2 six-hour torches (5½ Things contained)
-- Belt pouch with 2d4 gold pieces
+Cada item listado conta como 1 'Coisa' para fins de carga, a menos que indicado de outra forma.
 
-Total ENC: 7 Things
+- Espada longa
+- Escudo redondo (conta como 2 Coisas)
+- Arco curto
+- Aljava com 20 flechas
+- Conjunto completo de armadura de malha, 5 Pontos de Armadura (0 Coisas quando vestida, 14 Coisas se carregada)
+- Mochila (capacidade de 10 Coisas); cantil, rações de trilha para uma semana, saco de dormir, saco pequeno vazio\*, pederneira e isqueiro\*\*, 2 tochas de seis horas (5½ Coisas contidas)
+- Bolsa de cintura com 2d4 peças de ouro
 
+Total de Carga: 7 Coisas
 
-_\* Contents count toward the backpack's contents as its volume is increased._
+_\* O conteúdo conta para a capacidade da mochila, pois seu volume é aumentado._
 
-_\*\* Counts as ½ a Thing._
+_\*\* Conta como ½ Coisa._
 
+ 
 ---
-##  Magic-User (Mage)
+## Usuário de Magia (Mago)
 
-Magic-users study the esoteric, digging through old musty tombs for new and elusive spells to add to their spell books. They spend much of their free time studying these spells and learning to master the powers found within them. While weak starting out, mages have the potential to become the most powerful of the Classes.
+Usuários de magia estudam o esotérico, vasculhando velhos e empoeirados túmulos em busca de feitiços novos e elusivos para adicionar aos seus livros de magia. Eles passam grande parte do seu tempo livre estudando esses feitiços e aprendendo a dominar os poderes encontrados neles. Embora fracos no início, os magos têm o potencial de se tornar os mais poderosos das Classes.
 
-#### Common Species/Culture
+#### Espécies/Culturas Comuns
 
-Any, but typically Civilized and Nomadic humans, as well as gnomes, elves, and half-elves. Gnomes that become mages tend to gravitate toward the School of Illusion.
+Qualquer uma, mas tipicamente humanos Civilizados e Nômades, além de gnomos, elfos e meio-elfos. Gnomos que se tornam magos tendem a se inclinar para a Escola da Ilusão.
 
-#### Important Characteristics
+#### Características Importantes
 
-DEX, INT, and POW
+DEX, INT e POW
 
-#### Alinhamento/Oath Requirements
+#### Requisitos de Alinhamento/Juramento
 
-- Alinhamento: Mages are not restricted by Alinhamento and require no Oath.
+- Alinhamento: Os Magos não têm restrições de Alinhamento e não requerem Juramento.
 
-See [Chapter 4: Alinhamento and Passions](0004_Alignment_and_Passions.md).
+Veja [Capítulo 4: Alinhamento e Paixões](0004_Alignment_and_Passions.md).
 
-#### Class Skills
+#### Habilidades de Classe
 
-- **Perícias Comuns:** Evasão, Primeiros Socorros, Influência, Intuição, Local, Percepção, Força de Vontade
-- **Perícias Profissionais:** A mage automatically receives Arcane Casting and Arcane Knowledge, plus 3 additional skills from the following: Culture (qualquer), Idioma (qualquer), Saber (Alchemy), Saber (qualquer)
+- **Habilidades Comuns:** Evasão, Primeiros Socorros, Influência, Intuição, Local, Percepção, Força de Vontade
+- **Habilidades Profissionais:** Um mago recebe automaticamente Conjuração Arcana e Conhecimento Arcano, mais 3 habilidades adicionais das seguintes: Cultura (qualquer), Idioma (qualquer), Saber (Alquimia), Saber (qualquer)
 
-#### Mage Armor and Weapon Proficiency
+#### Armadura e Proficiência em Armas dos Magos
 
-Mages are not proficient with any type of armor or shields, as Arcane spells require precise gestures and Movimentos during casting, which are hindered by the wearing of armor. They are typically not trained in physical combat; therefore, the mage Combat Skill may only be developed with Bonus Skill Points. It includes the use of daggers, darts, slings, quarterstaffs, and light crossbows, simple weapons commonly found around their master's residence or that are relatively easy to pick up and learn.
+Magos não têm proficiência com nenhum tipo de armadura ou escudo, pois os feitiços Arcanos requerem gestos precisos e movimentos durante a conjuração, que são prejudicados pelo uso de armaduras. Eles geralmente não são treinados em combate físico; portanto, a Habilidade de Combate do mago só pode ser desenvolvida com Pontos de Habilidade Bônus. Ela inclui o uso de adagas, dardos, estilingues, cajados e bestas leves, armas simples comumente encontradas na residência de seus mestres ou que são relativamente fáceis de pegar e aprender.
 
-### Rank Structure
+### Estrutura de Rank
 
-All mages are rated by Rank, which is a rating of power and skill. When a specific degree of mastery is gained in a limited number of Class skills, mages may increase their Rank as they will have demonstrated the necessary level of aptitude. When this level of aptitude is reached an additional Luck Point is gained and new Abilities may be acquired. This information is found below on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Advancement. Assuming you meet the prerequisites, your character begins as a Rank 1 Journeyman with the appropriate Abilities noted below; otherwise, you start as a Rank 0 Apprentice with the Ability to cast Rank 0 spells, and no other Abilities.
+Todos os magos são classificados por Rank, que é uma avaliação de poder e habilidade. Quando um grau específico de maestria é alcançado em um número limitado de habilidades de Classe, os magos podem aumentar seu Rank, pois terão demonstrado o nível necessário de aptidão. Quando esse nível de aptidão é alcançado, um Ponto de Sorte adicional é ganho e novas Habilidades podem ser adquiridas. Essas informações são encontradas abaixo na [Tabela de Rank de Mago](0003_Classes.md?id=mage-rank-table) sob Avanço. Supondo que você atenda aos pré-requisitos, seu personagem começa como um Aprendiz de Rank 1 com as Habilidades apropriadas listadas abaixo; caso contrário, você começa como um Aprendiz de Rank 0 com a capacidade de conjurar feitiços de Rank 0, e nenhuma outra Habilidade.
 
-##### Mage Rank Table
+##### Tabela de Rank de Mago
 
-| Rank | Title | Advancement | Spells in Memory | Hit Points | Luck Points | Action Points |
+| Rank | Título | Avanço | Feitiços em Memória | Pontos de Vida | Pontos de Sorte | Pontos de Ação |
 | :-: | :-- | :-- | :-- | :-: | :-: | :-: |
-| **0** | Apprentice | - | Rank 0: (INT/4) | 0 | +0 | +0 |
-| **1** | Journeyman | Any 5 Class skills at 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
-| **2** | Mage | Any 5 Class skills at 70% | Rank 0: (INT/4) +2 <br> Rank 1: (INT/4) +2 <br> Rank 2: (INT/4) | +1 | +1 | +1 |
-| **3** | Adept Mage | Any 4 Class skills at 90% | Rank 0: (INT/4) +3 <br> Rank 1: (INT/4) +4 <br> Rank 2: (INT/4) +2 <br> Rank 3: (INT/4) | +1 | +2 | +1 |
-| **4** | Arch Mage | Any 3 Class skills at 110% | Rank 0: (INT/4) +4 <br> Rank 1: (INT/4) +6 <br> Rank 2: (INT/4) +4 <br> Rank 3: (INT/4) +2 <br> Rank 4: (INT/4) | +2 | +3 | +2 |
-| **5** | Grand Arch Mage | Any 2 Class skills at 130% | Rank 0: (INT/4) +5 <br> Rank 1: (INT/4) +8 <br> Rank 2: (INT/4) +6 <br> Rank 3: (INT/4) +4 <br> Rank 4: (INT/4) +2 <br> Rank 5: (INT/4) | +2 | +4 | +2 |
+| **0** | Aprendiz | - | Rank 0: (INT/4) | 0 | +0 | +0 |
+| **1** | Jornaleiro | 5 habilidades de Classe a 40% | Rank 0: (INT/4) +1<br> Rank 1: (INT/4) | 0 | +0 | +0 |
+| **2** | Mago | 5 habilidades de Classe a 70% | Rank 0: (INT/4) +2 <br> Rank 1: (INT/4) +2 <br> Rank 2: (INT/4) | +1 | +1 | +1 |
+| **3** | Mago Adestrado | 4 habilidades de Classe a 90% | Rank 0: (INT/4) +3 <br> Rank 1: (INT/4) +4 <br> Rank 2: (INT/4) +2 <br> Rank 3: (INT/4) | +1 | +2 | +1 |
+| **4** | Arquimago | 3 habilidades de Classe a 110% | Rank 0: (INT/4) +4 <br> Rank 1: (INT/4) +6 <br> Rank 2: (INT/4) +4 <br> Rank 3: (INT/4) +2 <br> Rank 4: (INT/4) | +2 | +3 | +2 |
+| **5** | Grande Arquimago | 2 habilidades de Classe a 130% | Rank 0: (INT/4) +5 <br> Rank 1: (INT/4) +8 <br> Rank 2: (INT/4) +6 <br> Rank 3: (INT/4) +4 <br> Rank 4: (INT/4) +2 <br> Rank 5: (INT/4) | +2 | +4 | +2 |
 
-#### Starting Abilities
+#### Habilidades Iniciais
 
-The mage knows the following Abilities at Rank 1. In addition, during character creation, you may choose one Rank 1 Ability for free assuming you meet its requirements.
+O mago conhece as seguintes Habilidades no Rank 1. Além disso, durante a criação do personagem, você pode escolher uma Habilidade do Rank 1 gratuitamente, desde que atenda aos seus requisitos.
 
-- **Spellcaster:** While mages are very weak at the beginning of their careers, at the other end of the spectrum, they can cast the most spectacular and powerful of spells, able to burn armies, and collapse castles with impunity. All Arcane spells require precise gestures and Movimentos (the spell's somatic component) during casting, which are hindered by the wearing of armor. See the [Casting in Armor](0009_Magic.md?id=casting-in-armor) section for specific information. The number of spells of their current Rank a mage may have in memory is found on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table), above, under Spells in Memory.
-- **Starting Spells:** Cantrips are the first magical abilities taught to an apprentice mage and are fully defined in the [Spells](0010_Spells.md) chapter. A mage begins with knowledge of the Rank 0 cantrip Read Magic, as well as two cantrips (Rank 0) for every 1/10th Arcane Knowledge (skill x 0.1). If the mage qualifies as Rank 1, they also know one Rank 1 spell for every 1/10th Arcane Knowledge. The number of spells the mage may have prepared at each Rank is found above on the [Mage Rank Table](0003_Classes.md?id=mage-rank-table) under Spells in Memory. See the [Mage Spell List](0003_Classes.md?id=mage-spell-list) below and the section on [Memorizing Spells](0009_Magic.md?id=memorizing-spells).
+- **Conjurador de Feitiços:** Embora os magos sejam muito fracos no início de suas carreiras, no outro extremo do espectro, eles podem conjurar os feitiços mais espetaculares e poderosos, capazes de queimar exércitos e derrubar castelos com impunidade. Todos os feitiços Arcanos requerem gestos precisos e Movimentos (o componente somático do feitiço) durante a conjuração, que são prejudicados pelo uso de armaduras. Veja a seção [Conjurando com Armadura](0009_Magic.md?id=casting-in-armor) para informações específicas. O número de feitiços do seu Rank atual que um mago pode ter em memória é encontrado na [Tabela de Rank de Mago](0003_Classes.md?id=mage-rank-table), acima, em Feitiços em Memória.
+- **Feitiços Iniciais:** Cantrips são as primeiras habilidades mágicas ensinadas a um aprendiz de mago e são totalmente definidas no capítulo [Feitiços](0010_Spells.md). Um mago começa com o conhecimento do cantrip Rank 0 Ler Magia, bem como dois cantrips (Rank 0) para cada 1/10 de Conhecimento Arcano (habilidade x 0,1). Se o mago se qualificar como Rank 1, ele também conhece um feitiço Rank 1 para cada 1/10 de Conhecimento Arcano. O número de feitiços que o mago pode preparar em cada Rank é encontrado acima na [Tabela de Rank de Mago](0003_Classes.md?id=mage-rank-table) em Feitiços em Memória. Veja a [Lista de Feitiços do Mago](0003_Classes.md?id=mage-spell-list) abaixo e a seção sobre [Memorizando Feitiços](0009_Magic.md?id=memorizing-spells).
 
-#### Ranked Abilities
+#### Habilidades Classificadas
 
-As the name implies, Ranked Abilities are only selectable by a character of a certain Rank or higher. Most have a Prerequisite Skill that must be at a certain skill level or higher before it may be selected. You are not locked out of earlier Abilities when a new Rank is attained. If you failed to take a Rank 2 Ability for example, you may go back and take it at Rank 3 or even later. No more than a Cantole Ability may be taken per session.
+Como o nome sugere, Habilidades Classificadas só podem ser selecionadas por um personagem de um certo Rank ou superior. A maioria tem uma Habilidade Pré-requisito que deve estar em um certo nível de habilidade ou superior antes que possa ser selecionada. Você não está impedido de obter Habilidades anteriores quando alcança um novo Rank. Se você falhou em adquirir uma Habilidade do Rank 2, por exemplo, você pode retroceder e adquiri-la no Rank 3 ou mesmo mais tarde. Não mais do que uma Habilidade Cantole pode ser obtida por sessão.
 
 #### Rank 1:
 
-For each expenditure of 1 Experience Roll you may gain one of the following Abilities (one Ability per session, each Ability may only be taken once):
+Para cada gasto de 1 Rolagem de Experiência, você pode obter uma das seguintes Habilidades (uma Habilidade por sessão, cada Habilidade só pode ser obtida uma vez):
 
-- **Powerful Concentration:**  Requires Arcane Casting of 50% or higher. Força de Vontade tests to maintain Concentration regarding spells and spell casting are one Difficulty Grade easier.
-- **Mental Strength:**  Requires Arcane Casting of 60% or higher. Once per day you find it 2 Difficulty Grades easier to perform Força de Vontade checks when resisting any form of magic that targets the mind. This includes such powers as beguiling, charm, domination, hold, hypnosis, Magic Jar, possession, sleep, suggestion, and psionic mind blast. It has no effect on skills such as Influência or Seduction. You also find it 1 grade easier to Disbelieve illusions and phantasms. In the case of elves, this does not stack with their resistance to Sleep and Charm, but it does broaden their ability to resist additional effects.
-- **Weapon Precision:**  You are adept at uCanto small, Ocultaçãoable, weapons that do not require a lot of strength, subtly and effectively. This allows you to calculate Damage Modifier with these weapons based on STR+DEX instead of STR+SIZ, whichever generates a better result. The Damage Modifier cannot exceed the weapon's normal damage die. For example, a dagger with a damage of 1d4+1, would be limited to a Damage Modifier of +1d4. This covers clubs, daggers, garrotes, knives, shortswords, main gauche, and rapiers. As well as unarmed attacks. Darts, slings, short bows, and javelins fall into this category as well.
+- **Concentração Poderosa:** Requer Conjurador Arcano de 50% ou mais. Testes de Força de Vontade para manter a Concentração em relação a feitiços e conjuração de feitiços são uma Dificuldade de Grau mais fácil.
+- **Força Mental:** Requer Conjurador Arcano de 60% ou mais. Uma vez por dia, você acha 2 Graus de Dificuldade mais fáceis de realizar testes de Força de Vontade ao resistir a qualquer forma de magia que afete a mente. Isso inclui poderes como encantamento, domínio, controle, hipnose, Jarro Mágico, possessão, sono, sugestão e explosão mental psíquica. Não tem efeito em habilidades como Influência ou Sedução. Você também acha 1 grau mais fácil de Desacreditar ilusões e fantasmas. No caso dos elfos, isso não se acumula com a resistência deles ao Sono e Encanto, mas amplia sua capacidade de resistir a efeitos adicionais.
+- **Precisão com Armas:** Você é hábil no uso de armas pequenas, ocultáveis, que não requerem muita força, de forma sutil e eficaz. Isso permite calcular o Modificador de Dano com essas armas com base em FOR+DEX em vez de FOR+SIZ, o que gerar um resultado melhor. O Modificador de Dano não pode exceder o dado de dano normal da arma. Por exemplo, uma adaga com um dano de 1d4+1 seria limitada a um Modificador de Dano de +1d4. Isso inclui clavas, adagas, garrotes, facas, espadas curtas, punhais e floretes. Bem como ataques desarmados. Dardos, atiradeiras, arcos curtos e lanças também se enquadram nesta categoria.
 
 #### Rank 2:
 
-For each expenditure of 2 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+Para cada gasto de 2 Rolagens de Experiência, você pode obter uma das seguintes Habilidades (cada uma só pode ser obtida uma vez):
 
-- **Characteristic Increase:**  Add +1 to a Characteristic of your chooCanto. This must not exceed racial maximums.
-- **Mental Strength II:**  Requires Mental Strength and Arcane Knowledge of 80% or higher. As per Mental Strength, but usable twice per day.
-- **Ranged Touch (X)**: Requires Força de Vontade of 80% or higher. This Ability allows the caster to give a spell with a Range of "Touch," a Range of 30 feet instead. The spell is considered one Rank higher with regards to memorization and should be noted as ranged when memorized. For example, Invisibility (Ranged) would count as a Rank 2 spell.
+- **Aumento de Característica:** Adicione +1 a uma Característica de sua escolha. Isso não deve exceder os máximos raciais.
+- **Força Mental II:** Requer Força Mental e Conhecimento Arcano de 80% ou mais. Como Força Mental, mas utilizável duas vezes por dia.
+- **Toque à Distância (X)**: Requer Força de Vontade de 80% ou mais. Essa Habilidade permite ao conjurador dar a um feitiço com um Alcance de "Toque" um Alcance de 30 pés em vez disso. O feitiço é considerado um Rank superior em relação à memorização e deve ser anotado como à distância ao ser memorizado. Por exemplo, Invisibilidade (À Distância) contaria como um feitiço de Rank 2.
 
 #### Rank 3:
 
-For each expenditure of 3 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+Para cada gasto de 3 Rolagens de Experiência, você pode obter uma das seguintes Habilidades (cada uma só pode ser obtida uma vez):
 
-- **Characteristic Increase:** Add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Defensive Reflexes:** Defensive Reflexes requires you to be Unburdened (Less 'Things' carried than STR), wearing nothing more restrictive than light armor. Once per combat you may re-roll a Failed Parry or Evasão roll without spending a Luck Point. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
-- **Mental Strength III:** Requires Mental Strength II and Arcane Knowledge of 100% or higher. As per Mental Strength, but usable three times per day.
+- **Aumento de Característica:** Adicione +1 a uma Característica de sua escolha. Isso não deve exceder os máximos raciais.
+- **Reflexos Defensivos:** Reflexos Defensivos requer que você esteja Desimpedido (Menos 'Coisas' carregadas do que FOR), usando nada mais restritivo do que armadura leve. Uma vez por combate, você pode rolar novamente um Parry ou Evasão falho sem gastar um Ponto de Sorte. No entanto, você não pode rolar novamente contra o mesmo ataque mais de uma vez, nem combinar com um Ponto de Sorte.
+- **Força Mental III:** Requer Força Mental II e Conhecimento Arcano de 100% ou mais. Como Força Mental, mas utilizável três vezes por dia.
 
 #### Rank 4:
 
-For each expenditure of 4 Experience Rolls you may gain one of the following Abilities (each may only be taken once):
+Para cada gasto de 4 Rolagens de Experiência, você pode obter uma das seguintes Habilidades (cada uma só pode ser obtida uma vez):
 
-- **Characteristic Increase:**  Add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Mental Strength IV:**  Requires Mental Strength III and Arcane Knowledge of 120% or higher. As per Mental Strength, but usable four times per day.
+- **Aumento de Característica:** Adicione +1 a uma Característica de sua escolha. Isso não deve exceder os máximos raciais.
+- **Força Mental IV:** Requer Força Mental III e Conhecimento Arcano de 120% ou mais. Como Força Mental, mas utilizável quatro vezes por dia.
 
 #### Rank 5:
 
-For each expenditure of 5 Experience Rolls, you may gain one of the following Abilities (each may only be taken once):
+Para cada gasto de 5 Rolagens de Experiência, você pode obter uma das seguintes Habilidades (cada uma só pode ser obtida uma vez):
 
-- **Characteristic Increase:** Add +1 to a Characteristic of your chooCanto. This may not exceed racial maximums.
-- **Defensive Reflexes II:** Requires Defensive Reflexes. As per Defensive Reflexes, however you may now use this Ability twice in the same combat. You may not re-roll against the same attack more than once however, nor combine with a Luck Point.
-- **Mental Strength V:** Requires Mental Strength IV and Arcane Knowledge of 140% or higher. As per Mental Strength, but usable five times per day.
+- **Aumento de Característica:** Adicione +1 a uma Característica de sua escolha. Isso não deve exceder os máximos raciais.
+- **Reflexos Defensivos II:** Requer Reflexos Defensivos. Como Reflexos Defensivos, no entanto, você pode agora usar esta Habilidade duas vezes no mesmo combate. No entanto, você não pode rolar novamente contra o mesmo ataque mais de uma vez, nem combinar com um Ponto de Sorte.
+- **Força Mental V:** Requer Força Mental IV e Conhecimento Arcano de 140% ou mais. Como Força Mental, mas utilizável cinco vezes por dia.
 
-### Mage's Basic Starting Equipment
+### Equipamento Básico Inicial do Mago
 
-Each line item counts as 1 'Thing' for Encumbrance purposes unless otherwise noted.
+Cada item listado conta como 1 'Coisa' para fins de Encumbrance, a menos que indicado de outra forma.
 
-- Staff (counts as 2 Things)
-- 3 darts (½ a Thing each)
-- Common, undecorated clothing, 0 Armor Points (0 Things when worn, 1 Thing if carried)
-- Spell book
-- Spell component pouch
-- Backpack (10 Thing capacity); waterskin, one week's trail rations, bedroll, small empty sack\*, flint and tinder\*\*, 10 two-hour candles\*\*, 10 pages of parchment\*\* , quill and bottle of ink\*\* (6 things contained)
-- Belt pouch with 3d6 gold pieces
+- Cajado (conta como 2 Coisas)
+- 3 dardos (½ Coisa cada)
+- Roupas comuns e sem decoração, 0 Pontos de Armadura (0 Coisas quando vestidas, 1 Coisa se carregadas)
+- Livro de feitiços
+- Bolsa de componentes de feitiços
+- Mochila (capacidade para 10 Coisas); cantil, rações de trilha para uma semana, saco vazio pequeno\*, pedra de faísca e pederneira\*\*, 10 velas de duas horas\*\*, 10 páginas de pergaminho\*\*, pena e frasco de tinta\*\* (6 Coisas contidas)
+- Bolsa de cintura com 3d6 peças de ouro
 
-Total ENC: 7 Things
+Total de ENC: 7 Coisas
 
-_\* Contents count toward the backpack's contents as its volume is increased._
+_\* O conteúdo conta como parte do conteúdo da mochila, pois seu volume é aumentado._
 
-_\*\* Counts as ½ a Thing._
+_\*\* Conta como ½ Coisa._
+
 
 
 ### Mage Spell List
