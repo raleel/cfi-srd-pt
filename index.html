@@ -26,6 +26,15 @@
   href="./_assets/css/style.css"
   type="text/css"
 />
+
+<!-- Collapsable Menu: arrow style
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+-->
+
+<!-- Collapsable Menu: folder style
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+-->
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport"
@@ -40,7 +49,6 @@
    
    <link rel="icon" href="_media/favicon.ico">
 
-
 </head>
 
 <body>
@@ -50,7 +58,7 @@
     // Docsify Configuration (see https://docsify.js.org/#/configuration)
     window.$docsify = {
       name: 'Menu',
-      //logo: '/_media/icon.png',
+      logo: '/_media/Classic_Fantasy_logo.png',
 
       // Sidebar Configuration
       auto2top: true,
@@ -58,6 +66,7 @@
       maxLevel: 3,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
       subMaxLevel: 3,
+      //sidebarDisplayLevel: 0, // set sidebar display level in collapsable menus
 
       // Search Plugin Configuration
       search: {
@@ -83,7 +92,6 @@
   <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
 
   <!-- Material Icons -->
-  
 
   <!-- Recommended -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
@@ -91,6 +99,12 @@
 
   <!-- Recommended -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  
+  <!-- Footnotes -->
+  <script src="//cdn.jsdelivr.net/npm/@sy-records/docsify-footnotes/lib/index.min.js"></script>
+
+  <!-- Collapsable Menu -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 
 </body>
 </html>
