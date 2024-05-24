@@ -10,7 +10,7 @@
 - [Magic <span style="color:red">❌</span>](0009_Magic.md)
 - [Spells <span style="color:red">❌</span>](0010_Spells.md)
 - [Monsters & Treasure <span style="color:red">❌</span>](Appendix_A_Monsters_And_Treasures.md)
-- [Conversion Tables <span style="color:red">❌</span>](Appendix_B_Conversion_Tables.md)
+- [Tabelas de Conversão <span style="color:green">✔</span>](Appendix_B_Conversion_Tables.md)
 
 ---
 

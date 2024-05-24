@@ -1,112 +1,114 @@
-# Appendix: Conversion Tables
+# Apêndice: Tabelas de Conversão
 
 ---
-#### Imperial Weights and Measures to Metric Conversion
+#### Conversão de Pesos e Medidas Imperiais para Métricas
 
-To give _Classic Fantasy Imperative_ a cleaner presentation, make it easier to read, and condense descriptions and tables, _Classic Fantasy Imperative_ line will focus on Imperial measurements as opposed to both Imperial and Metric. Imperial was chosen to better facilitate conversion of existing material as most adventures, battlemats, and maps used by other games in the genre utilize the Imperial system. However, for those wishing to use the Metric System, the most commonly used weights and measures have been converted uCanto the following tables. Because we are not typically dealing with real-world creatures, spells, and so on, we can grant a little leeway in the weights and measures we've made up for them. Rather than uCanto exact conversions, it is easier to use one that can be easily remembered, thus better facilitating game play.
+Para dar ao _Classic Fantasy Imperative_ uma apresentação mais limpa, facilitar a leitura e condensar descrições e tabelas, a linha _Classic Fantasy Imperative_ se concentrará nas medidas imperiais em vez de usar medidas imperiais e métricas simultaneamente. O Sistema Imperial foi escolhido para melhor facilitar a conversão do material existente, já que a maioria das aventuras, grids de batalha e mapas usados por outros jogos do gênero utilizam o Sistema Imperial. Porém, para quem deseja utilizar o Sistema Métrico, os pesos e medidas mais utilizados foram convertidos usando as tabelas a seguir. Como normalmente não estamos lidando com criaturas, feitiços e outras coisas do mundo real, a conversão não precisa ser muito precisa, podendo ser aproximada. Em vez de usar conversões exatas, é mais fácil usar uma que possa ser facilmente lembrada, facilitando a jogabilidade.
 
 ---
 #### Imperial to Metric Estimated Conversion Table
 
-| Imperial | Metric | Common Uses, Examples, and Battlemat Conversions |
+| Imperial | Métrico | Usos comuns, exemplos e conversões de grids de batalha |
 | :-: | :-: | :-- |
-| 1' | 30cm | |
-| 3' | 1m | |
-| 5' | 1.5m | 1 battlemat square |
-| 7' | 2m | |
-| 10' | 3m | 2 battlemat squares |
-| 15' | 4m | 3 battlemat squares; dwarf, gnome, and halfling |
-| 20' | 6m | 4 battlemat squares; human, elf, half-elf, and half-orc |
-| 25' | 8m | 5 battlemat squares |
-| 30' | 10m | 6 battlemat squares |
-| 40' | 12m | 8 battlemat squares |
-| 45' | 14m | 9 battlemat squares |
-| 50' | 15m | 10 battlemat squares; typical dragon flight speed |
-| 60' | 18m | 12 battlemat squares; typical Infravision |
-| 65' | 20m | 13 battlemat squares |
-| 100' | 30m | 20 battlemat squares |
-| 120' | 36m | |
-| 150' | 46m | |
-| 180' | 55m | |
-| 200' | 60m | |
-| 250' | 75m | |
-| 300' | 90m | |
-| 330' | 100m | |
-| 360' | 110m | |
-| 500' | 150m | |
-| 1000' | 300m | |
-| 1200' | 360m | |
-| 1320' / ¼ mile | 400m | |
-| ½ mile | 1km | |
-| 1 mile | 1.5km | |
-| 3 miles | 5km | |
-| 6 miles | 10km | |
-| 10 miles | 15km | |
-| 12 miles | 20km | |
-| 20 miles | 30km | |
-| 25 miles | 40km | |
-| 2.2lb | 1kg | |
+| 1 pé | 30 cm | |
+| 3 pés | 1 m | |
+| 5 pés | 1,5 m | 1 quadrado de grid de batalha |
+| 7 pés | 2 m | |
+| 10 pés | 3 m | 2 quadrados de grid |
+| 15 pés | 4 m | 3 quadrados de grid; anão, gnomo, e halfling |
+| 20 pés | 6 m | 4 quadrados de grid; humano, elfo, meio-elfo, e meio-orc |
+| 25 pés | 8 m | 5 quadrados de grid |
+| 30 pés | 10 m | 6 quadrados de grid |
+| 40 pés | 12 m | 8 quadrados de grid |
+| 45 pés | 14 m | 9 quadrados de grid |
+| 50 pés | 15 m | 10 quadrados de grid; velocidade típica de voo de dragão |
+| 60 pés | 18 m | 12 quadrados de grid; Infravisão típica |
+| 65 pés | 20 m | 13 quadrados de grid |
+| 100 pés | 30 m | 20 quadrados de grid |
+| 120 pés | 36 m | |
+| 150 pés | 46 m | |
+| 180 pés | 55 m | |
+| 200 pés | 60 m | |
+| 250 pés | 75 m | |
+| 300 pés | 90 m | |
+| 330 pés | 100 m | |
+| 360 pés | 110 m | |
+| 500 pés | 150 m | |
+| 1000 pés | 300 m | |
+| 1200 pés | 360 m | |
+| 1320 pés (¼ milha) | 400 m | |
+| ½ milha | 1 km | |
+| 1 milha | 1,5 km | |
+| 3 milhas | 5 km | |
+| 6 milhas | 10 km | |
+| 10 milhas | 15 km | |
+| 12 milhas | 20 km | |
+| 20 milhas | 30 km | |
+| 25 milhas | 40 km | |
+| 2,2 lb | 1 kg | |
+
+OBS.: os países de língua inglesa usam um apóstrofo ( ’ ) para designar "pés" (_feet_ ou _ft._) e dois apóstrofos ( '' ) para polegadas (_inches_ ou _in_.).
 
 ---
-#### Temperature Table Benchmarks
+#### Referências da Tabela de Temperatura
 
-| Fahrenheit | Celsius | 
-| :-: | :-: |
-| -22.0ºF | -30ºC | |
-| -11.2ºF | -25ºC | |
-| -2.2ºF | -20ºC | |
-| 5.0ºF | -15ºC | |
-| 14.0ºF | -10ºC | |
-| 23.0ºF | -5ºC | |
-| 32.0ºF \* | 0ºC \* | |
-| 41.0ºF | 5ºC | |
-| 50.0ºF | 10ºC | |
-| 59.0ºF | 15ºC | |
-| 68.0ºF | 20ºC | |
-| 77.0ºF | 25ºC | |
-| 86.0ºF | 30ºC | |
-| 104.0ºF | 40ºC ||
-| 122.0ºF | 50ºC | |
-| 140.0ºF | 60ºC | |
-| 158.0ºF | 70ºC | |
-| 176.0ºF | 80ºC | |
-| 194.0ºF | 90ºC | |
-| 212.0ºF \*\*  | 100ºC\*\* | 
+| Fahrenheit     | Celsius     |
+|:--------------:|:-----------:|
+| -22,0 ºF       | -30 ºC      |
+| -11,2 ºF       | -25 ºC      |
+|  -2,2 ºF       | -20 ºC      |
+|   5,0 ºF       | -15 ºC      |
+|  14,0 ºF       | -10 ºC      |
+|  23,0 ºF       |  -5 ºC      |
+|  32,0 ºF \*    |   0 ºC \*   |
+|  41,0 ºF       |   5 ºC      |
+|  50,0 ºF       |  10 ºC      |
+|  59,0 ºF       |  15 ºC      |
+|  68,0 ºF       |  20 ºC      |
+|  77,0 ºF       |  25 ºC      |
+|  86,0 ºF       |  30 ºC      |
+| 104,0 ºF       |  40 ºC      |
+| 122,0 ºF       |  50 ºC      |
+| 140,0 ºF       |  60 ºC      |
+| 158,0 ºF       |  70 ºC      |
+| 176,0 ºF       |  80 ºC      |
+| 194,0 ºF       |  90 ºC      |
+| 212,0 ºF \*\*  | 100 ºC \*\* | 
 
-\* _Freezing point of water_
+\* _Ponto de fusão da água_
 
-\*\* _Boiling point of water_
-
----
-#### Wind Table
-
-| MPH | Type | Effect on Skills | Effect on Movimento |
-| :-: | :-- | :-- | :-- |
-| 0-10 | Calm | None | None |
-| 11-20 | Moderate Breeze | None | None |
-| 21-30 | Strong Breeze | None | Two-Thirds |
-| 31-40 | Light Gale | Hard | Two-Thirds |
-| 41-50 | Moderate Gale | Hard | Half |
-| 51-60 | Strong Gale | Formidable | Half |
-| 60+ | Storm/Hurricane | Formidable | One-Third |
-
-Wind, especially very strong winds, can have an adverse effect on activity. A wind's Strength (STR) is expressed in miles per hour of velocity. Its effect on physical skills – those involving STR or DEX – is detailed in the Skill column; effects on Movimento Rate in the Movimento Rate column.
- 
-_For example, a Light Gale of STR 40 reduces human walking speed to two-thirds and skills are rolled at Hard difficulty._
+\*\* _Ponto de ebulição da água_
 
 ---
-#### Temperature Table
+#### Tabela de Vento
 
-| Temperature (ºF) | Type | Risk |
-| :-: | :-: | :-- |
-| < 2º | Glacial | Seek Immediate Warmth |
-| 3-14º | Freezing | 15 Minutes |
-| 13-32º | Cold | Hourly |
-| 33-50º | Chill | Daily |
-| 51-68º | Cool | - |
-| 69-86º | Warm | - |
-| > 86º | Hot | Hourly |
+| km/h  | Tipo                 | Efeito em Perícias | Efeito no Movimento |
+|:-----:|:---------------------|:-------------------|:--------------------|
+|  0-15 | Calmo                | Nenhum             | Nenhum              |
+| 16-35 | Brisa Moderada       | Nenhum             | Nenhum              |
+| 36-50 | Brisa Forte          | Nenhum             | Dois terços         |
+| 51-65 | Vendaval Leve        | Difícil            | Dois terços         |
+| 66-85 | Vendaval Moderado    | Difícil            | Metade              |
+| 86-95 | Vendaval Forte       | Formidável         | Metade              |
+| 96+   | Tempestade / Furacão | Formidável         | Um terço            |
 
-Temperate can vary dramatically due to climate, season, and elevation, depending on the campaign world and where scenarios are set. The above table provides a guideline for the effects of extreme temperature on characters.
+O vento, especialmente os ventos muito fortes, pode ter um efeito adverso na atividade. A força do vento (FOR) é expressa em quilômetros por hora de velocidade. Seu efeito nas perícias físicas – aquelas que envolvem FOR ou DES – é detalhado na coluna Efeito em Perícias; e os efeitos na Taxa de Movimento na coluna Efeito no Movimento.
 
-Wearing suitable clothing permits a character a grace period of their CON in hours before exposure sets in, as shown in the Risk column. After this point they need to seek shelter or start to suffer Fatigue loss. Wet characters shift the Risk Rate one step cooler. Light or moderate gale force winds also shift Risk Rate by one step cooler, whilst strong gales and storms shift it two steps.
+_Por exemplo, um Vendaval Leve de FOR 65 reduz a velocidade de caminhada humana para dois terços e as perícias são roladas na dificuldade Difícil._
+
+---
+#### Tabela de Temperatura
+
+| Temperatura (ºC) | Tipo       | Risco                   |
+|:----------------:|:----------:|:------------------------|
+| < -17º           | Glacial    | Procure abrigo imediato |
+| -16 a -10º       | Congelante | 15 Minutos              |
+|  -9 a 0º         | Muito Frio | De hora em hora         |
+|   1 a 10º        | Frio       | Diariamente             |
+|  11 a 20º        | Fresco     | -                       |
+|  21 a 30º        | Ameno      | -                       |
+| > 31º            | Quente     | De hora em hora         |
+
+A temperatura pode variar drasticamente devido ao clima, estação e altitude, dependendo do mundo da campanha e de onde os cenários estão situados. A tabela acima fornece uma orientação para os efeitos de temperaturas extremas nos personagens.
+
+Usar roupas adequadas permite ao personagem um período de carência igual à sua CON em horas antes do início dos efeitos da exposição, conforme mostrado na coluna Risco. Após este ponto eles precisam procurar abrigo ou começarão a sofrer perda de Fadiga. Personagens molhados sofrem os efeitos como se estivessem um nível mais frios. Ventos com força de vendaval fraco ou moderado também deslocam a Taxa de Risco em um nível mais frio, enquanto vendavais fortes e tempestades deslocam em dois níveis.
