@@ -33,6 +33,7 @@ Na maior parte do tempo, se o personagem estiver em Bom estado com quaisquer Jur
 - **Pontos de Ação:** certos níveis concedem um Ponto de Ação adicional. Os valores apresentados já incluem os bônus anteriores.
 
 ---
+
 ## Clérigo
 
 Os clérigos são o braço militante de uma ordem religiosa e são habilidosos em proteger sua religião e seus seguidores. Durante períodos de relativa paz, os clérigos viajam pela terra espalhando a palavra de seu panteão e buscando conversões. Os clérigos são abençoados com a capacidade de lançar magias pelas divindades de seu panteão e também são mestres em combate contra os mortos-vivos, possuindo a capacidade de afastá-los com apenas uma oração falada.
@@ -204,8 +205,8 @@ Clérigos malignos podem comandar sua Intensidade de Poder de Afastamento em mor
 
 _(R) indica um feitiço reversível._
 
-
 ---
+
 ## Guerreiro
 
 Guerreiros são soldados profissionais, mercenários e combatentes, e os aventureiros mais comuns nos mundos de fantasia. Seja arrombando portas, brandindo espadas e machados com habilidade e destreza, ou interpondo-se entre os membros menos marciais do grupo e a oposição, onde quer que você encontre aventura, você encontrará o guerreiro.
@@ -360,8 +361,8 @@ _\* O conteúdo conta para a capacidade da mochila, pois seu volume é aumentado
 
 _\*\* Conta como ½ Coisa._
 
- 
 ---
+
 ## Usuário de Magia (Mago)
 
 Usuários de magia estudam o esotérico, vasculhando velhos e empoeirados túmulos em busca de feitiços novos e elusivos para adicionar aos seus livros de magia. Eles passam grande parte do seu tempo livre estudando esses feitiços e aprendendo a dominar os poderes encontrados neles. Embora fracos no início, os magos têm o potencial de se tornar os mais poderosos das Classes.
@@ -504,8 +505,8 @@ _\*\* Conta como ½ Coisa._
 
 _\(R\) indicates a reversible spell._
 
-
 ---
+
 ## Rogue
 
 Rogues are the experts in subterfuge, specializing in Furtividade, traps, lockpicking, and other skills that society often views with suspicion. However, while all thieves are rogues, not all rogues are thieves. Rogues survive by their wits, uCanto their skills of infiltration and Furtividade for the greater Bom. However, the greater Bom often depends on which side of the diamond one is standing.

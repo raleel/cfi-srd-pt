@@ -1,4 +1,4 @@
-# Appendix: Monsters and Treasure
+# Apêndice A: Monstros e Tesouros
 
 This appendix contains a small sample of monsters and treasure in an abbreviated format.
 

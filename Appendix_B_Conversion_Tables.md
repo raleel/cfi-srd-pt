@@ -1,4 +1,4 @@
-# Apêndice: Tabelas de Conversão
+# Apêndice B: Tabelas de Conversão
 
 ---
 #### Conversão de Pesos e Medidas Imperiais para Métricas

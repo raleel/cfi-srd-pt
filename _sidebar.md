@@ -16,5 +16,4 @@
 
 - [Mythras Imperative SRD](https://srd.mythras.net)
 - [BRP UGE SRD](https://brpugesrd.xyz)
-- [BRP UGE SRD (alternativo)](https://bruge.us/rules/srd)
 - [Licença ORC (inclui tradução)](https://drive.google.com/uc?export=download&id=150AL_J-gwJC2FPvmJDJwb1bYU5rCjSoo)
